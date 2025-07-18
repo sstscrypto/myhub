@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/futures/latest/futures/</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/all.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.Future.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.TryFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/trait.FutureExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/trait.TryFutureExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.Stream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.TryStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/trait.StreamExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/trait.TryStreamExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.Sink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/trait.SinkExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.AsyncBufRead.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.AsyncRead.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.AsyncSeek.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/trait.AsyncWrite.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncBufReadExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncReadExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncSeekExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncWriteExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/never/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/index.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.join.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.pending.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.pin_mut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.poll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.ready.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.select.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.select_biased.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.stream_select.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/macro.try_join.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.SendError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.TryRecvError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.TrySendError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.UnboundedReceiver.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/mpsc/struct.UnboundedSender.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/oneshot/struct.Canceled.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/oneshot/struct.Cancellation.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/oneshot/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/channel/oneshot/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/struct.Compat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/struct.Compat01As03.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/struct.Compat01As03Sink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/struct.CompatSink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/struct.Executor01As03.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.BlockingStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.Enter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.EnterError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.LocalPool.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.LocalSpawner.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.ThreadPool.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/executor/struct.ThreadPoolBuilder.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.AbortHandle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.AbortRegistration.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Abortable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Aborted.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.AlwaysReady.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.AndThen.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.CatchUnwind.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.ErrInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Flatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.FlattenSink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.FlattenStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Fuse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.FutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Inspect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.InspectErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.InspectOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.IntoFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.IntoStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Join.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Join3.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Join4.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Join5.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.JoinAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Lazy.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.LocalFutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Map.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.MapErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.MapInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.MapOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.MapOkOrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.NeverError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.OkInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.OptionFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.OrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Pending.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.PollFn.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.PollImmediate.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Ready.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Remote.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.RemoteHandle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Select.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.SelectAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.SelectOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Shared.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.Then.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryFlatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryFlattenStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryJoin.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryJoin3.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryJoin4.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryJoin5.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TryJoinAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.TrySelect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.UnitError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.UnwrapOrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/struct.WeakShared.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.AllowStdIo.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.BufReader.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.BufWriter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Chain.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Close.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Copy.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.CopyBuf.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.CopyBufAbortable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Cursor.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Empty.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Error.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.FillBuf.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Flush.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.IntoSink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.IoSlice.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.IoSliceMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.LineWriter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Lines.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Read.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadExact.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadHalf.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadLine.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadToEnd.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadToString.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadUntil.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReadVectored.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Repeat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.ReuniteError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.SeeKRelative.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Seek.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Sink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Take.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Window.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.Write.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.WriteAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.WriteAllVectored.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.WriteHalf.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/struct.WriteVectored.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.BiLock.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.BiLockAcquire.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.BiLockGuard.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.MappedMutexGuard.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.Mutex.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.MutexGuard.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.MutexLockFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.OwnedMutexGuard.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.OwnedMutexLockFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/lock/struct.ReuniteError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.AbortHandle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.AbortRegistration.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Abortable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Aborted.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.AlwaysReady.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.AndThen.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.CatchUnwind.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.ErrInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Flatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.FlattenSink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.FlattenStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Fuse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.FutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Inspect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.InspectErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.InspectOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.IntoFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.IntoStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Join.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Join3.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Join4.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Join5.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.JoinAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Lazy.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.LocalFutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Map.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.MapErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.MapInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.MapOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.MapOkOrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.NeverError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.OkInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.OptionFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.OrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Pending.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.PollFn.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.PollImmediate.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Ready.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Remote.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.RemoteHandle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Select.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.SelectAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.SelectOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Shared.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.Then.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryFlatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryFlattenStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryJoin.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryJoin3.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryJoin4.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryJoin5.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TryJoinAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.TrySelect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.UnitError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.UnwrapOrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/struct.WeakShared.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Buffer.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Close.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Fanout.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Feed.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Flush.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Send.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.SendAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.SinkErrInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.SinkMapErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.Unfold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.With.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/struct.WithFlatMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.AbortHandle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.AbortRegistration.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Abortable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Aborted.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.All.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.AndThen.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Any.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.BufferUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Buffered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.CatchUnwind.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Chain.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Chunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Collect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Concat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Count.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Cycle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Empty.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Enumerate.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.ErrInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Filter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.FilterMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.FlatMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.FlatMapUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Flatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Fold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.ForEach.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.ForEachConcurrent.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Forward.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Fuse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.FuturesOrdered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.FuturesUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Inspect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.InspectErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.InspectOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.IntoAsyncRead.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.IntoStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Map.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.MapErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.MapOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Next.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.NextIf.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.NextIfEq.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Once.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.OrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Peek.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.PeekMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Peekable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Pending.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.PollFn.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.PollImmediate.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.ReadyChunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Repeat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.RepeatWith.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.ReuniteError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Scan.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Select.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.SelectAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.SelectNextSome.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.SelectWithStrategy.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Skip.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.SkipWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.SplitSink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.SplitStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.StreamFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Take.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TakeUntil.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TakeWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Then.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryAny.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryBufferUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryBuffered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryChunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryChunksError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryCollect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryConcat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryFilter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryFilterMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryFlatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryFlattenUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryFold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryForEach.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryForEachConcurrent.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryNext.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryReadyChunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryReadyChunksError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TrySkipWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryTakeWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.TryUnfold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Unfold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Unzip.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/struct.Zip.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/futures_unordered/struct.FuturesUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/futures_unordered/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/futures_unordered/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/futures_unordered/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/futures_unordered/struct.IterPinMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/futures_unordered/struct.IterPinRef.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/select_all/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/select_all/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/select_all/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/select_all/struct.SelectAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Buffer.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Close.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Fanout.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Feed.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Flush.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Send.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.SendAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.SinkErrInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.SinkMapErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.Unfold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.With.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/sink/struct.WithFlatMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.AbortHandle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.AbortRegistration.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Abortable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Aborted.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.All.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.AndThen.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Any.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.BufferUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Buffered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.CatchUnwind.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Chain.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Chunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Collect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Concat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Count.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Cycle.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Empty.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Enumerate.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.ErrInto.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Filter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.FilterMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.FlatMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.FlatMapUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Flatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Fold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.ForEach.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.ForEachConcurrent.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Forward.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Fuse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.FuturesOrdered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.FuturesUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Inspect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.InspectErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.InspectOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.IntoAsyncRead.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.IntoStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Map.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.MapErr.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.MapOk.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Next.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.NextIf.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.NextIfEq.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Once.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.OrElse.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Peek.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.PeekMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Peekable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Pending.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.PollFn.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.PollImmediate.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.ReadyChunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Repeat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.RepeatWith.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.ReuniteError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Scan.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Select.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.SelectAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.SelectNextSome.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.SelectWithStrategy.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Skip.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.SkipWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.SplitSink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.SplitStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.StreamFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Take.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TakeUntil.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TakeWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Then.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryAny.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryBufferUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryBuffered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryChunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryChunksError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryCollect.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryConcat.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryFilter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryFilterMap.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryFlatten.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryFlattenUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryFold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryForEach.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryForEachConcurrent.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryNext.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryReadyChunks.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryReadyChunksError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TrySkipWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryTakeWhile.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.TryUnfold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Unfold.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Unzip.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/struct.Zip.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/futures_unordered/struct.FuturesUnordered.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/futures_unordered/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/futures_unordered/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/futures_unordered/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/futures_unordered/struct.IterPinMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/futures_unordered/struct.IterPinRef.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/select_all/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/select_all/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/select_all/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/select_all/struct.SelectAll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.AtomicWaker.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.Context.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.FutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.LocalFutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.RawWaker.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.RawWakerVTable.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.SpawnError.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.Waker.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/struct.WakerRef.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/enum.Either.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/enum.MaybeDone.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/enum.TryMaybeDone.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/enum.ErrorKind.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/enum.SeekFrom.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/enum.Either.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/enum.MaybeDone.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/enum.TryMaybeDone.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/enum.PollNext.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/stream/enum.PollNext.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/task/enum.Poll.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/trait.AsyncRead01CompatExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/trait.AsyncWrite01CompatExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/trait.Executor01CompatExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/trait.Future01CompatExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/trait.Sink01CompatExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/compat/trait.Stream01CompatExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/trait.FusedFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/trait.Future.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/trait.TryFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/future/trait.UnsafeFutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncBufRead.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncRead.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncSeek.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/io/trait.AsyncWrite.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/trait.FusedFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/trait.Future.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/trait.FutureExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/trait.TryFuture.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/trait.TryFutureExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/future/trait.UnsafeFutureObj.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/trait.Sink.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/sink/trait.SinkExt.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/trait.FusedStream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/futures/latest/futures/prelude/stream/trait.Stream.html</loc>
+  <lastmod>2025-07-18T15:23:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
