@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/index.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/all.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/trait.App.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/fn.run_native.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/fn.run_simple_native.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.NativeOptions.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/icon_data/index.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.CreationContext.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/type.AppCreator.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.EframeWinitApplication.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.EventLoopBuilder.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.Frame.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.IntegrationInfo.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/struct.WindowAttributes.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/enum.EframePumpStatus.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/enum.Error.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/enum.HardwareAcceleration.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/enum.Renderer.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/enum.UserEvent.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/enum.WebGlContextOption.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/constant.APP_KEY.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/trait.Storage.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/fn.create_native.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/fn.get_value.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/fn.set_value.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/fn.storage_dir.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/type.EventLoopBuilderHook.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/type.Result.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/type.WindowBuilderHook.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/icon_data/trait.IconDataExt.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/eframe/latest/eframe/icon_data/fn.from_png_bytes.html</loc>
+  <lastmod>2025-07-18T14:25:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
