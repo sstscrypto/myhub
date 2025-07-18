@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/index.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/all.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.DatePickerButton.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/syntax_highlighting/index.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.Column.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.Strip.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.StripBuilder.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.Table.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.TableBody.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.TableBuilder.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/struct.TableRow.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/enum.Size.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/fn.install_image_loaders.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/syntax_highlighting/struct.CodeTheme.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/syntax_highlighting/struct.SyntectSettings.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/syntax_highlighting/fn.code_view_ui.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/syntax_highlighting/fn.highlight.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_extras/latest/egui_extras/syntax_highlighting/fn.highlight_with.html</loc>
+  <lastmod>2025-07-18T14:33:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
