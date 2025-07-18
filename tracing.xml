@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/all.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/struct.Span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/struct.Event.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/trait.Subscriber.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/struct.Metadata.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.event.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/struct.Level.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/struct.Attributes.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.Empty.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.trace.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.debug.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.info.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.warn.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.error.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.trace_span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.debug_span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.info_span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.warn_span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.error_span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/fn.set_global_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/fn.with_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/level_filters/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/event/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/instrument/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/index.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.enabled.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.event_enabled.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/macro.span_enabled.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/struct.Dispatch.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/trait.Instrument.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/trait.Value.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/attr.instrument.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/struct.DefaultGuard.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/struct.Dispatch.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/struct.SetGlobalDefaultError.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/struct.WeakDispatch.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/event/struct.Event.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.DebugValue.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.DisplayValue.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.Field.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.FieldSet.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.Iter.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/struct.ValueSet.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/instrument/struct.Instrumented.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/instrument/struct.WithDispatch.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/level_filters/struct.LevelFilter.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/level_filters/struct.ParseLevelFilterError.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/struct.Entered.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/struct.EnteredSpan.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/struct.Id.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/struct.Record.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/struct.Span.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/struct.DefaultGuard.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/struct.Interest.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/struct.NoSubscriber.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/struct.SetGlobalDefaultError.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/trait.AsField.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/trait.Value.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/trait.Visit.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/instrument/trait.Instrument.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/instrument/trait.WithSubscriber.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/span/trait.AsId.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/trait.Subscriber.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/fn.get_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/fn.set_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/fn.set_global_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/dispatcher/fn.with_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/fn.debug.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/fn.display.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/field/fn.valuable.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/subscriber/fn.set_default.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tracing/latest/tracing/level_filters/constant.STATIC_MAX_LEVEL.html</loc>
+  <lastmod>2025-07-18T16:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
