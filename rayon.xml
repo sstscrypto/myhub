@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/all.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.ParallelIterator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.IndexedParallelIterator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/trait.ParallelSliceMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.ParallelExtend.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.join.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.scope.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.ThreadPoolBuilder.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/prelude/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/array/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/option/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/range/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/range_inclusive/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/result/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/string/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/vec/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.BroadcastContext.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.FnContext.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.Scope.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.ScopeFifo.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.scope_fifo.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.ThreadBuilder.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.ThreadPool.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/struct.ThreadPoolBuildError.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/enum.Yield.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.yield_now.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.yield_local.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.broadcast.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.current_num_threads.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.current_thread_index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.in_place_scope.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.in_place_scope_fifo.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.join_context.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.max_num_threads.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.spawn.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.spawn_broadcast.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/fn.spawn_fifo.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/array/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/binary_heap/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/binary_heap/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/binary_heap/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_map/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_map/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_map/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_set/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_set/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_map/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_map/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_map/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_map/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_set/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_set/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_set/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/linked_list/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/linked_list/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/linked_list/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/vec_deque/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/vec_deque/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/vec_deque/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/vec_deque/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Chain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Chunks.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Cloned.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Copied.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Empty.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Enumerate.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.ExponentialBlocks.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Filter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FilterMap.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FlatMap.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FlatMapIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Flatten.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FlattenIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Fold.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FoldChunks.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FoldChunksWith.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.FoldWith.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Inspect.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Interleave.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.InterleaveShortest.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Intersperse.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.IterBridge.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Map.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.MapInit.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.MapWith.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.MaxLen.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.MinLen.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.MultiZip.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Once.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.PanicFuse.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Positions.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Repeat.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.RepeatN.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Rev.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Skip.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.SkipAny.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.SkipAnyWhile.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Split.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.StepBy.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Take.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.TakeAny.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.TakeAnyWhile.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.TryFold.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.TryFoldWith.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.UniformBlocks.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Update.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.WalkTree.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.WalkTreePostfix.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.WalkTreePrefix.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.WhileSome.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.Zip.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/struct.ZipEq.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/option/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/option/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/option/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/range/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/range_inclusive/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/result/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/result/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/result/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.ChunkBy.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.ChunkByMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.Chunks.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.ChunksExact.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.ChunksExactMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.ChunksMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.RChunks.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.RChunksExact.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.RChunksExactMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.RChunksMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.Split.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.SplitInclusive.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.SplitInclusiveMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.SplitMut.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/struct.Windows.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.Bytes.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.CharIndices.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.Chars.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.EncodeUtf16.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.Lines.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.MatchIndices.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.Matches.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.Split.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.SplitAsciiWhitespace.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.SplitInclusive.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.SplitTerminator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/struct.SplitWhitespace.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/string/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/vec/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/vec/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/enum.Either.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.FromParallelIterator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.IntoParallelIterator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.IntoParallelRefIterator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.IntoParallelRefMutIterator.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.ParallelBridge.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.ParallelDrainFull.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/trait.ParallelDrainRange.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.Consumer.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.Folder.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.Producer.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.ProducerCallback.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.Reducer.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.UnindexedConsumer.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/trait.UnindexedProducer.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/slice/trait.ParallelSlice.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/str/trait.ParallelString.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.empty.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.once.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/fn.bridge.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/fn.bridge_producer_consumer.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/fn.bridge_unindexed.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.repeat.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.repeatn.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.split.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.walk_tree.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.walk_tree_postfix.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/fn.walk_tree_prefix.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/iter/plumbing/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/binary_heap/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_map/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/btree_set/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_map/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/hash_set/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/linked_list/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rayon/latest/rayon/collections/vec_deque/index.html</loc>
+  <lastmod>2025-07-18T15:52:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
