@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/editions/index.html</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/no-anon-params.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/editions/advanced-migrations.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustfmt-style-edition.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/path-changes.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/reserved-syntax.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/temporary-tail-expr-scope.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/temporary-if-let-scope.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/static-mut-references.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/introduction.html</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/editions/creating-a-new-project.html</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/editions/transitioning-an-existing-project-to-a-new-edition.html</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2015/index.html</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/index.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/trait-fn-parameters.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/new-keywords.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/tyvar-behind-raw-pointer.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2018/cargo.html</loc>
+  <lastmod>2025-06-26T17:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/index.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/prelude.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/default-cargo-resolver.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/IntoIterator-for-arrays.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/panic-macro-consistency.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/raw-lifetimes.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/warnings-promoted-to-error.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/or-patterns-macro-rules.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2021/c-string-literals.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/index.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/language.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rpit-lifetime-capture.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/let-chains.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/match-ergonomics.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-extern.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-attributes.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/unsafe-op-in-unsafe-fn.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/never-type-fallback.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/macro-fragment-specifiers.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/missing-macro-fragment-specifiers.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/gen-keyword.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/reserved-syntax.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/standard-library.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/prelude.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/intoiterator-box-slice.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/newly-unsafe-functions.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/cargo.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/cargo-resolver.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/cargo-table-key-names.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/cargo-inherited-default-features.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustdoc.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustdoc-doctests.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustdoc-nested-includes.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustfmt.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustfmt-formatting-fixes.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustfmt-raw-identifier-sorting.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/edition-guide/rust-2024/rustfmt-version-sorting.html</loc>
+  <lastmod>2025-06-26T17:56:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
