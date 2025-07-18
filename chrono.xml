@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/all.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.DateTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/type.MappedLocalTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.Local.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.TimeDelta.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/trait.TimeZone.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.Utc.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.FixedOffset.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/trait.Datelike.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/trait.Timelike.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/strftime/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.NaiveDate.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.NaiveTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.NaiveDateTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/struct.ParseError.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/type.ParseResult.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.SecondsFormat.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.IsoWeek.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.NaiveWeek.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/round/trait.DurationRound.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/round/enum.RoundingError.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/round/trait.SubsecRound.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/prelude/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/round/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.Date.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.Days.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.Months.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.OutOfRange.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/struct.WeekdaySet.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/enum.Weekday.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/enum.Locale.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/enum.Month.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/trait.Offset.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/type.Duration.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/struct.DelayedFormat.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/struct.InternalFixed.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/struct.InternalNumeric.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/struct.OffsetFormat.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/struct.Parsed.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/strftime/struct.StrftimeItems.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.Days.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.NaiveDate.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.NaiveDateDaysIterator.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.NaiveDateTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.NaiveDateWeeksIterator.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/struct.NaiveTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/struct.FixedOffset.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/struct.Local.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/struct.Utc.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedDateTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedFixedOffset.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedIsoWeek.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedLocal.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedNaiveDate.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedNaiveDateTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedNaiveTime.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedTimeDelta.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/struct.ArchivedUtc.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.Colons.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.Fixed.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.Item.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.Locale.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.Numeric.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.OffsetPrecision.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.Pad.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/enum.ParseErrorKind.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/enum.LocalResult.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/prelude/enum.Locale.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/enum.ArchivedMonth.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/enum.ArchivedWeekday.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/trait.Offset.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/offset/trait.TimeZone.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/fn.format.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/fn.format_item.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/fn.parse.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/format/fn.parse_and_remainder.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_microseconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_microseconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_microseconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_microseconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_milliseconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_milliseconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_milliseconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_milliseconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_nanoseconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_nanoseconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_nanoseconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_nanoseconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_seconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_seconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_seconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_seconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_microseconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_microseconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_microseconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_microseconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_milliseconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_milliseconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_milliseconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_milliseconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_nanoseconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_nanoseconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_nanoseconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_nanoseconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_seconds/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_seconds/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_seconds_option/fn.deserialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_seconds_option/fn.serialize.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/rkyv/type.ArchivedDuration.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/constant.MAX_DATE.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/constant.MAX_DATETIME.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/constant.MIN_DATE.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/constant.MIN_DATETIME.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_microseconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_microseconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_milliseconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_milliseconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_nanoseconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_nanoseconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_seconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/serde/ts_seconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_microseconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_microseconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_milliseconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_milliseconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_nanoseconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_nanoseconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_seconds/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono/latest/chrono/naive/serde/ts_seconds_option/index.html</loc>
+  <lastmod>2025-07-18T16:46:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
