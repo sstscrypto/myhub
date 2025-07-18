@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/all.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Client.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/multipart/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/fn.get.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.RequestBuilder.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/redirect/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.ClientBuilder.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Proxy.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/tls/struct.Certificate.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/tls/struct.Identity.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/tls/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/cookie/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/dns/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Body.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Error.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Method.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.NoProxy.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Request.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Response.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.StatusCode.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Upgraded.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Url.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/struct.Version.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/trait.IntoUrl.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/trait.ResponseBuilderExt.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/type.Result.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/struct.Body.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/struct.Client.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/struct.ClientBuilder.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/struct.Request.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/struct.RequestBuilder.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/struct.Response.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/multipart/struct.Form.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/multipart/struct.Part.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/cookie/struct.Cookie.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/cookie/struct.Jar.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/dns/struct.Name.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.Drain.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.GetAll.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.HeaderMap.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.HeaderName.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.HeaderValue.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.InvalidHeaderName.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.InvalidHeaderValue.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.Iter.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.Keys.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.MaxSizeReached.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.ToStrError.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.VacantEntry.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.ValueDrain.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.ValueIter.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.ValueIterMut.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.Values.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/struct.ValuesMut.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/multipart/struct.Form.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/multipart/struct.Part.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/redirect/struct.Action.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/redirect/struct.Attempt.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/redirect/struct.Policy.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/tls/struct.CertificateRevocationList.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/tls/struct.TlsInfo.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/tls/struct.Version.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/enum.Entry.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/cookie/trait.CookieStore.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/dns/trait.Resolve.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/trait.AsHeaderName.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/trait.IntoHeaderName.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/fn.get.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/dns/type.Addrs.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/dns/type.Resolving.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCEPT.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCEPT_CHARSET.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCEPT_ENCODING.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCEPT_LANGUAGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCEPT_RANGES.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_ALLOW_CREDENTIALS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_ALLOW_HEADERS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_ALLOW_METHODS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_ALLOW_ORIGIN.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_EXPOSE_HEADERS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_MAX_AGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_REQUEST_HEADERS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ACCESS_CONTROL_REQUEST_METHOD.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.AGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ALLOW.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ALT_SVC.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.AUTHORIZATION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CACHE_CONTROL.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CACHE_STATUS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CDN_CACHE_CONTROL.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONNECTION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_DISPOSITION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_ENCODING.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_LANGUAGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_LENGTH.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_LOCATION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_RANGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_SECURITY_POLICY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_SECURITY_POLICY_REPORT_ONLY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.CONTENT_TYPE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.COOKIE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.DATE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.DNT.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ETAG.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.EXPECT.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.EXPIRES.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.FORWARDED.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.FROM.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.HOST.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.IF_MATCH.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.IF_MODIFIED_SINCE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.IF_NONE_MATCH.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.IF_RANGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.IF_UNMODIFIED_SINCE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.LAST_MODIFIED.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.LINK.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.LOCATION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.MAX_FORWARDS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.ORIGIN.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.PRAGMA.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.PROXY_AUTHENTICATE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.PROXY_AUTHORIZATION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.PUBLIC_KEY_PINS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.PUBLIC_KEY_PINS_REPORT_ONLY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.RANGE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.REFERER.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.REFERRER_POLICY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.REFRESH.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.RETRY_AFTER.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SEC_WEBSOCKET_ACCEPT.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SEC_WEBSOCKET_EXTENSIONS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SEC_WEBSOCKET_KEY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SEC_WEBSOCKET_PROTOCOL.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SEC_WEBSOCKET_VERSION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SERVER.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.SET_COOKIE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.STRICT_TRANSPORT_SECURITY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.TE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.TRAILER.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.TRANSFER_ENCODING.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.UPGRADE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.UPGRADE_INSECURE_REQUESTS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.USER_AGENT.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.VARY.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.VIA.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.WARNING.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.WWW_AUTHENTICATE.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.X_CONTENT_TYPE_OPTIONS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.X_DNS_PREFETCH_CONTROL.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.X_FRAME_OPTIONS.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/header/constant.X_XSS_PROTECTION.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/multipart/index.html</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest/latest/reqwest/blocking/multipart/</loc>
+  <lastmod>2025-07-18T15:57:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
