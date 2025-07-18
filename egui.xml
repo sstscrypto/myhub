@@ -1,0 +1,2047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui/latest/egui/</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/all.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Context.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Window.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/struct.SidePanel.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Ui.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Vec2.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/macro.hex_color.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/mutex/struct.RwLock.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/struct.TopBottomPanel.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/struct.CentralPanel.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Area.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.RawInput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.FullOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.Shape.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/response/struct.Response.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Grid.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Options.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Button.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/trait.Widget.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Sense.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/scroll_area/struct.ScrollArea.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Slider.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Id.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/struct.MenuBar.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/layers/struct.LayerId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/layers/enum.Order.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/enum.SizeHint.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/response/struct.InnerResponse.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/enum.FontSelection.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.Spacing.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.Style.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/enum.TextStyle.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.Visuals.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widget_text/struct.RichText.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widget_text/enum.WidgetText.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/cache/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Resize.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/debug_text/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/introspection/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/layers/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/mutex/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/os/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/response/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widget_text/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Label.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/macro.generate_loader_id.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/trait.BytesLoader.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/trait.ImageLoader.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/trait.TextureLoader.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/macro.github_link_file.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Hyperlink.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/macro.github_link_file_line.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Color32.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/macro.include_image.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Align2.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.AllocatedAtomLayout.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.AtomLayout.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Atom.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.AtomLayoutResponse.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Atoms.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.ClippedPrimitive.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Mesh.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.PaintCallback.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.ColorImage.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.CornerRadius.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.DragAndDrop.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.DroppedFile.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.EventFilter.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.FontData.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.FontDefinitions.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.FontId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.FontTweak.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Galley.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.HoveredFile.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.InputOptions.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.InputState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.KeyboardShortcut.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Layout.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Margin.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Memory.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.ModifierNames.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Modifiers.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.MultiTouchInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.OpenUrl.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.PaintCallbackInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Painter.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.PlatformOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.PointerState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Pos2.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Rangef.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Rect.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.RectAlign.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.RepaintCause.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.RequestRepaintInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Rgba.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Shadow.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.SizedAtom.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Stroke.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.TextFormat.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.TextureHandle.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.TextureOptions.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.TexturesDelta.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.TouchDeviceId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.TouchId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.UiBuilder.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.UiStack.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.UiStackInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.UiStackIterator.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.UiTags.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.UserData.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.ViewportCommand.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.Vec2b.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.ViewportInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.WidgetInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/text_edit/struct.TextEdit.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.WidgetRect.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/struct.WidgetRects.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.Align.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.AtomKind.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.CursorIcon.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.Direction.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.Event.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.FontFamily.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.ImageData.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.ImeEvent.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.Key.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.MouseWheelUnit.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.OutputCommand.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.PointerButton.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.SizedAtomKind.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.StrokeKind.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.TextWrapMode.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.TextureFilter.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.TextureId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.TextureWrapMode.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.Theme.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.ThemePreference.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.TouchPhase.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.UiKind.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.UserAttentionType.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.ViewportEvent.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/enum.WidgetType.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/constant.NUM_POINTER_BUTTONS.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/trait.AtomExt.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/trait.IntoAtoms.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/trait.NumExt.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.__run_test_ctx.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.__run_test_ui.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.accesskit_root_id.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.lerp.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.pos2.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.remap.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.remap_clamp.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.vec2.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/fn.warn_if_debug_build.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/type.IdMap.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/type.Rounding.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/cache/struct.CacheStorage.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/cache/struct.FrameCache.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/cache/struct.FramePublisher.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.AreaState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.ClosableTag.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.ComboBox.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.DragPanButtons.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Popup.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Scene.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Sides.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/struct.Tooltip.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/struct.CollapsingHeader.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/struct.CollapsingResponse.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/struct.CollapsingState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/struct.HeaderResponse.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/frame/struct.Frame.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/frame/struct.Prepared.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/struct.MenuButton.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/struct.MenuConfig.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/struct.MenuState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/struct.SubMenu.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/struct.SubMenuButton.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/modal/struct.Modal.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/modal/struct.ModalResponse.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/struct.PanelState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/scroll_area/struct.ScrollAreaOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/scroll_area/struct.ScrollSource.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/scroll_area/struct.State.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/layers/struct.GraphicLayers.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/layers/struct.PaintList.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/layers/struct.ShapeIdx.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/struct.DefaultBytesLoader.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/struct.DefaultTextureLoader.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/struct.Loaders.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/struct.SizedTexture.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/struct.BarState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/struct.MenuRoot.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/struct.MenuRootManager.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/struct.MenuState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/struct.SubMenu.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/struct.SubMenuButton.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/mutex/struct.Mutex.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/mutex/struct.MutexGuard.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/mutex/struct.RwLockReadGuard.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/mutex/struct.RwLockWriteGuard.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/struct.FullOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/struct.IMEOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/struct.OpenUrl.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/struct.PlatformOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/struct.WidgetInfo.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.DebugOptions.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.Interaction.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.NumberFormatter.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.ScrollAnimation.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.ScrollStyle.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.Selection.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.StyleModifier.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.TextCursorStyle.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.WidgetVisuals.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/struct.Widgets.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.CCursor.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.FontData.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.FontDefinitions.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.Fonts.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.Galley.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.LayoutJob.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.LayoutSection.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.TextFormat.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/struct.TextWrapping.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/struct.CCursorRange.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/struct.LabelSelectionState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/struct.TextCursorState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/visuals/struct.RowVertexIndices.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/struct.History.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/id_type_map/struct.IdTypeMap.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/id_type_map/struct.TypeId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/undoer/struct.Settings.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/undoer/struct.Undoer.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/struct.IconData.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/struct.ImmediateViewport.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/struct.ViewportBuilder.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/struct.ViewportId.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/struct.ViewportIdPair.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/struct.ViewportOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Checkbox.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.DragValue.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.FrameDurations.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Image.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.ImageButton.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.ImageOptions.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.ImageSize.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Link.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.ProgressBar.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.RadioButton.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.SelectableLabel.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Separator.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/struct.Spinner.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/text_edit/struct.TextEditOutput.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/text_edit/struct.TextEditState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/enum.PopupAnchor.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/enum.PopupCloseBehavior.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/enum.PopupKind.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/enum.SetOpenCommand.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/enum.AboveOrBelow.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/enum.Side.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/enum.TopBottomSide.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/scroll_area/enum.ScrollBarVisibility.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/enum.Bytes.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/enum.BytesPoll.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/enum.ImagePoll.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/enum.LoadError.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/enum.TexturePoll.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/enum.MenuResponse.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/os/enum.OperatingSystem.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/enum.CursorIcon.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/enum.OutputCommand.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/enum.OutputEvent.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/output/enum.UserAttentionType.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/enum.HandleShape.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/enum.NumericColorSpace.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/enum.FontFamily.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.CursorGrab.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.IMEPurpose.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.ResizeDirection.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.SystemTheme.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.ViewportClass.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.WindowLevel.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/enum.X11WindowType.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/enum.ImageFit.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/enum.ImageSource.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/enum.SliderClamping.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/enum.SliderOrientation.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/enum.Alpha.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/cache/trait.CacheTrait.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/cache/trait.ComputerMut.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/id_type_map/trait.SerializableAny.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/trait.WidgetWithState.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/text_edit/trait.TextBuffer.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/macro.generate_loader_id.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/fn.paint_default_icon.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/fn.find_menu_root.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/fn.is_in_menu.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/fn.menu_style.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.popup_above_or_below_widget.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.popup_below_widget.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.show_tooltip.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.show_tooltip_at.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.show_tooltip_at_pointer.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.show_tooltip_for.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.show_tooltip_text.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/fn.was_tooltip_open_last_frame.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/debug_text/fn.print.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/fn.zoom_in.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/fn.zoom_menu_buttons.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/fn.zoom_out.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/introspection/fn.font_family_ui.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/introspection/fn.font_id_ui.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.bar.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.context_menu.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.context_menu_opened.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.menu_button.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.menu_custom_button.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.menu_image_button.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/menu/fn.submenu_button.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/style/fn.default_text_styles.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/accesskit_text/fn.update_accesskit_for_text_widget.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.byte_index_from_char_index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.ccursor_next_word.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.ccursor_previous_word.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.char_index_from_byte_index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.cursor_rect.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.find_line_start.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.is_word_char.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/fn.slice_char_range.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/visuals/fn.paint_cursor_end.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/visuals/fn.paint_text_cursor.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/visuals/fn.paint_text_selection.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/fn.hash.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/fn.hash_with.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_edit_button_hsva.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_edit_button_rgb.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_edit_button_rgba.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_edit_button_srgb.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_edit_button_srgba.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_picker_color32.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.color_picker_hsva_2d.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.show_color.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/fn.show_color_at.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.decode_animated_image_uri.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.global_dark_light_mode_buttons.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.global_dark_light_mode_switch.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.global_theme_preference_buttons.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.global_theme_preference_switch.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.has_gif_magic_header.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.has_webp_header.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.paint_texture_at.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.reset_button.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.reset_button_with.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/fn.stroke_ui.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/type.IconPainter.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/type.IconPainter.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/menu/type.Bar.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/type.BytesLoadResult.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/type.ImageLoadResult.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/type.Result.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/load/type.TextureLoadResult.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/type.DeferredViewportUiCallback.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/type.ImmediateViewportRendererCallback.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/type.ViewportIdMap.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/viewport/type.ViewportIdSet.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/kb_shortcuts/constant.ZOOM_IN.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/kb_shortcuts/constant.ZOOM_IN_SECONDARY.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/kb_shortcuts/constant.ZOOM_OUT.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/kb_shortcuts/constant.ZOOM_RESET.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/constant.GIT.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/constant.GITHUB.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/constant.OS_ANDROID.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/constant.OS_APPLE.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/constant.OS_LINUX.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/special_emojis/constant.OS_WINDOWS.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text/constant.TAB_SIZE.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/panel/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/scroll_area/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/old_popup/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/collapsing_header/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/frame/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/containers/modal/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/color_picker/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/widgets/text_edit/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/gui_zoom/kb_shortcuts/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/accesskit_text/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/text_cursor_state/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/text_selection/visuals/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/id_type_map/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui/latest/egui/util/undoer/index.html</loc>
+  <lastmod>2025-07-18T14:23:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
