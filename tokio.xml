@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/all.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/process/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.spawn.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.JoinHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.Mutex.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.Barrier.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.timeout.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.sleep.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.interval.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/attr.main.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.Builder.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.spawn_blocking.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncRead.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncWrite.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncBufRead.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/tcp/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.UdpSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.Builder.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.JoinSet.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.RuntimeMetrics.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.TaskMeta.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/stream/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/macro.join.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/macro.pin.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/macro.select.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/macro.task_local.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.LocalKey.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/macro.try_join.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.Runtime.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/attr.test.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/struct.DirBuilder.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/struct.DirEntry.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/struct.File.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/struct.OpenOptions.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/struct.ReadDir.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.BufReader.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.BufStream.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.BufWriter.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.DuplexStream.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Empty.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Interest.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Join.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Lines.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.ReadBuf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.ReadHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Ready.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Repeat.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.SimplexStream.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Sink.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Split.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Stderr.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Stdin.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Stdout.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.Take.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/struct.WriteHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/bsd/struct.Aio.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/bsd/struct.AioEvent.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/unix/struct.AsyncFd.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/unix/struct.AsyncFdReadyGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/unix/struct.AsyncFdReadyMutGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/unix/struct.AsyncFdTryNewError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/unix/struct.TryIoError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.TcpListener.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.TcpSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.TcpStream.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.UnixDatagram.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.UnixListener.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.UnixSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/struct.UnixStream.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/tcp/struct.OwnedReadHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/tcp/struct.OwnedWriteHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/tcp/struct.ReadHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/tcp/struct.ReuniteError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/tcp/struct.WriteHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.OwnedReadHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.OwnedWriteHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.ReadHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.ReuniteError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.SocketAddr.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.UCred.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/struct.WriteHalf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/pipe/struct.OpenOptions.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/pipe/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/pipe/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/struct.ClientOptions.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/struct.NamedPipeClient.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/struct.NamedPipeServer.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/struct.PipeInfo.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/struct.ServerOptions.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/process/struct.Child.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/process/struct.ChildStderr.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/process/struct.ChildStdin.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/process/struct.ChildStdout.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/process/struct.Command.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.EnterGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.Handle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.HistogramConfiguration.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.Id.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.LocalOptions.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.LocalRuntime.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.LogHistogram.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.LogHistogramBuilder.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.RngSeed.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/struct.TryCurrentError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.Backtrace.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.BacktraceFrame.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.BacktraceSymbol.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.Dump.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.Root.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.Task.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.Tasks.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/struct.Trace.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/unix/struct.Signal.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/unix/struct.SignalKind.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/struct.CtrlBreak.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/struct.CtrlC.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/struct.CtrlClose.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/struct.CtrlLogoff.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/struct.CtrlShutdown.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.AcquireError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.BarrierWaitResult.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.MappedMutexGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.MutexGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.Notify.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OnceCell.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OwnedMappedMutexGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OwnedMutexGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OwnedRwLockMappedWriteGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OwnedRwLockReadGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OwnedRwLockWriteGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.OwnedSemaphorePermit.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.RwLock.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.RwLockMappedWriteGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.RwLockReadGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.RwLockWriteGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.Semaphore.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.SemaphorePermit.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/struct.TryLockError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/struct.WeakSender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/error/struct.SendError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/futures/struct.Notified.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.OwnedPermit.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.Permit.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.PermitIterator.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.UnboundedReceiver.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.UnboundedSender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.WeakSender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/struct.WeakUnboundedSender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/error/struct.SendError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/error/struct.RecvError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/struct.Receiver.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/struct.Ref.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/struct.Sender.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/error/struct.RecvError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/error/struct.SendError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.AbortHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.Id.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.JoinError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.LocalEnterGuard.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/struct.LocalSet.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/coop/struct.Unconstrained.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/futures/struct.TaskLocalFuture.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/join_set/struct.Builder.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/join_set/struct.JoinSet.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/struct.Instant.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/struct.Interval.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/struct.Sleep.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/struct.Timeout.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/error/struct.Elapsed.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/error/struct.Error.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/enum.NotDefinedHere.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/enum.PipeEnd.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/enum.PipeMode.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/enum.HistogramScale.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/enum.InvalidHistogramConfiguration.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/enum.RuntimeFlavor.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/enum.UnhandledPanic.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/enum.SetError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/enum.TryAcquireError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/error/enum.RecvError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/error/enum.TryRecvError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/error/enum.SendTimeoutError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/error/enum.TryRecvError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/error/enum.TrySendError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/error/enum.TryRecvError.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/enum.MissedTickBehavior.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.AsHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.AsRawHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.AsRawSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.AsSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.FromRawHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.FromRawSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/trait.IntoRawSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncBufReadExt.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncReadExt.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncSeek.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncSeekExt.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/trait.AsyncWriteExt.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/bsd/trait.AioSource.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/trait.ToSocketAddrs.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.canonicalize.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.copy.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.create_dir.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.create_dir_all.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.hard_link.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.metadata.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.read.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.read_dir.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.read_link.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.read_to_string.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.remove_dir.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.remove_dir_all.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.remove_file.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.rename.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.set_permissions.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.symlink.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.symlink_dir.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.symlink_file.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.symlink_metadata.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.try_exists.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/fs/fn.write.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.copy.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.copy_bidirectional.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.copy_bidirectional_with_sizes.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.copy_buf.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.duplex.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.empty.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.join.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.repeat.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.simplex.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.sink.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.split.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.stderr.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.stdin.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/fn.stdout.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/fn.lookup_host.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/pipe/fn.pipe.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/fn.ctrl_c.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/unix/fn.signal.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/fn.ctrl_break.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/fn.ctrl_c.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/fn.ctrl_close.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/fn.ctrl_logoff.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/fn.ctrl_shutdown.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/fn.channel.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/fn.channel.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/fn.unbounded_channel.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/fn.channel.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/fn.channel.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.block_in_place.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/coop/fn.consume_budget.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/coop/fn.has_budget_remaining.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/coop/fn.unconstrained.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.id.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.spawn_local.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.try_id.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/fn.yield_now.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.advance.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.interval_at.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.pause.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.resume.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.sleep_until.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/fn.timeout_at.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/type.BorrowedHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/type.BorrowedSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/type.OwnedHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/type.RawHandle.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/type.RawSocket.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/type.gid_t.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/type.pid_t.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/type.uid_t.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/coop/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/futures/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/time/error/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/unix/pipe/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/named_pipe/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/net/windows/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/unix/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/signal/windows/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/runtime/dump/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/futures/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/task/join_set/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/oneshot/error/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/mpsc/error/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/watch/error/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/sync/broadcast/error/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/bsd/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/io/unix/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/io/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio/latest/tokio/doc/os/windows/index.html</loc>
+  <lastmod>2025-07-18T15:15:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
