@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://doc.rust-lang.org/std/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/all.html</loc>
+  <lastmod>2025-06-26T17:59:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/vec/struct.Vec.html</loc>
+  <lastmod>2025-06-26T17:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/option/enum.Option.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/index.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/thread/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/prelude/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/slice/index.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cmp/index.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.i32.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i32/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i32/constant.MIN.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i32/constant.MAX.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.str.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.slice.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/string/struct.String.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/option/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/result/index.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/result/enum.Result.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/index.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/trait.Iterator.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.array.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/boxed/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.format.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/str/trait.FromStr.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/rc/struct.Rc.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.Cell.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.RefCell.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/sync/struct.Arc.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/sync/struct.Mutex.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.HashMap.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.File.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.TcpStream.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.UdpSocket.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/index.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/sync/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/sync/atomic/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/sync/mpmc/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/sync/mpsc/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/thread/fn.current.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.bool.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.char.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.f32.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.f64.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.fn.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.i8.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.i16.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.i64.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.i128.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.isize.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.pointer.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.reference.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.tuple.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.u8.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.u16.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.u32.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.u64.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.u128.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.unit.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.usize.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.f16.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.f128.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive.never.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/alloc/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/any/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/arch/index.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/array/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ascii/index.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/backtrace/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/borrow/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/index.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/clone/index.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/convert/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/default/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/error/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/f32/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/f64/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/future/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/hash/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/hint/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i8/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i16/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i64/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/i128/index.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/isize/index.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/index.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/mem/index.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/index.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/index.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/index.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/panic/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/path/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/pin/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/primitive/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/process/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ptr/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/rc/index.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/str/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/string/index.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/task/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/time/index.html</loc>
+  <lastmod>2025-06-26T17:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/u8/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/u16/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/u32/index.html</loc>
+  <lastmod>2025-06-26T17:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/u64/index.html</loc>
+  <lastmod>2025-06-26T17:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/u128/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/usize/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/vec/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/assert_matches/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/async_iter/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/autodiff/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/bstr/index.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/f16/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/f128/index.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/intrinsics/index.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/pat/index.html</loc>
+  <lastmod>2025-06-26T17:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/random/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/range/index.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/simd/index.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/unsafe_binder/index.html</loc>
+  <lastmod>2025-06-26T17:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.assert.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.assert_eq.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cmp/trait.PartialEq.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.assert_ne.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.cfg.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.column.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.compile_error.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.concat.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.dbg.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.debug_assert.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.debug_assert_eq.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.debug_assert_ne.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.env.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.eprint.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.eprintln.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.file.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.format_args.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.include.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.include_bytes.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.include_str.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.is_x86_feature_detected.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.line.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.matches.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.module_path.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.option_env.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.panic.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.print.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.println.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.stringify.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.thread_local.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/thread/struct.LocalKey.html</loc>
+  <lastmod>2025-06-26T17:59:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.todo.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.try.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.unimplemented.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.unreachable.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.vec.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.write.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.writeln.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.cfg_match.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.concat_bytes.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.concat_idents.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.const_format_args.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.format_args_nl.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.log_syntax.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/macro.trace_macros.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.SelfTy.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.trait.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.impl.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.as.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.async.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/future/trait.Future.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.await.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.break.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.const.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.continue.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.crate.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.dyn.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.else.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.if.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.false.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.enum.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.extern.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.fn.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.for.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.in.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.let.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.loop.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.match.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.mod.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.move.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.mut.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.pub.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.ref.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.return.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.self.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.static.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.struct.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.super.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.true.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.type.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.union.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.unsafe.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.use.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.where.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/keyword.while.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/alloc/struct.AllocError.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/alloc/struct.Global.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/alloc/struct.Layout.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/alloc/struct.LayoutError.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/alloc/struct.System.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/any/struct.TypeId.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/array/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/array/struct.TryFromSliceError.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ascii/struct.EscapeDefault.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/async_iter/struct.FromIter.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/backtrace/struct.Backtrace.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/backtrace/struct.BacktraceFrame.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/boxed/struct.Box.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/boxed/struct.ThinBox.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/bstr/struct.ByteStr.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/bstr/struct.ByteString.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.BorrowError.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.BorrowMutError.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.LazyCell.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.OnceCell.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.Ref.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.RefMut.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.SyncUnsafeCell.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html</loc>
+  <lastmod>2025-06-26T17:59:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.CharTryFromError.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.DecodeUtf16.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.DecodeUtf16Error.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.EscapeDebug.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.EscapeDefault.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.EscapeUnicode.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.ParseCharError.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.ToLowercase.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.ToUppercase.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/char/struct.TryFromCharError.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/cmp/struct.Reverse.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.BTreeMap.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.BTreeSet.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.BinaryHeap.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.HashSet.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.LinkedList.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.TryReserveError.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/struct.VecDeque.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.BinaryHeap.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.Drain.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.DrainSorted.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.IntoIterSorted.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/binary_heap/struct.PeekMut.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.BTreeMap.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.Cursor.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.CursorMut.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.CursorMutKey.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.ExtractIf.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.IntoKeys.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.IntoValues.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.IterMut.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.Keys.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.OccupiedError.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.Range.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.RangeMut.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.UnorderedKeyError.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.VacantEntry.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.Values.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_map/struct.ValuesMut.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.BTreeSet.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.Cursor.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.CursorMut.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.CursorMutKey.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.Difference.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.ExtractIf.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.Intersection.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.Range.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.SymmetricDifference.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.Union.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.UnorderedKeyError.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/btree_set/struct.VacantEntry.html</loc>
+  <lastmod>2025-06-26T17:59:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.DefaultHasher.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.Drain.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.ExtractIf.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.HashMap.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.IntoKeys.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.IntoValues.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.IterMut.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.Keys.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.OccupiedError.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.RandomState.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.VacantEntry.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.Values.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_map/struct.ValuesMut.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.Difference.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.Drain.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.ExtractIf.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.HashSet.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.Intersection.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.SymmetricDifference.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.Union.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/hash_set/struct.VacantEntry.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.Cursor.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.CursorMut.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.ExtractIf.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.IterMut.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/linked_list/struct.LinkedList.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/vec_deque/struct.Drain.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/vec_deque/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/vec_deque/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/vec_deque/struct.IterMut.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/collections/vec_deque/struct.VecDeque.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/struct.Args.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/struct.ArgsOs.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/struct.JoinPathsError.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/struct.SplitPaths.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/struct.Vars.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/env/struct.VarsOs.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/error/struct.Report.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/error/struct.Request.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.CStr.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.CString.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.FromBytesUntilNulError.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.FromVecWithNulError.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.IntoStringError.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.NulError.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.OsStr.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.OsString.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.VaList.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/struct.VaListImpl.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/c_str/struct.CStr.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/c_str/struct.CString.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/c_str/struct.FromBytesUntilNulError.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/c_str/struct.FromVecWithNulError.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/c_str/struct.IntoStringError.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/c_str/struct.NulError.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/os_str/struct.Display.html</loc>
+  <lastmod>2025-06-26T17:59:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/os_str/struct.OsStr.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ffi/os_str/struct.OsString.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.Arguments.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.DebugList.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.DebugMap.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.DebugSet.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.DebugStruct.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.DebugTuple.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.Error.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.Formatter.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.FormattingOptions.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fmt/struct.FromFn.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.DirBuilder.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.DirEntry.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.FileTimes.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.FileType.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.Metadata.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.OpenOptions.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.Permissions.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/fs/struct.ReadDir.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/future/struct.Pending.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/future/struct.PollFn.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/future/struct.Ready.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/hash/struct.BuildHasherDefault.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/hash/struct.DefaultHasher.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/hash/struct.RandomState.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/hash/struct.SipHasher.html</loc>
+  <lastmod>2025-06-26T17:59:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/intrinsics/mir/struct.ReturnToArg.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/intrinsics/mir/struct.UnwindActionArg.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.BorrowedBuf.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.BorrowedCursor.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.BufReader.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.BufWriter.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Bytes.html</loc>
+  <lastmod>2025-06-26T17:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Chain.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Cursor.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Empty.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Error.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.IntoInnerError.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.IoSlice.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.IoSliceMut.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.LineWriter.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Lines.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.PipeReader.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.PipeWriter.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Repeat.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Sink.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Split.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Stderr.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.StderrLock.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Stdin.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.StdinLock.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Stdout.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.StdoutLock.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.Take.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/io/struct.WriterPanicked.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.ArrayChunks.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.ByRefSized.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Chain.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Cloned.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Copied.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Cycle.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Empty.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Enumerate.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Filter.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.FilterMap.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.FlatMap.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Flatten.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.FromCoroutine.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.FromFn.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Fuse.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Inspect.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Intersperse.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.IntersperseWith.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Map.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.MapWhile.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.MapWindows.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Once.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.OnceWith.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Peekable.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Repeat.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.RepeatN.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.RepeatWith.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Rev.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Scan.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Skip.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.SkipWhile.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.StepBy.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Successors.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Take.html</loc>
+  <lastmod>2025-06-26T17:59:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.TakeWhile.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/iter/struct.Zip.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomContravariant.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomContravariantLifetime.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomCovariant.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomCovariantLifetime.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomData.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomInvariant.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomInvariantLifetime.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/marker/struct.PhantomPinned.html</loc>
+  <lastmod>2025-06-26T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/mem/struct.Assume.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/mem/struct.Discriminant.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/mem/struct.ManuallyDrop.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.AddrParseError.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.Incoming.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.IntoIncoming.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.Ipv4Addr.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.Ipv6Addr.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.SocketAddrV4.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.SocketAddrV6.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/net/struct.TcpListener.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/struct.NonZero.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/struct.ParseFloatError.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/struct.ParseIntError.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/struct.Saturating.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/struct.TryFromIntError.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/num/struct.Wrapping.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.Range.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.RangeFrom.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.RangeFull.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.RangeInclusive.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.RangeTo.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.RangeToInclusive.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/ops/struct.Yeet.html</loc>
+  <lastmod>2025-06-26T17:59:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/option/struct.IntoIter.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/option/struct.Iter.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/option/struct.IterMut.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/fd/struct.BorrowedFd.html</loc>
+  <lastmod>2025-06-26T17:59:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/fd/struct.OwnedFd.html</loc>
+  <lastmod>2025-06-26T17:59:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/linux/process/struct.PidFd.html</loc>
+  <lastmod>2025-06-26T17:59:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/linux/raw/struct.stat.html</loc>
+  <lastmod>2025-06-26T17:59:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.Incoming.html</loc>
+  <lastmod>2025-06-26T17:59:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.Messages.html</loc>
+  <lastmod>2025-06-26T17:59:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.ScmCredentials.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.ScmRights.html</loc>
+  <lastmod>2025-06-26T17:59:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.SocketAddr.html</loc>
+  <lastmod>2025-06-26T17:59:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.SocketAncillary.html</loc>
+  <lastmod>2025-06-26T17:59:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.SocketCred.html</loc>
+  <lastmod>2025-06-26T17:59:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.UCred.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.UnixDatagram.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.UnixListener.html</loc>
+  <lastmod>2025-06-26T17:59:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://doc.rust-lang.org/std/os/unix/net/struct.UnixStream.html</loc>
+  <lastmod>2025-06-26T17:59:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
