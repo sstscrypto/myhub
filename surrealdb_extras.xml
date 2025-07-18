@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/index.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/all.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/thing/struct.RecordIdFunc.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/thing/struct.RecordIdType.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/thing/struct.ThingArray.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/thing/index.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/macro.does_impl.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/struct.Record.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/struct.RecordData.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/trait.SurrealSelectInfo.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/trait.SurrealTableInfo.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/fn.use_ns_db.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/derive.SurrealSelect.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb-extras/latest/surrealdb_extras/derive.SurrealTable.html</loc>
+  <lastmod>2025-07-18T14:32:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
