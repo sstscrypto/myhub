@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/all.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/enum.Value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.from_str.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.from_slice.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.from_reader.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/macro.json.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_string.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_vec.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_writer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/error/index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/struct.Deserializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/struct.Error.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/struct.Map.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/struct.Number.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/struct.Serializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/struct.StreamDeserializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.from_value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_string_pretty.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_vec_pretty.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/fn.to_writer_pretty.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/type.Result.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/struct.Deserializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/struct.IoRead.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/struct.SliceRead.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/struct.StrRead.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/struct.StreamDeserializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/error/struct.Error.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.IntoIter.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.IntoValues.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.Iter.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.IterMut.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.Keys.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.Map.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.VacantEntry.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.Values.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/struct.ValuesMut.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/struct.CompactFormatter.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/struct.PrettyFormatter.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/struct.Serializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/struct.Number.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/struct.RawValue.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/struct.Serializer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/error/enum.Category.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/map/enum.Entry.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/enum.CharEscape.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/enum.Value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/trait.Read.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/trait.Formatter.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/trait.Index.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/fn.from_reader.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/fn.from_slice.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/de/fn.from_str.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/fn.to_string.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/fn.to_string_pretty.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/fn.to_vec.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/fn.to_vec_pretty.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/fn.to_writer.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/ser/fn.to_writer_pretty.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/fn.from_value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/fn.to_raw_value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/value/fn.to_value.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/serde_json/latest/serde_json/error/type.Result.html</loc>
+  <lastmod>2025-07-18T14:09:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
