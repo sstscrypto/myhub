@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/all.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.IANA_TZDB_VERSION.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Arctic/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Brazil/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Chile/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Indian/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Mexico/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Pacific/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/US/index.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/struct.GapInfo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/struct.ParseError.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/struct.TzOffset.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/enum.Tz.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.CET.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.CST6CDT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Cuba.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.EET.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.EST.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.EST5EDT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Egypt.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Eire.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.GB.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.GBEire.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.GMT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.GMT0.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.GMTMinus0.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.GMTPlus0.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Greenwich.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.HST.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Hongkong.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Iceland.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Iran.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Israel.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Jamaica.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Japan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Kwajalein.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Libya.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.MET.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.MST.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.MST7MDT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.NZ.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.NZCHAT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Navajo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.PRC.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.PST8PDT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Poland.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Portugal.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.ROC.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.ROK.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Singapore.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Turkey.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.UCT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.UTC.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Universal.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.WET.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.WSU.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/constant.Zulu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/static.TZ_VARIANTS.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/trait.OffsetComponents.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/trait.OffsetName.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Abidjan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Accra.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Addis_Ababa.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Algiers.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Asmara.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Asmera.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Bamako.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Bangui.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Banjul.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Bissau.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Blantyre.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Brazzaville.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Bujumbura.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Cairo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Casablanca.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Ceuta.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Conakry.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Dakar.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Dar_es_Salaam.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Djibouti.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Douala.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.El_Aaiun.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Freetown.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Gaborone.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Harare.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Johannesburg.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Juba.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Kampala.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Khartoum.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Kigali.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Kinshasa.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Lagos.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Libreville.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Lome.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Luanda.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Lubumbashi.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Lusaka.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Malabo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Maputo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Maseru.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Mbabane.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Mogadishu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Monrovia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Nairobi.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Ndjamena.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Niamey.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Nouakchott.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Ouagadougou.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.PortoNovo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Sao_Tome.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Timbuktu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Tripoli.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Tunis.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Africa/constant.Windhoek.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Adak.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Anchorage.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Anguilla.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Antigua.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Araguaina.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Buenos_Aires.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Catamarca.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.ComodRivadavia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Cordoba.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Jujuy.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.La_Rioja.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Mendoza.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Rio_Gallegos.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Salta.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.San_Juan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.San_Luis.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Tucuman.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Argentina/constant.Ushuaia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Aruba.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Asuncion.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Atikokan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Atka.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Bahia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Bahia_Banderas.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Barbados.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Belem.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Belize.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.BlancSablon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Boa_Vista.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Bogota.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Boise.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Buenos_Aires.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Cambridge_Bay.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Campo_Grande.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Cancun.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Caracas.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Catamarca.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Cayenne.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Cayman.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Chicago.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Chihuahua.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Ciudad_Juarez.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Coral_Harbour.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Cordoba.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Costa_Rica.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Coyhaique.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Creston.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Cuiaba.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Curacao.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Danmarkshavn.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Dawson.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Dawson_Creek.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Denver.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Detroit.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Dominica.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Edmonton.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Eirunepe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.El_Salvador.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Ensenada.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Fort_Nelson.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Fort_Wayne.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Fortaleza.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Glace_Bay.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Godthab.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Goose_Bay.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Grand_Turk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Grenada.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Guadeloupe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Guatemala.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Guayaquil.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Guyana.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Halifax.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Havana.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Hermosillo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Indianapolis.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Knox.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Marengo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Petersburg.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Tell_City.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Vevay.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Vincennes.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Indiana/constant.Winamac.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Indianapolis.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Inuvik.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Iqaluit.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Jamaica.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Jujuy.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Juneau.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Kentucky/constant.Louisville.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/Kentucky/constant.Monticello.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Knox_IN.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Kralendijk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.La_Paz.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Lima.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Los_Angeles.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Louisville.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Lower_Princes.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Maceio.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Managua.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Manaus.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Marigot.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Martinique.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Matamoros.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Mazatlan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Mendoza.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Menominee.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Merida.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Metlakatla.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Mexico_City.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Miquelon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Moncton.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Monterrey.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Montevideo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Montreal.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Montserrat.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Nassau.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.New_York.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Nipigon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Nome.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Noronha.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/North_Dakota/constant.Beulah.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/North_Dakota/constant.Center.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/North_Dakota/constant.New_Salem.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Nuuk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Ojinaga.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Panama.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Pangnirtung.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Paramaribo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Phoenix.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Port_of_Spain.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.PortauPrince.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Porto_Acre.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Porto_Velho.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Puerto_Rico.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Punta_Arenas.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Rainy_River.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Rankin_Inlet.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Recife.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Regina.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Resolute.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Rio_Branco.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Rosario.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Santa_Isabel.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Santarem.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Santiago.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Santo_Domingo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Sao_Paulo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Scoresbysund.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Shiprock.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Sitka.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.St_Barthelemy.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.St_Johns.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.St_Kitts.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.St_Lucia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.St_Thomas.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.St_Vincent.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Swift_Current.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Tegucigalpa.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Thule.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Thunder_Bay.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Tijuana.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Toronto.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Tortola.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Vancouver.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Virgin.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Whitehorse.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Winnipeg.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Yakutat.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/America/constant.Yellowknife.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Casey.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Davis.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.DumontDUrville.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Macquarie.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Mawson.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.McMurdo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Palmer.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Rothera.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.South_Pole.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Syowa.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Troll.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Antarctica/constant.Vostok.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Arctic/constant.Longyearbyen.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Aden.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Almaty.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Amman.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Anadyr.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Aqtau.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Aqtobe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Ashgabat.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Ashkhabad.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Atyrau.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Baghdad.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Bahrain.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Baku.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Bangkok.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Barnaul.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Beirut.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Bishkek.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Brunei.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Calcutta.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Chita.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Choibalsan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Chongqing.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Chungking.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Colombo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Dacca.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Damascus.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Dhaka.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Dili.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Dubai.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Dushanbe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Famagusta.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Gaza.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Harbin.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Hebron.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Ho_Chi_Minh.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Hong_Kong.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Hovd.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Irkutsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Istanbul.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Jakarta.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Jayapura.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Jerusalem.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kabul.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kamchatka.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Karachi.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kashgar.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kathmandu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Katmandu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Khandyga.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kolkata.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Krasnoyarsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kuala_Lumpur.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kuching.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Kuwait.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Macao.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Macau.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Magadan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Makassar.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Manila.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Muscat.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Nicosia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Novokuznetsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Novosibirsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Omsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Oral.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Phnom_Penh.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Pontianak.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Pyongyang.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Qatar.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Qostanay.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Qyzylorda.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Rangoon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Riyadh.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Saigon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Sakhalin.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Samarkand.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Seoul.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Shanghai.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Singapore.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Srednekolymsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Taipei.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Tashkent.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Tbilisi.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Tehran.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Tel_Aviv.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Thimbu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Thimphu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Tokyo.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Tomsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Ujung_Pandang.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Ulaanbaatar.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Ulan_Bator.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Urumqi.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.UstNera.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Vientiane.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Vladivostok.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Yakutsk.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Yangon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Yekaterinburg.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Asia/constant.Yerevan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Azores.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Bermuda.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Canary.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Cape_Verde.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Faeroe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Faroe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Jan_Mayen.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Madeira.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Reykjavik.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.South_Georgia.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.St_Helena.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Atlantic/constant.Stanley.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.ACT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Adelaide.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Brisbane.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Broken_Hill.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Canberra.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Currie.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Darwin.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Eucla.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Hobart.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.LHI.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Lindeman.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Lord_Howe.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Melbourne.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.NSW.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.North.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Perth.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Queensland.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.South.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Sydney.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Tasmania.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Victoria.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.West.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Australia/constant.Yancowinna.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Brazil/constant.Acre.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Brazil/constant.DeNoronha.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Brazil/constant.East.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Brazil/constant.West.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Atlantic.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Central.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Eastern.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Mountain.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Newfoundland.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Pacific.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Saskatchewan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Canada/constant.Yukon.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Chile/constant.Continental.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Chile/constant.EasterIsland.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMT0.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus0.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus1.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus10.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus11.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus12.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus13.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus14.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus2.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus3.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus4.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus5.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus6.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus7.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus8.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTMinus9.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus0.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus1.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus10.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus11.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus12.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus2.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus3.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus4.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus5.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus6.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus7.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus8.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.GMTPlus9.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.Greenwich.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.UCT.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.UTC.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.Universal.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Etc/constant.Zulu.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Amsterdam.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Andorra.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Astrakhan.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Athens.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Belfast.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Belgrade.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Berlin.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Bratislava.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Brussels.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/chrono-tz/latest/chrono_tz/Europe/constant.Bucharest.html</loc>
+  <lastmod>2025-07-18T16:12:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
