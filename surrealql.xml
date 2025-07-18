@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://surrealdb.com/docs/surrealql</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/engines/node</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/engines/wasm</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/integrations</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/labs?filters=examples</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/labs?filters=tutorials</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/labs</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/demo</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/operators</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/arrays</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/booleans</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/bytes</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/casting</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/closures</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/datetimes</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/files</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/formatters</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/futures</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/geometries</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/idioms</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/literals</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/none-and-null</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/numbers</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/objects</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/ranges</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/ids</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/records</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/references</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/regex</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/sets</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/strings</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/uuid</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/datamodel/values</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/explain</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/fetch</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/from</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/group-by</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/limit</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/omit</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/order-by</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/split</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/where</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/clauses/with</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/access</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/alter</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/begin</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/break</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/cancel</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/commit</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/continue</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/create</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/access</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/access/bearer</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/access/jwt</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/access/record</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/analyzer</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/api</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/bucket</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/config</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/database</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/event</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/field</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/function</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/indexes</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/namespace</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/param</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/scope</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/sequence</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/table</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/token</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/define/user</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/delete</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/for</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/ifelse</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/info</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/insert</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/kill</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/let</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/live</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/rebuild</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/relate</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/remove</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/return</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/select</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/show</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/sleep</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/throw</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/update</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/upsert</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/statements/use</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/api</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/array</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/bytes</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/count</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/crypto</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/duration</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/encoding</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/file</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/geo</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/http</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/math</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/meta</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/not</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/object</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/parse</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/rand</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/record</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/search</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/sequence</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/session</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/sleep</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/string</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/time</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/type</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/value</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/database/vector</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/script</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/script/arguments</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/script/built-in-functions</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/script/context</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/script/type-conversion</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/script/surrealql-functions</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/ml</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/functions/ml/functions</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/parameters</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/transactions</loc>
+  <lastmod>2025-07-18T00:11:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealql/comments</loc>
+  <lastmod>2025-07-18T00:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/introduction</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/introduction/start</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/introduction/concepts</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/introduction/concepts/namespace</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/introduction/concepts/database</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/introduction/architecture</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models/document</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models/graph</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models/vector</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models/full-text-search</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models/time-series</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/models/geospatial</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/macos</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/linux</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/windows</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/nightly</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/running</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/running/docker</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/running/file</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/running/memory</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/running/tikv</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/upgrading</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/installation/upgrading/migrating-data-to-2x</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/sdks</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/graphql</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/graphql/surrealist</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/graphql/http</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/surrealql</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/surrealql/surrealist</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/surrealql/http</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/querying/surrealql/cli</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/security</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/security/summary</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/security/authentication</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/security/capabilities</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/security/troubleshooting</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/deployment</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/deployment/surreal-cloud</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/deployment/kubernetes</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/deployment/amazon</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/deployment/google</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/deployment/azure</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/embedding</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/embedding/rust</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/embedding/javascript</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/embedding/python</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/embedding/dotnet</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/integration</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/integration/sdks</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/integration/http</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/integration/rpc</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/integration/cbor</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/start</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/sql</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/help</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/export</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/fix</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/import</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/isready</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/ml</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/ml/import</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/ml/export</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/upgrade</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/validate</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/version</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/cli/env</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/full-text-search</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/graph-relations</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/observability</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/security-best-practices</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/vector-search</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/performance-best-practices</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/sample-industry-schemas</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/reference-guide/schema-creation-best-practices</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/faqs</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealdb/faqs/known-issues</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/integrations/data-management</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/integrations/embeddings</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/integrations/frameworks</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/installation</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/getting-started</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/sending-queries</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/explore-database-records</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/designing-the-database-schema</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/manage-database-access</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/sending-queries-with-graphql</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/local-database-serving</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/writing-stored-procedures</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/specialized-api-docs</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/concepts/surreal-cloud</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics/search-and-shortcuts</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics/embedding-surrealist</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics/connection-templates</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics/settings-and-customisation</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics/surrealql-editors</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/advanced-topics/intents</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/faqs</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/faqs/info</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/faqs/known-issues</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/surrealist/troubleshooting</loc>
+  <lastmod>2025-07-18T00:11:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/architecture</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/getting-started</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/getting-started/create-an-account</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/getting-started/create-an-instance</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/getting-started/create-an-organisation</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/connect</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/connect/surrealist</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/connect/cli</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/connect/sdk</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/connect/http</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics/configure-an-instance</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics/manage-organisation-permissions</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics/migrating-data</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics/network-access</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics/search-and-shortcuts</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/advanced-topics/surrealql-editors</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/billing-and-support</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/billing-and-support/billing</loc>
+  <lastmod>2025-07-18T00:11:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/billing-and-support/support</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/cloud/faqs</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/setup</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/authenticate</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/connect</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/create</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/delete</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/export</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/get</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/import</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/init</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/insert</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/invalidate</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/new</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/query</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/run</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/select-live</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/select</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/set</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/signin</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/signup</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/unset</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/update</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/upsert</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/use</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/version</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/methods/wait-for</loc>
+  <lastmod>2025-07-18T00:11:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts/fetch</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts/transaction</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts/flexible-typing</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts/live</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts/authenticating-users</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/concepts/concurrency</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/frameworks</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/frameworks/actix</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/frameworks/axum</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/frameworks/egui</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/rust/frameworks/rocket</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/installation</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/start</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/data-types</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/properties</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/authenticate</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/close</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/connect</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/create</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/delete</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/export</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/import</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/info</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/insert</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/insertrelation</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/invalidate</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/kill</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/let</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/live</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/merge</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/patch</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/query</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/select</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/signin</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/signup</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/subscribelive</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/unset</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/update</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/upsert</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/methods/use</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/create-a-new-connection</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/handling-authentication</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/parameters</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/data-maniplulation</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/streaming</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/writing-surrealql</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/core/utilities</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/engines</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/frameworks</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/frameworks/react</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/javascript/frameworks/solidjs</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/installation</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/start</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/data-types</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/api-documentation</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/core</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/core/create-a-new-connection</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/java/core/handling-authentication</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/installation</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/start</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/data-types</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/connection-engines</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/authenticate</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/create</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/delete</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/info</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/insert-relation</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/insert</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/invalidate</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/kill</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/live-notification</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/live</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/merge</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/patch</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/query</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/raw-query</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/relate</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/select</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/signin</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/signup</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/unset</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/update</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/upsert</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/version</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/new</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/use</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/golang/methods/let</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/installation</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/start</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/data-types</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/authenticate</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/close</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/connect</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/create</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/delete</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/info</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/insert-relation</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/insert</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/invalidate</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/kill</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/let</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/live</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/merge</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/patch</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/query</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/select</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/signin</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/signup</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/subscribelive</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/unset</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/update</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/upsert</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/methods/use</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts/create-a-new-connection</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts/handling-authentication</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts/parameters</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts/data-maniplulation</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts/streaming</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/python/concepts/writing-surrealql</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/installation</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/start</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/data-types</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/authenticate</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/connect</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/create</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/delete</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/export</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/health</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/import</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/info</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/insert-relation</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/insert</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/invalidate</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/kill</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/live-query</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/live-raw-query</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/live-table</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/merge</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/patch</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/query</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/raw-query</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/relate</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/run</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/select</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/set</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/signin</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/signup</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/unset</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/update</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/upsert</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/use</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/methods/version</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/create-a-new-connection</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/authentication</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/parameters</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/data-manipulation</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/streaming</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/writing-surrealql</loc>
+  <lastmod>2025-07-18T00:11:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/connection-strings</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/dotnet/core/dependency-injection</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/data-types</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/setup</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/authenticate</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/close</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/connect</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/create</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/delete</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/export</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/health</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/import</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/info</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/insert</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/insertrelation</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/invalidate</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/let</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/merge</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/patch</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/query</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/queryraw</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/run</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/select</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/signin</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/signup</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/status</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/unset</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/update</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/upsert</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/use</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/methods/version</loc>
+  <lastmod>2025-07-18T00:11:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/core</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/core/initialization</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/core/authentication</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/sdk/php/core/data-querying</loc>
+  <lastmod>2025-07-18T00:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://surrealdb.com/docs/integrations/data-management/airbyte</loc>
+  <lastmod>2025-07-18T00:11:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
