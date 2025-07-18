@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/index.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/all.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/struct.Error.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/macro.anyhow.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/macro.bail.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/macro.ensure.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/struct.Chain.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/trait.Context.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/fn.Ok.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/anyhow/latest/anyhow/type.Result.html</loc>
+  <lastmod>2025-07-18T16:03:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
