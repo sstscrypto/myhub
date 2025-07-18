@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/index.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/all.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/struct.Bytes.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/struct.UpgradeResponse.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/struct.UpgradedRequestBuilder.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/struct.WebSocket.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/enum.CloseCode.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/enum.Error.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/enum.HandshakeError.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/enum.Message.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/trait.RequestBuilderExt.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/reqwest-websocket/latest/reqwest_websocket/fn.websocket.html</loc>
+  <lastmod>2025-07-18T16:01:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
