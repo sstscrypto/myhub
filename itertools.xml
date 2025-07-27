@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/index.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/all.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/trait.Itertools.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/index.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/traits/index.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/macro.chain.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/macro.iproduct.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/macro.izip.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/enum.Diff.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.diff_with.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/enum.Either.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/enum.EitherOrBoth.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/enum.FoldWhile.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/enum.MinMaxResult.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/enum.Position.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/trait.MultiUnzip.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/trait.PeekingNext.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.all.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.any.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.assert_equal.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.equal.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.chain.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.cloned.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.concat.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.cons_tuples.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.enumerate.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.fold.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.interleave.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.intersperse.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.intersperse_with.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.iterate.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.join.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.kmerge.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.kmerge_by.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.max.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.merge.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.merge_join_by.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.min.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.multipeek.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.multiunzip.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.multizip.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.partition.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.peek_nth.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.process_results.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.put_back.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.put_back_n.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.rciter.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.repeat_n.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.rev.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.sorted.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.sorted_unstable.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.unfold.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.zip.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/fn.zip_eq.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Batching.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Chunk.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.ChunkBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Chunks.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.CircularTupleWindows.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.CombinationsWithReplacement.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.ExactlyOneError.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.FilterMapOk.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.FilterOk.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.FlattenOk.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Format.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.FormatWith.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Group.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.GroupingMap.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Groups.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Interleave.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.InterleaveShortest.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.IntersperseWith.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.IntoChunks.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Iterate.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.KMergeBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.MergeBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.MultiPeek.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.MultiProduct.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.PadUsing.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.PeekNth.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.PeekingTakeWhile.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Permutations.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Positions.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Powerset.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.ProcessResults.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Product.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.PutBack.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.PutBackN.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.RcIter.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.RepeatN.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.TakeWhileInclusive.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.TakeWhileRef.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Tee.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.TupleBuffer.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.TupleCombinations.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.TupleWindows.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Tuples.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Unfold.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Unique.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.UniqueBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Update.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.WhileSome.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.WithPosition.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.Zip.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.ZipEq.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/struct.ZipLongest.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/traits/trait.HomogeneousTuple.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/traits/trait.IteratorIndex.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.ArrayCombinations.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.Coalesce.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.Combinations.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.ConsTuples.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.Dedup.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.DedupBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.DedupByWithCount.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.DedupWithCount.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.Duplicates.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.DuplicatesBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.GroupBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.GroupingMapBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.Intersperse.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.KMerge.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.MapInto.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.MapOk.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.Merge.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/itertools/0.14.0/itertools/structs/type.MergeJoinBy.html</loc>
+  <lastmod>2025-07-27T14:22:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
