@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/iced/latest/iced/</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/all.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/fn.run.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/type.Element.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Row.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Column.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Container.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Length.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Pixels.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Theme.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/application/struct.Application.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/button/enum.Status.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/container/fn.rounded_box.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/button/fn.primary.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/text/fn.danger.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Task.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/window/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/fn.focus_next.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/container/fn.visible_bounds.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Subscription.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/time/fn.every.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/keyboard/fn.on_key_press.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/daemon/struct.Daemon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/settings/struct.Settings.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/alignment/enum.Horizontal.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/alignment/enum.Vertical.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Alignment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/alignment/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/application/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/border/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/clipboard/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/daemon/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/event/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/executor/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/font/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/gradient/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/keyboard/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/mouse/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/overlay/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/padding/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/settings/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/stream/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/system/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/task/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/time/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/touch/index.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/macro.color.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Color.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Border.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Degrees.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Font.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Padding.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Point.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Radians.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Rectangle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Shadow.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Size.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Transformation.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/struct.Vector.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Background.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.ContentFit.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Error.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Event.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Gradient.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/enum.Rotation.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/trait.Executor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/fn.application.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/fn.daemon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/fn.exit.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/type.Renderer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/type.Result.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/struct.Layout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/struct.Shell.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/struct.Text.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/clipboard/struct.Null.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/image/struct.Bytes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/image/struct.Id.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/image/struct.Image.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/layout/struct.Layout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/layout/struct.Limits.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/layout/struct.Node.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/mouse/struct.Click.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/mouse/click/struct.Click.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/overlay/struct.Element.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/overlay/struct.Group.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/renderer/struct.Quad.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/renderer/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/svg/struct.Handle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/svg/struct.Svg.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/text/struct.Highlight.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/text/struct.Span.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/text/struct.Text.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/text/highlighter/struct.Format.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/text/highlighter/struct.PlainText.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/text/paragraph/struct.Plain.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/struct.Id.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/struct.Text.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/struct.Tree.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/operation/focusable/struct.Count.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/operation/scrollable/struct.AbsoluteOffset.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/operation/scrollable/struct.RelativeOffset.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/text/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/text/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/text/struct.Text.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/tree/struct.Tag.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/advanced/widget/tree/struct.Tree.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/application/struct.Appearance.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/border/struct.Border.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/border/struct.Radius.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/daemon/struct.Appearance.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/font/struct.Font.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/gradient/struct.ColorStop.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/gradient/struct.Linear.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/keyboard/struct.Modifiers.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/overlay/menu/struct.Menu.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/overlay/menu/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/overlay/menu/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/padding/struct.Padding.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/system/struct.Information.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/task/struct.Handle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/task/struct.Task.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/struct.Custom.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/struct.Palette.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Background.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Danger.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Extended.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Pair.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Palette.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Primary.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Secondary.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/theme/palette/struct.Success.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/time/struct.Duration.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/time/struct.Instant.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/touch/struct.Finger.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Button.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Canvas.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Checkbox.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.ComboBox.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Image.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Lazy.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.MouseArea.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.PaneGrid.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.PickList.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.ProgressBar.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.QRCode.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Radio.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Responsive.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Rule.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Scrollable.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Shader.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Slider.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Space.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Stack.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Svg.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.TextEditor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.TextInput.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Themer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Toggler.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.Tooltip.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/struct.VerticalSlider.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/button/struct.Button.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/button/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Canvas.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Fill.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Group.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Image.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.LineDash.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Path.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Stroke.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/struct.Text.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/fill/struct.Fill.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/gradient/struct.Linear.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/gradient/struct.Packed.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/struct.Arc.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/struct.Builder.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/struct.Path.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/arc/struct.Arc.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/arc/struct.Elliptical.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.ArcFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.AttributeSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.BuilderImpl.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.BuilderWithAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.ControlPointId.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.EndpointId.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.EventId.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.IdIter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.IdPolygon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.Iter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.IterWithAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.Path.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.PathBuffer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.PathBufferSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.PathCommands.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.PathCommandsSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.PathSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.Polygon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/struct.Reversed.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/builder/struct.BorderRadii.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/builder/struct.Flattened.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/builder/struct.NoAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/builder/struct.Transformed.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/builder/struct.WithSvg.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.CommandsPathSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.Events.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.Iter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.PathCommands.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.PathCommandsBuilder.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.PathCommandsSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/commands/struct.PointEvents.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.Angle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.Arc.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.ArcFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.CubicBezierSegment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.Line.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.LineEquation.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.LineSegment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.QuadraticBezierSegment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.SvgArc.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/struct.Triangle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arc/struct.Arc.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arc/struct.ArcFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arc/struct.Flattened.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arc/struct.SvgArc.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arrayvec/struct.ArrayString.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arrayvec/struct.ArrayVec.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arrayvec/struct.CapacityError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arrayvec/struct.Drain.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/arrayvec/struct.IntoIter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/cubic_bezier/struct.CubicBezierSegment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/cubic_bezier/struct.Flattened.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Angle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.BoolVector2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.BoolVector3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Box2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Box3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.HomogeneousVector.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Length.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Point2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Point3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Rect.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.RigidTransform3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Rotation2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Rotation3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Scale.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.SideOffsets2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Size2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Size3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Transform2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Transform3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Translation2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Translation3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.UnknownUnit.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Vector2D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/euclid/struct.Vector3D.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/quadratic_bezier/struct.Flattened.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/quadratic_bezier/struct.FlattenedT.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/quadratic_bezier/struct.FlatteningParameters.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/geom/quadratic_bezier/struct.QuadraticBezierSegment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/iterator/struct.Flattened.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/iterator/struct.FromPolyline.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/iterator/struct.NoAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/iterator/struct.Transformed.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.BuilderImpl.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.BuilderWithAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.IdIter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.Iter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.IterWithAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.Path.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.PathSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path/struct.Reversed.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path_buffer/struct.Builder.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path_buffer/struct.BuilderWithAttributes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path_buffer/struct.Iter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path_buffer/struct.PathBuffer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/path_buffer/struct.PathBufferSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/polygon/struct.IdPolygon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/polygon/struct.IdPolygonIter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/polygon/struct.PathEvents.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/polygon/struct.Polygon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/polygon/struct.PolygonIdIter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/path/lyon_path/polygon/struct.PolygonIter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/stroke/struct.LineDash.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/canvas/stroke/struct.Stroke.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/checkbox/struct.Checkbox.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/checkbox/struct.Icon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/checkbox/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/combo_box/struct.ComboBox.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/combo_box/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/container/struct.Container.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/container/struct.Id.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/container/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/image/struct.Image.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/image/struct.Viewer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/image/viewer/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/image/viewer/struct.Viewer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/keyed/struct.Column.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/keyed/column/struct.Column.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/markdown/struct.Highlight.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/markdown/struct.Settings.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/markdown/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/markdown/struct.Text.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/markdown/struct.Url.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/overlay/menu/struct.Menu.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/overlay/menu/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/overlay/menu/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Content.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Controls.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Highlight.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Line.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Pane.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.PaneGrid.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.ResizeEvent.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Split.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/struct.TitleBar.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/state/struct.Internal.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pane_grid/state/struct.State.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pick_list/struct.Icon.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pick_list/struct.PickList.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/pick_list/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/progress_bar/struct.ProgressBar.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/progress_bar/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/qr_code/struct.Data.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/qr_code/struct.QRCode.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/qr_code/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/radio/struct.Radio.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/radio/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/rule/struct.Rule.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/rule/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.AbsoluteOffset.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Id.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Rail.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.RelativeOffset.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Scrollable.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Scrollbar.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Scroller.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Style.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/scrollable/struct.Viewport.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/struct.Shader.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/struct.Storage.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/struct.Viewport.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Adapter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.AdapterInfo.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Backends.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BindGroup.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BindGroupDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BindGroupEntry.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BindGroupLayout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BindGroupLayoutDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BindGroupLayoutEntry.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BlendComponent.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BlendState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Buffer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BufferAsyncError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BufferBinding.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BufferSlice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BufferUsages.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BufferView.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.BufferViewMut.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Color.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ColorTargetState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ColorWrites.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.CommandBuffer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.CommandBufferDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.CommandEncoder.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ComputePass.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ComputePassDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ComputePassTimestampWrites.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ComputePipeline.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ComputePipelineDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.CreateSurfaceError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.DepthBiasState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.DepthStencilState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Device.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.DownlevelCapabilities.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.DownlevelFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Extent3d.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Features.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.FragmentState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Id.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ImageCopyBufferBase.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ImageCopyTextureBase.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ImageCopyTextureTaggedBase.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ImageDataLayout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ImageSubresourceRange.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Instance.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.InstanceDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.InstanceFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Limits.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.MultisampleState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Operations.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Origin2d.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Origin3d.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.PipelineLayout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.PipelineLayoutDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.PipelineStatisticsTypes.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.PresentationTimestamp.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.PrimitiveState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.PushConstantRange.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.QuerySet.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Queue.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.QueueWriteBufferView.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderBundle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderBundleDepthStencil.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderBundleEncoder.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderBundleEncoderDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPass.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPassColorAttachment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPassDepthStencilAttachment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPassDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPassTimestampWrites.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPipeline.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RenderPipelineDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RequestAdapterOptionsBase.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.RequestDeviceError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Sampler.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.SamplerDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ShaderModule.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ShaderModuleDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ShaderModuleDescriptorSpirV.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.ShaderStages.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.StencilFaceState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.StencilState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.SubmissionIndex.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Surface.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.SurfaceCapabilities.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.SurfaceTexture.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.Texture.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.TextureFormatFeatureFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.TextureFormatFeatures.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.TextureUsages.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.TextureView.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.TextureViewDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.VertexAttribute.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.VertexBufferLayout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/struct.VertexState.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/any_surface/struct.AnySurface.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/api/struct.Empty.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/api/struct.Gles.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/api/struct.Vulkan.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindGroup.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindGroupDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindGroupDynamicBindingData.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindGroupEntry.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindGroupLayout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindGroupLayoutDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BindingTypeMaxCountError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.BufferBinding.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.LateMinBufferBindingSizeMismatch.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.PipelineLayout.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/binding_model/struct.PipelineLayoutDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.BakedCommands.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.BasePassRef.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.CommandBuffer.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.CommandBufferMutable.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.ComputePass.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.ComputePassDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.ComputePassError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.ComputePassTimestampWrites.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.PassChannel.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.Rect.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderBundle.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderBundleEncoder.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderBundleEncoderDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderBundleError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderPass.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderPassColorAttachment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderPassDepthStencilAttachment.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderPassDescriptor.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderPassError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/command/struct.RenderPassTimestampWrites.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.Device.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.DeviceLostClosure.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.DeviceLostClosureC.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.DeviceLostClosureRust.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.DeviceLostInvocation.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.ImplicitPipelineContext.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.ImplicitPipelineIds.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.InvalidDevice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.MissingDownlevelFlags.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.MissingFeatures.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/struct.UserClosures.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/any_device/struct.AnyDevice.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/queue/struct.InvalidQueue.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/queue/struct.Queue.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/queue/struct.SubmittedWorkDoneClosure.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/queue/struct.SubmittedWorkDoneClosureC.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/queue/struct.WrappedSubmissionIndex.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/device/resource/struct.Device.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/error/struct.ContextError.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/error/struct.ErrorFormatter.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/global/struct.Global.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/global/struct.GlobalReport.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/hub/struct.Hub.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/iced/latest/iced/widget/shader/wgpu/core/hub/struct.HubReport.html</loc>
+  <lastmod>2025-07-28T07:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
