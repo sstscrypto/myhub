@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/config/latest/config/</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/index.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/all.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/struct.Config.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/builder/struct.ConfigBuilder.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/struct.Environment.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/struct.FileSourceString.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/enum.FileFormat.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/struct.FileSourceFile.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/trait.Format.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/builder/index.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/struct.File.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/struct.Value.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/enum.Case.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/enum.ConfigError.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/enum.ValueKind.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/trait.AsyncSource.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/trait.FileSource.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/trait.FileStoredFormat.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/trait.Source.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/type.Map.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/builder/struct.AsyncState.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/builder/struct.DefaultState.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/config/latest/config/builder/trait.BuilderState.html</loc>
+  <lastmod>2025-08-01T07:09:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
