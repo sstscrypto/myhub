@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/all.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/entry/enum.Entry.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/entry/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/entry/struct.VacantEntry.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter_set/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/setref/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/try_result/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/struct.DashMap.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/struct.DashSet.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/struct.RawRwLock.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/struct.ReadOnlyView.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/struct.SharedValue.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/struct.TryReserveError.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/trait.Map.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/type.RwLock.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/type.RwLockReadGuard.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/type.RwLockWriteGuard.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter/struct.Iter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter/struct.IterMut.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter/struct.OwningIter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter_set/struct.Iter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/iter_set/struct.OwningIter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/multiple/struct.RefMulti.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/multiple/struct.RefMutMulti.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/one/struct.MappedRef.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/one/struct.MappedRefMut.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/one/struct.Ref.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/one/struct.RefMut.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/map/struct.Iter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/map/struct.IterMut.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/map/struct.OwningIter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/set/struct.Iter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/set/struct.OwningIter.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/setref/multiple/struct.RefMulti.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/setref/one/struct.Ref.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/try_result/enum.TryResult.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/entry/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/multiple/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/mapref/one/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/map/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/read_only/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/rayon/set/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/setref/multiple/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dashmap/latest/dashmap/setref/one/index.html</loc>
+  <lastmod>2025-08-05T13:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
