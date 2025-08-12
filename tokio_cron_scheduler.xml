@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/index.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/all.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/enum.JobState.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/to_code/trait.JobCode.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/to_code/trait.NotificationCode.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/to_code/type.PinnedGetFuture.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/to_code/trait.ToCode.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/struct.JobLocked.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/type.OnJobNotification.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/struct.JobBuilder.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/type.JobToRun.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/type.JobToRunAsync.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/store/trait.MetaDataStorage.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/store/trait.NotificationStore.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/index.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/store/index.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/struct.Context.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/struct.JobScheduler.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/struct.SimpleJobCode.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/struct.SimpleMetadataStore.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/struct.SimpleNotificationCode.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/struct.SimpleNotificationStore.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/enum.JobSchedulerError.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/struct.JobCreator.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/struct.JobDeleter.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/struct.JobRunner.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.CronJob.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.JobAndNextTick.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.JobAndNotifications.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.JobIdAndNotification.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.JobStoredData.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.ListOfJobsAndNotifications.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.ListOfUuids.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.NonCronJob.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.NotificationData.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.NotificationIdAndState.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/struct.Uuid.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/enum.JobType.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/job_stored_data/enum.Job.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/trait.Job.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/store/trait.CodeGet.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/store/trait.DataStore.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/store/trait.InitStore.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/type.JobId.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/type.NotificationId.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/index.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/to_code/index.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-cron-scheduler/latest/tokio_cron_scheduler/job/job_data/job_stored_data/index.html</loc>
+  <lastmod>2025-08-12T08:58:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
