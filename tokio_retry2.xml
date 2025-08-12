@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/index.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/all.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/index.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/struct.Retry.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/struct.RetryIf.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/enum.RetryError.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/trait.Action.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/trait.Condition.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/trait.MapErr.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/struct.ExponentialBackoff.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/struct.ExponentialFactorBackoff.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/struct.FibonacciBackoff.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/struct.FixedInterval.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/struct.MaxIntervalIterator.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/tokio-retry2/latest/tokio_retry2/strategy/trait.MaxInterval.html</loc>
+  <lastmod>2025-08-12T08:46:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
