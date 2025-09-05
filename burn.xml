@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/burn/latest/burn/</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/all.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/backend/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/config/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/data/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/grad_clipping/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/macro.constant.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/type.LearningRate.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/constant/struct.ConstantLr.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/cosine/struct.CosineAnnealingLrScheduler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/cosine/struct.CosineAnnealingLrSchedulerConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/exponential/struct.ExponentialLrScheduler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/exponential/struct.ExponentialLrSchedulerConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/linear/struct.LinearLrScheduler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/linear/struct.LinearLrSchedulerConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/noam/struct.NoamLrScheduler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/noam/struct.NoamLrSchedulerConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/step/struct.StepLrScheduler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/step/struct.StepLrSchedulerConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.Attribute.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.ConstantRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.Content.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.DisplaySettings.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.Ignored.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.Param.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.ParamId.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.Quantizer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.Reinitializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/struct.RunningState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BatchNorm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BatchNormConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BatchNormRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BatchNormRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BiLstm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BiLstmConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BiLstmRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.BiLstmRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Dropout.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.DropoutConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Embedding.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.EmbeddingConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.EmbeddingRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.EmbeddingRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GateController.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GateControllerRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GateControllerRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Gelu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GroupNorm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GroupNormConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GroupNormRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.GroupNormRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.HardSigmoid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.HardSigmoidConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.InstanceNorm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.InstanceNormConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.InstanceNormRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.InstanceNormRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LayerNorm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LayerNormConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LayerNormRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LayerNormRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LeakyRelu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LeakyReluConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Linear.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LinearConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LinearRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LinearRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Lstm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LstmConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LstmRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LstmRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.LstmState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PRelu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PReluConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PReluRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PReluRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PositionalEncoding.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PositionalEncodingConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PositionalEncodingRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.PositionalEncodingRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Relu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RmsNorm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RmsNormConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RmsNormRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RmsNormRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RotaryEncoding.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RotaryEncodingConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RotaryEncodingRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.RotaryEncodingRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Sigmoid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.SwiGlu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.SwiGluConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.SwiGluRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.SwiGluRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Tanh.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Unfold4d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/struct.Unfold4dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.GeneratePaddingMask.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MhaCache.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MhaInput.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MhaOutput.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MultiHeadAttention.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MultiHeadAttentionConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MultiHeadAttentionRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/struct.MultiHeadAttentionRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/cache/struct.TensorCache.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv1dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv1dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv1dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv2dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv2dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv3d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv3dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv3dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.Conv3dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose1dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose1dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose1dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose2dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose2dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose3d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose3dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose3dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.ConvTranspose3dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.DeformConv2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.DeformConv2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.DeformConv2dRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/conv/struct.DeformConv2dRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/gru/struct.Gru.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/gru/struct.GruConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/gru/struct.GruRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/gru/struct.GruRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/interpolate/struct.Interpolate1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/interpolate/struct.Interpolate1dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/interpolate/struct.Interpolate2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/interpolate/struct.Interpolate2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.BinaryCrossEntropyLoss.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.BinaryCrossEntropyLossConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.BinaryCrossEntropyLossRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.BinaryCrossEntropyLossRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.CosineEmbeddingLoss.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.CosineEmbeddingLossConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.CrossEntropyLoss.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.CrossEntropyLossConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.CrossEntropyLossRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.CrossEntropyLossRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.HuberLoss.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.HuberLossConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.MseLoss.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.PoissonNllLoss.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/struct.PoissonNllLossConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.BiLstm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.BiLstmConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.BiLstmRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.BiLstmRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.Lstm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.LstmConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.LstmRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.LstmRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/lstm/struct.LstmState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AdaptiveAvgPool1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AdaptiveAvgPool1dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AdaptiveAvgPool2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AdaptiveAvgPool2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AvgPool1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AvgPool1dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AvgPool2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.AvgPool2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.MaxPool1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.MaxPool1dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.MaxPool2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/pool/struct.MaxPool2dConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.PositionWiseFeedForward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.PositionWiseFeedForwardConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.PositionWiseFeedForwardRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.PositionWiseFeedForwardRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderAutoregressiveCache.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderInput.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderLayer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderLayerRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderLayerRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerDecoderRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderAutoregressiveCache.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderInput.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderLayer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderLayerRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderLayerRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/transformer/struct.TransformerEncoderRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdaGrad.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdaGradConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdaGradState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdaGradStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.Adam.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamW.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamWConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamWState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdamWStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdaptiveMomentumState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.AdaptiveMomentumStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.CenteredState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.CenteredStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.GradientsAccumulator.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.GradientsParams.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.LrDecayState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.LrDecayStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsProp.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsPropConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsPropMomentum.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsPropMomentumState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsPropMomentumStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsPropState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.RmsPropStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.Sgd.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.SgdConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.SgdState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.SgdStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.SquareAvgState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/struct.SquareAvgStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/adaptor/struct.OptimizerAdaptor.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/decay/struct.WeightDecay.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/decay/struct.WeightDecayConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/decay/struct.WeightDecayState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/decay/struct.WeightDecayStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/momentum/struct.Momentum.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/momentum/struct.MomentumConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/momentum/struct.MomentumState.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/momentum/struct.MomentumStateItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/struct.Bool.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/struct.Float.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/struct.Int.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/struct.Shape.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/struct.Tensor.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/struct.TensorData.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.BinBytesRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.BinFileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.BinGzFileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.BurnMetadata.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.BurnRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.BurnRecordNoItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.DoublePrecisionSettings.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.FullPrecisionSettings.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.HalfPrecisionSettings.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.JsonGzFileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.NamedMpkBytesRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.NamedMpkFileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.NamedMpkGzFileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.ParamSerde.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/struct.PrettyJsonFileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/struct.IgnoredAny.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.BoolDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.BorrowedBytesDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.BorrowedStrDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.BytesDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.CharDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.CowStrDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.EnumAccessDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.Error.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.F32Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.F64Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.I128Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.I16Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.I32Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.I64Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.I8Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.IsizeDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.MapAccessDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.MapDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.SeqAccessDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.SeqDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.StrDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.StringDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.U128Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.U16Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.U32Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.U64Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.U8Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.UnitDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/value/struct.UsizeDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/struct.Impossible.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Bool.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Bytes.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.DimIter.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.DistributionSampler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Float.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Int.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.PrintOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Shape.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Slice.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.T.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Tensor.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.TensorData.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Tolerance.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.Transaction.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/backend/struct.DeviceId.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.bf16.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/container/struct.TensorContainer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/struct.f16.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/grid/struct.GridOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.Conv2dBackward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.Conv3dBackward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.ConvOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.ConvTransposeOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.DeformConv2dBackward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.DeformConvOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.InterpolateBackward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.InterpolateOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.MaxPool1dBackward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.MaxPool1dWithIndices.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.MaxPool2dBackward.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.MaxPool2dWithIndices.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.TransactionPrimitive.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.TransactionPrimitiveResult.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/struct.UnfoldOptions.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/struct.CalibrationRange.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/struct.QParams.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/struct.QuantScheme.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/struct.QuantizationParametersPrimitive.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/struct.QuantizedBytes.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/struct.SymmetricQuantization.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/config/enum.ConfigError.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/grad_clipping/enum.GradientClipping.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/grad_clipping/enum.GradientClippingConfig.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/enum.Initializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/enum.PaddingConfig1d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/enum.PaddingConfig2d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/enum.PaddingConfig3d.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/interpolate/enum.InterpolateMode.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/loss/enum.Reduction.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/record/enum.AdaptorRecord.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/record/enum.AdaptorRecordItem.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/record/enum.AdaptorRecordItemV1.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/record/enum.AdaptorRecordV1.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/enum.RecorderError.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/enum.Unexpected.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.DType.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.DataError.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.Distribution.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.DistributionSamplerKind.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.FloatDType.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.Precision.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/enum.TensorPrimitive.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/grid/enum.GridIndexing.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/grid/enum.GridSparsity.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/grid/enum.IndexPos.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/linalg/enum.Norm.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/enum.InterpolateMode.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.Calibration.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.QuantAccPrecision.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.QuantInputType.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.QuantLevel.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.QuantMode.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.QuantPropagation.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/enum.QuantizationStrategy.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/config/trait.Config.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/lr_scheduler/trait.LrScheduler.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.AutodiffModule.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.Module.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.ModuleDisplay.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.ModuleDisplayDefault.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.ModuleMapper.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.ModuleVisitor.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/trait.Parameter.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/trait.Optimizer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/optim/trait.SimpleOptimizer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/trait.Backend.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/trait.Config.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/trait.ElementConversion.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/trait.Module.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/trait.BytesRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/trait.FileRecorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/trait.PrecisionSettings.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/trait.Record.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/trait.Recorder.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/trait.Deserialize.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/trait.Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/trait.Serialize.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/trait.Serializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.Deserialize.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.DeserializeOwned.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.DeserializeSeed.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.Deserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.EnumAccess.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.Error.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.Expected.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.IntoDeserializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.MapAccess.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.SeqAccess.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.StdError.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.VariantAccess.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/de/trait.Visitor.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.Error.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.Serialize.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeMap.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeSeq.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeStruct.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeStructVariant.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeTuple.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeTupleStruct.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.SerializeTupleVariant.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.Serializer.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/ser/trait.StdError.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.AsIndex.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.BasicAutodiffOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.BasicOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.BroadcastArgs.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.Element.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.ElementComparison.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.ElementConversion.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.ElementLimits.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.ElementPrecision.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.ElementRandom.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.MovedimArgs.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.Numeric.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.RangeArg.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.RangesArg.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.ReshapeArgs.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.TensorKind.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/trait.TensorMetadata.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/backend/trait.AutodiffBackend.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/backend/trait.Backend.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/backend/trait.DeviceOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/cast/trait.ToElement.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/indexing/trait.AsIndex.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.ActivationOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.BoolTensorOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.FloatTensorOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.IntTensorOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.ModuleOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.QTensorOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/ops/trait.TransactionOps.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/trait.QTensorPrimitive.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/quantization/trait.Quantization.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/macro.s.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/macro.forward_to_deserialize_any.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/macro.dequant_op_flow.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/macro.dequant_op_quant.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/macro.make_element.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/macro.s.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/config/derive.Config.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/derive.Module.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/derive.Config.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/prelude/derive.Module.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/record/derive.Record.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/derive.Deserialize.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/serde/derive.Serialize.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/config/fn.config_to_json.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/fn.extract_type_name.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/module/fn.list_param_ids.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/fn.generate_autoregressive_mask.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/attention/fn.generate_padding_mask.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/nn/fn.generate_sinusoids.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.gelu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.hard_sigmoid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.leaky_relu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.log_sigmoid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.log_softmax.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.mish.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.prelu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.quiet_softmax.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.relu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.sigmoid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.silu.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.softmax.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.softmin.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.softplus.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/activation/fn.tanh.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/fn.argsort.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/fn.argwhere_data.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/fn.cartesian_grid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/fn.check_closeness.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/grid/fn.meshgrid.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/grid/fn.meshgrid_stack.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/indexing/fn.canonicalize_dim.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/indexing/fn.canonicalize_index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/indexing/fn.wrap_index.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/burn/latest/burn/tensor/linalg/fn.cosine_similarity.html</loc>
+  <lastmod>2025-09-05T08:16:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
