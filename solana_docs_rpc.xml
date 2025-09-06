@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://solana.com/zh/docs/rpc</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/json-structures</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getaccountinfo</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getbalance</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblock</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblockcommitment</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblockheight</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblockproduction</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblocks</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblockswithlimit</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getblocktime</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getclusternodes</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getepochinfo</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getepochschedule</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getfeeformessage</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getfirstavailableblock</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getgenesishash</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gethealth</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gethighestsnapshotslot</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getidentity</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getinflationgovernor</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getinflationrate</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getinflationreward</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getlargestaccounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getlatestblockhash</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getleaderschedule</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getmaxretransmitslot</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getmaxshredinsertslot</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getminimumbalanceforrentexemption</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getmultipleaccounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getprogramaccounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getrecentperformancesamples</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getrecentprioritizationfees</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getsignaturesforaddress</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getsignaturestatuses</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getslot</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getslotleader</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getslotleaders</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getstakeminimumdelegation</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getsupply</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettokenaccountbalance</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettokenaccountsbydelegate</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettokenaccountsbyowner</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettokenlargestaccounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettokensupply</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettransaction</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/gettransactioncount</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getversion</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/getvoteaccounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/isblockhashvalid</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/minimumledgerslot</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/requestairdrop</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/sendtransaction</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/http/simulatetransaction</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/terminology</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/accountsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/accountunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/blocksubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/blockunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/logssubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/logsunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/programsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/programunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/rootsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/rootunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/signaturesubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/signatureunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/slotsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/slotsupdatessubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/slotsupdatesunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/slotunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/votesubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/websocket/voteunsubscribe</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/quick-start</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/installation</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core/accounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core/transactions</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core/fees</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core/programs</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core/pda</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/core/cpi</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/clusters</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/staking</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/feature-gates/reserve-minimal-cus-for-builtins</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/confirmtransaction</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/quick-start/reading-from-network</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/quick-start/writing-to-network</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/quick-start/deploying-programs</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/quick-start/program-derived-address</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/intro/quick-start/cross-program-invocation</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/create-token-account</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/mint-tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/transfer-tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/approve-delegate</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/revoke-delegate</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/set-authority</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/burn-tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/sync-native</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/close-account</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/freeze-account</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/basics/thaw-account</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/scaled-ui-amount</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/clients/game-sdks</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/staking/stake-accounts</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/staking/stake-program</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/feature-gates/consume-cus-on-sbpf-failure</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/references/feature-gates/direct-mapping</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getconfirmedblock</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getconfirmedblocks</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getconfirmedblockswithlimit</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getconfirmedsignaturesforaddress2</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getconfirmedtransaction</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getfeecalculatorforblockhash</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getfeerategovernor</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getfees</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getrecentblockhash</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getsignatureconfirmation</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getsignaturestatus</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getsnapshotslot</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/rpc/deprecated/getstakeactivation</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer/create-mint</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer/create-token-account</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer/deposit-tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer/apply-pending-balance</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer/withdraw-tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/confidential-transfer/transfer-tokens</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/scaled-ui-amount/issuer-guide</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/tokens/extensions/scaled-ui-amount/integration-guide</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/clients/rust</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/clients/javascript</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/clients/go</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/clients/python</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/clients/java</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/programs/rust</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/programs/limitations</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/programs/rust/program-structure</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/programs/deploying</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/docs/programs/examples</loc>
+  <lastmod>2025-09-06T17:53:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>

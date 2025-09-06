@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://solana.com/zh/developers/cookbook</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/development/start-local-validator</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/development/using-mainnet-accounts-programs</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/development/connect-environment</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/development/test-sol</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/development/subscribing-events</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/development/load-keypair-from-file</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/create-keypair</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/restore-keypair</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/verify-keypair</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/check-publickey</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/generate-mnemonic</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/restore-from-mnemonic</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/generate-vanity-address</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/sign-message</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/wallets/connect-wallet-react</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/transactions/send-sol</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/transactions/calculate-cost</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/transactions/add-memo</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/transactions/add-priority-fees</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/transactions/optimize-compute</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/transactions/offline-transactions</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/accounts/create-account</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/accounts/calculate-rent</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/accounts/get-account-balance</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/create-mint-account</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/get-token-mint</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/create-token-account</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/get-token-account</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/get-token-balance</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/mint-tokens</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/transfer-tokens</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/burn-tokens</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/close-token-accounts</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/set-update-token-authority</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/approve-token-delegate</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/revoke-token-delegate</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/manage-wrapped-sol</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://solana.com/zh/developers/cookbook/tokens/get-all-token-accounts</loc>
+  <lastmod>2025-09-06T17:54:29+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+
+
+</urlset>
