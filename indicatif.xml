@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/index.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/all.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.ProgressBar.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.MultiProgress.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.HumanBytes.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.DecimalBytes.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.BinaryBytes.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.HumanDuration.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.HumanCount.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.HumanFloatCount.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/trait.ProgressIterator.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/style/trait.ProgressTracker.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/style/struct.ProgressStyle.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/style/index.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.FormattedDuration.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.InMemoryTerm.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.ProgressBarIter.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.ProgressDrawTarget.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.ProgressState.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/struct.WeakProgressBar.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/enum.MultiProgressAlignment.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/enum.ProgressFinish.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/trait.ParallelProgressIterator.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/trait.TermLike.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/indicatif/latest/indicatif/style/struct.TemplateError.html</loc>
+  <lastmod>2025-09-09T07:53:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
