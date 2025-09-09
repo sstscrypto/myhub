@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/moka/latest/moka/</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/all.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/struct.Cache.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/struct.SegmentedCache.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/struct.Cache.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/policy/trait.Expiry.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/policy/struct.Policy.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/notification/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/ops/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/policy/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/struct.Entry.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/enum.PredicateError.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/struct.CacheBuilder.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/struct.Iter.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/struct.OwnedKeyEntrySelector.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/struct.RefKeyEntrySelector.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/policy/struct.EvictionPolicy.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/struct.CacheBuilder.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/struct.Iter.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/struct.OwnedKeyEntrySelector.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/struct.RefKeyEntrySelector.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/notification/enum.RemovalCause.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/ops/compute/enum.CompResult.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/ops/compute/enum.Op.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/trait.FutureExt.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/trait.ConcurrentCacheExt.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/future/type.PredicateId.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/notification/type.ListenerFuture.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/sync/type.PredicateId.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/moka/latest/moka/ops/compute/index.html</loc>
+  <lastmod>2025-09-09T08:30:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
