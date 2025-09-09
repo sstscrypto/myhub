@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/all.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/struct.TlsConfigBuilder.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/middleware/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/typestate/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.Agent.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.Body.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.BodyBuilder.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.BodyReader.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.BodyWithConfig.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.Cookie.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.CookieJar.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.Proxy.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.ProxyBuilder.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.RequestBuilder.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/struct.SendBody.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/enum.Error.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/enum.ProxyProtocol.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/enum.Timeout.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/trait.AsSendBody.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/trait.RequestExt.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/trait.ResponseExt.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.agent.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.connect.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.delete.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.get.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.head.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.options.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.patch.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.post.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.put.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.run.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/fn.trace.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/struct.Config.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/struct.ConfigBuilder.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/struct.Timeouts.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/middleware/struct.MiddlewareNext.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/struct.Certificate.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/struct.ClientCert.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/struct.PrivateKey.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/struct.TlsConfig.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/typestate/struct.AgentScope.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/typestate/struct.HttpCrateScope.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/typestate/struct.RequestScope.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/typestate/struct.WithBody.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/typestate/struct.WithoutBody.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/resolver/struct.ArrayVec.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/resolver/struct.DefaultResolver.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.ChainedConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.ConnectProxyConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.ConnectionDetails.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.DefaultConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.LazyBuffers.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.NativeTlsConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.NextTimeout.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.RustlsConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.SocksConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.TcpConnector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/struct.TransportAdapter.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/enum.AutoHeaderValue.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/enum.IpFamily.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/config/enum.RedirectAuthHeaders.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/enum.PemItem.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/enum.RootCerts.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/enum.TlsProvider.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/enum.Either.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/time/enum.Duration.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/time/enum.Instant.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/middleware/trait.Middleware.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/resolver/trait.Resolver.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/trait.Buffers.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/trait.Connector.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/trait.Transport.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/tls/fn.parse_pem.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/resolver/type.ResolvedSocketAddrs.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/resolver/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ureq/latest/ureq/unversioned/transport/time/index.html</loc>
+  <lastmod>2025-09-09T08:34:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
