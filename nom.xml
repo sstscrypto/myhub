@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/nom/latest/nom/</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/all.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/recipes/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/branch/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/lib/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/macro.error_node_position.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/macro.error_position.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.And.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.AndThen.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Check.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Complete.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Emit.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.FlatMap.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Into.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Map.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.MapOpt.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.MapRes.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Or.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.OutputM.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.Mode.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.SaturatingIterator.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/struct.Streaming.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/enum.CompareResult.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/enum.Err.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/enum.Needed.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.AsBytes.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.AsChar.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.Compare.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.ErrorConvert.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.ExtendInto.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.FindSubstring.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.FindToken.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.Finish.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.HexDisplay.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.Input.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.IsStreaming.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.NomRange.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.Offset.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.OutputMode.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.ParseTo.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.Parser.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/trait.ToUsize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/type.IResult.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/type.PResult.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/branch/struct.Choice.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/branch/struct.Permutation.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.Escaped.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.EscapedTransform.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.SplitPosition.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.SplitPosition1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.Tag.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.TagNoCase.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.Take.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.TakeUntil.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.TakeUntil1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/struct.TakeWhileMN.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/struct.AnyChar.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/struct.Char.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/struct.Digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/struct.MultiSpace0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/struct.Satisfy.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.AllConsuming.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Cond.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Consumed.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Cut.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Fail.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.MakeComplete.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Not.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Opt.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.ParserIterator.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Peek.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Recognize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Success.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/struct.Verify.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/struct.Context.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/struct.Error.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Fill.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Fold.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.FoldMany0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.FoldMany1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.FoldManyMN.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.LengthCount.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.LengthValue.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Many.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Many0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Many0Count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Many1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.Many1Count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.ManyMN.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.ManyTill.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.SeparatedList0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/struct.SeparatedList1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/struct.Preceded.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/struct.Terminated.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/enum.ErrorKind.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/enum.Endianness.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/trait.ContextError.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/trait.FromExternalError.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/trait.ParseError.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/trait.Tuple.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/fn.bits.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/fn.bytes.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/complete/fn.bool.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/complete/fn.tag.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/complete/fn.take.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/streaming/fn.bool.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/streaming/fn.tag.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/streaming/fn.take.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/branch/fn.alt.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/branch/fn.permutation.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.escaped.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.escaped_transform.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.is_a.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.is_not.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.tag.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.tag_no_case.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_till.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_till1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_until.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_until1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_while.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_while1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/fn.take_while_m_n.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.escaped.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.escaped_transform.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.is_a.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.is_not.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.escaped.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.escaped_transform.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.is_a.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.is_not.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.tag.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.tag_no_case.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_till.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_till1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_until.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_until1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_while.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_while1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/fn.take_while_m_n.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.tag.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.tag_no_case.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_till.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_till1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_until.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_until1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_while.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_while1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/fn.take_while_m_n.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.anychar.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.char.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.alpha0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.alpha1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.alphanumeric0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.alphanumeric1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.anychar.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.bin_digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.bin_digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.char.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.crlf.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.hex_digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.hex_digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.isize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.line_ending.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.multispace0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.multispace1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.newline.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.none_of.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.not_line_ending.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.oct_digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.oct_digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.one_of.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.satisfy.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.space0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.space1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.tab.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/fn.usize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.is_bin_digit.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.multispace0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.none_of.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.one_of.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/fn.satisfy.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.alpha0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.alpha1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.alphanumeric0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.alphanumeric1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.anychar.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.bin_digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.bin_digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.char.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.crlf.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.hex_digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.hex_digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.isize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.line_ending.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.multispace0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.multispace1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.newline.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.none_of.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.not_line_ending.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.oct_digit0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.oct_digit1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.one_of.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.satisfy.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.space0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.space1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.tab.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/fn.usize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.all_consuming.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.complete.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.cond.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.consumed.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.cut.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.eof.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.fail.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.flat_map.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.into.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.iterator.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.map.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.map_opt.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.map_parser.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.map_res.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.not.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.opt.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.peek.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.recognize.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.rest.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.rest_len.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.success.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.value.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/combinator/fn.verify.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/fn.append_error.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/fn.context.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/fn.dbg_dmp.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/fn.error_to_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/error/fn.make_error.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.fill.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.fold.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.fold_many0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.fold_many1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.fold_many_m_n.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.length_count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.length_data.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.length_value.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many0_count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many1_count.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many_m_n.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.many_till.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.separated_list0.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/multi/fn.separated_list1.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.be_u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.be_u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.double.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.float.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.hex_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.le_u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.recognize_float.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.recognize_float_parts.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/fn.u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.double.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.float.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.le_u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.recognize_float.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.recognize_float_or_exceptions.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.be_u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.double.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.float.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.hex_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_f32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_f64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_i128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_i16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_i24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_i32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_i64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_i8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.le_u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.recognize_float.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.recognize_float_parts.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/fn.u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.u128.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.u16.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.u24.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.u32.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.u64.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/fn.u8.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/fn.delimited.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/fn.pair.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/fn.preceded.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/fn.separated_pair.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/fn.terminated.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/sequence/fn.tuple.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/complete/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bits/streaming/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/complete/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/bytes/streaming/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/complete/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/character/streaming/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/lib/std/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/complete/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nom/latest/nom/number/streaming/index.html</loc>
+  <lastmod>2025-09-09T08:08:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
