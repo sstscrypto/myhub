@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/all.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/trait.MathematicalOps.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/str/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/macro.dec.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/struct.Decimal.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/enum.Error.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/enum.RoundingStrategy.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/type.Result.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/struct.DecimalFromString.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.FromPrimitive.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.FromStr.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.MathematicalOps.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.One.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.Signed.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.ToPrimitive.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/trait.Zero.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/prelude/macro.dec.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/arbitrary_precision/fn.deserialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/arbitrary_precision/fn.serialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/arbitrary_precision_option/fn.deserialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/arbitrary_precision_option/fn.serialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/float/fn.deserialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/float/fn.serialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/float_option/fn.deserialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/float_option/fn.serialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/str/fn.deserialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/str/fn.serialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/str_option/fn.deserialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/str_option/fn.serialize.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/str/fn.overflow_128.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/arbitrary_precision/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/arbitrary_precision_option/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/float/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/float_option/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/str/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/rust_decimal/latest/rust_decimal/serde/str_option/index.html</loc>
+  <lastmod>2025-09-10T14:27:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
