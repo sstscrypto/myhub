@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/all.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/error/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Bytes.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Connect.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Datetime.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Notification.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Number.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Object.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.RecordId.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.RecordIdKey.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Response.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Surreal.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Uuid.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/struct.Value.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/enum.Action.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/enum.Error.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/trait.Connection.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/type.Result.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/any/struct.Any.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/local/struct.Db.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/local/struct.File.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/local/struct.Mem.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/local/struct.RocksDb.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/struct.WsNotification.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/http/struct.Client.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/http/struct.Http.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/http/struct.Https.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/ws/struct.Client.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/ws/struct.Ws.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/ws/struct.Wss.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Authenticate.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Backup.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Content.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Create.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Delete.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Export.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.ExportConfig.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Health.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Import.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Insert.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Invalidate.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Live.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Merge.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Model.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Patch.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Query.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.QueryStream.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Run.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Select.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Set.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Signin.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Signup.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Stats.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Stream.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Unset.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Update.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Upsert.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.UseDb.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.UseNs.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.Version.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/struct.WithStats.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.Config.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.Edge.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.Endpoint.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.KeyRange.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.PatchOp.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.PatchOps.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.QueryRange.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/struct.Table.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Database.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Jwt.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Namespace.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Record.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Root.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Signin.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/struct.Signup.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/capabilities/struct.Capabilities.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Bytes.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.ConversionError.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Datetime.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.IntoIter.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Iter.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.IterMut.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Notification.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Number.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Object.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.RecordId.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.RecordIdKey.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.RecordIdKeyFromValueError.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/struct.Value.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/proto/enum.ResponseAction.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/error/enum.Api.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/error/enum.Db.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/enum.ExportDestination.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/enum.Resource.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/enum.Tls.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/enum.WaitFor.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/capabilities/enum.ExperimentalFeature.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/enum.Action.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/any/trait.IntoEndpoint.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/method/trait.IntoFn.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.CreateResource.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.IntoEndpoint.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.IntoExportDestination.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.IntoQuery.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.IntoResource.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.QueryResult.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/trait.QueryStream.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/trait.Credentials.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/any/fn.connect.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/fn.from_value.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/value/fn.to_value.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/any/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/local/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/proto/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/auth/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/opt/capabilities/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/http/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/surrealdb/2.3.8/surrealdb/engine/remote/ws/index.html</loc>
+  <lastmod>2025-09-19T07:20:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
