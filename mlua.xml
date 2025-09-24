@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/index.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/all.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Lua.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Chunk.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.IntoLua.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.FromLua.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.IntoLuaMulti.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.FromLuaMulti.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.UserData.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.UserDataMethods.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.UserDataFields.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.LuaSerdeExt.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.Value.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Function.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.AsyncThread.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/prelude/index.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/index.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/macro.chunk.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.AsChunk.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.AnyUserData.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.AppDataRef.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.AppDataRefMut.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.BString.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.BorrowedBytes.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.BorrowedStr.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Buffer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Compiler.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.CoverageInfo.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Debug.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.DebugNames.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.DebugSource.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.DebugStack.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.DeserializeOptions.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.FunctionInfo.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.HookTriggers.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.LightUserData.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.LuaOptions.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.MultiValue.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.RegistryKey.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Scope.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.SerializeOptions.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.StdLib.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.String.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Table.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.TablePairs.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.TableSequence.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.TextRequirer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Thread.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.UserDataMetatable.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.UserDataRef.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.UserDataRefMut.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.UserDataRegistry.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Variadic.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.Vector.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.WeakLua.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/struct.lua_State.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.ChunkMode.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.CompileConstant.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.DebugEvent.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.Either.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.Error.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.GCMode.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.MetaMethod.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.NavigateError.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.ThreadStatus.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/enum.VmState.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.ErrorContext.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.ExternalError.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.ExternalResult.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/type.Result.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.LuaNativeAsyncFn.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.LuaNativeFn.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.LuaNativeFnMut.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.MaybeSend.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.ObjectLike.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/trait.Require.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/type.Integer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/type.Number.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/type.lua_CFunction.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/attr.lua_module.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/derive.FromLua.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/struct.Deserializer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/struct.Serializer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/de/struct.Deserializer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/de/struct.Options.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/ser/struct.Options.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/ser/struct.Serializer.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/trait.LuaSerdeExt.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/de/index.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/mlua/latest/mlua/serde/ser/index.html</loc>
+  <lastmod>2025-09-24T21:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
