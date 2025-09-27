@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://burn.dev/books/burn/</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/saving-and-loading.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/custom-training-loop.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/import/</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/motivation.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/tensor.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/learner.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/module.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/getting-started.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/model.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/backend.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/backend-extension/</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/autodiff.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/backend.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/training.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/data.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/record.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/import/onnx-model.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/import/pytorch-model.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/import/safetensors-model.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/examples.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/conclusion.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/import/index.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/dataset.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/quantization.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/backend-extension/index.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/overview.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/index.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/basic-workflow/inference.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/index.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/metric.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/building-blocks/config.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/models-and-pretrained-weights.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/index.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/backend-extension/custom-cubecl-kernel.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/backend-extension/custom-wgpu-kernel.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/web-assembly.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://burn.dev/books/burn/advanced/no-std.html</loc>
+  <lastmod>2025-08-26T17:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
