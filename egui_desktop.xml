@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/all.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/shortcuts/struct.KeyboardShortcut.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/items/struct.MenuItem.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/items/struct.SubMenuItem.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/enum.ThemeError.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/enum.ThemeMode.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/trait.ThemeProvider.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/struct.TitleBarTheme.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/fn.detect_system_dark_mode.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/main/enum.CustomIcon.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/main/struct.TitleBar.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/options/struct.TitleBarOptions.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/menu_bar/struct.MenuBar.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/menu_bar/struct.MenuItem.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/main/struct.AnimationCtx.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/main/struct.CustomIconButton.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/main/struct.IconAnimationState.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/shortcuts/enum.ShortcutParseError.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/control_buttons/enum.WindowControlIcon.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/os/fn.apply_native_rounded_corners.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/os/fn.supports_native_rounded_corners.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/resize_handles/fn.render_resize_handles.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/rounded_corners/fn.apply_rounded_corners.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/shortcuts/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/items/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/main/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/options/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/os/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/resize_handles/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/utils/rounded_corners/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/api/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/menu/menu_bar/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/theme/api/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/api/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/control_buttons/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-desktop/latest/egui_desktop/titlebar/render_bar/index.html</loc>
+  <lastmod>2025-10-14T06:51:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
