@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/all.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/error/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/url/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/error/struct.ApiError.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/account/struct.CommissionRateParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/account/struct.FuturesAccountParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/account/struct.FuturesBalanceParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/account/struct.IncomeHistoryParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/account/struct.PositionSideParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.BasisParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.FundingRateHistoryParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.GlobalLongShortAccountRatioParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.OpenInterestHistoryParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.Pair.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.Symbol.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.TakerBuySellVolumeParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.TopLongShortAccountRatioParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/struct.TopLongShortPositionRatioParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.CancelAllOrdersParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.CancelOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.GetOpenOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.GetOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.NewOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.PositionRiskV3Params.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/struct.SetLeverageParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/websocket/struct.WebSocketParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.CommissionRateResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.FuturesAccountResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.FuturesAssetBalance.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.FuturesBalanceResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.FuturesPosition.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.IncomeHistoryResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/struct.PositionSideResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.BasisResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.BookTickerResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.DeliveryPriceResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.DepthResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.ExchangeInformationResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.FundingRateHistoryResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.GlobalLongShortAccountRatioResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.HistoricalTradesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.MarkPriceResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.OpenInterestHistoryResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.OpenInterestResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.RateLimitResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.SymbolResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.TakerBuySellVolumeResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.Ticker24hResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.TickerPriceResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.TopLongShortAccountRatioResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.TopLongShortPositionRatioResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/struct.TradesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/struct.CancelAllOrdersResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/struct.GetOrderResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/struct.OrderResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/struct.PositionRiskV3Response.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/struct.SetLeverageResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/struct.TestOrderResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/struct.AggTradeResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/struct.CombinedStreamResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/struct.Kline.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/struct.KlineResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/struct.MarkPriceResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/struct.MiniTickerResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/struct.EmptyParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/account/struct.InfoParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/account/struct.MyTradesParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/account/struct.UnfilledOrderCountParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/general/struct.ExchangeInformationParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.AvgPriceParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.BookTickerParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.DepthParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.HistoricalTradesParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.KlinesParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.PriceTickerParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.RollingTickerParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.Ticker24hParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.TickerDayParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/struct.TradesParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/struct.AllOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/struct.CancelAllOrdersParms.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/struct.CancelOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/struct.GetOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/struct.NewOrderParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/struct.OpenOrdersParams.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/account/struct.AssetResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/account/struct.ComissionRatesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/account/struct.InfoResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/account/struct.MyTradesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/account/struct.UnfilledOrderCountResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/general/struct.EmptyResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/general/struct.ExchangeInformationResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/general/struct.RateLimitResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/general/struct.ServerTimeResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/general/struct.SymbolResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.Asks.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.AvgPriceResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.Bids.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.BookTickerResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.DepthResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.HistoricalTradesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.KlinesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.PriceTickerResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.RollingTickerFullResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.RollingTickerMiniResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.Ticker24hFullResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.Ticker24hMiniResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.TickerDayFullResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.TickerDayMiniResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/struct.TradesResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.AckResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.CancelOrderResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.Fill.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.FullResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.OrderIdResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.OrderResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/struct.ResultResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.AdlLevel.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.AllocationType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.CancelRestrictions.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.ContingencyType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.ContractType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.IncomeType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.Interval.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.OrderResponseType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.OrderSide.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.OrderType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.PositionSide.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.PriceMatch.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.StpModes.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.TimeInForce.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.WebSocketCommand.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.WebSocketStatus.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.WebSocketStreamRate.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.WebSocketType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.WorkingFloor.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/enums/enum.WorkingType.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/error/enum.BinanceError.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/host/enum.Host.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/host/enum.WebSocketHost.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/route/enum.Account.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/route/enum.Market.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/route/enum.Trade.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/websocket/enum.WebSocketSymbol.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/enum.WebSocketResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/host/enum.Host.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/route/enum.Account.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/route/enum.General.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/route/enum.Market.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/route/enum.Trade.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/enum.NewOrderResponse.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/trait.Deserialize.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/trait.Serialize.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/trait.Deserialize.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/url/trait.UrlEncoded.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/derive.Deserialize.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/derive.Serialize.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/derive.Deserialize.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/account/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/market/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/trade/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/params/websocket/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/account/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/market/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/trade/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/model/response/websocket/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/account/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/general/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/market/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/params/trade/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/account/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/general/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/market/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/model/response/trade/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/host/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/futures/endpoint/route/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/host/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/binance-common/latest/binance_common/spot/endpoint/route/index.html</loc>
+  <lastmod>2025-10-14T10:56:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
