@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/all.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/error/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/look_ahead_back/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/summarizing/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/macro.dotproduct.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/macro.sum.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/count_cycle/struct.CountCycle.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/groupby_transform/struct.GroupByTransform.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/intersperse/struct.Intersperse.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/mark_ends/struct.MarkEnds.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/ncycles/struct.Ncycles.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/repeat_each/struct.RepeatEach.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/repeat_last/struct.RepeatLast.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/interleave/struct.Interleave.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/interleave_longest/struct.InterleaveLongest.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/zip_equal/struct.ZipEqual.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/zip_offset/struct.ZipOffset.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/error/struct.Error.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/error/struct.Inner.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/bucket/struct.Bucket.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/bucket/struct.BucketInner.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/bucket/struct.Cursor.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/chunked/struct.Chunked.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/chunked_even/struct.ChunkedEven.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/distribute/struct.Cursor.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/distribute/struct.Distribute.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/divide/struct.Cursor.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/divide/struct.Divide.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/grouper/struct.Grouper.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/partition/struct.CursorFalse.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/partition/struct.CursorTrue.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/partition/struct.Partition.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/partition/struct.PartitionInner.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/sliced/struct.Sliced.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_at/struct.SplitAt.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_into/struct.SplitInto.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_when/struct.SplitWhen.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/accumulate/struct.Accumulate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/chain/struct.Chain.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/groupby/struct.GroupBy.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/islice/struct.Islice.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/tee/struct.Tee.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/look_ahead_back/peekable/struct.Peekable.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/cache_last/struct.CacheLast.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/iterate/struct.Iterate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/locate/struct.Locate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/rlocate/struct.Rlocate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/before_and_after/struct.BeforeAndAfter.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/filter_except/struct.FilterExcept.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/filter_map/struct.FilterMap.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/map_except/struct.MapExcept.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/tail/struct.Tail.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/struct.SequenceVector.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/sliding_window/struct.SlidingWindow.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/substrings/struct.Substrings.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/substrings_indexes/struct.SubstringsIndexes.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/windowed/struct.Windowed.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/windowed_complete/struct.WindowedComplete.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/error/enum.Kind.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/grouper/enum.IncompleteType.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/trait.Sequence.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/adjacent/fn.adjacent.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/count_cycle/fn.count_cycle.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/groupby_transform/fn.groupby_transform.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/intersperse/fn.intersperse.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/mark_ends/fn.mark_ends.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/ncycles/fn.ncycles.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/padded/fn.padded.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/repeat_each/fn.repeat_each.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/repeat_last/fn.repeat_last.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/interleave/fn.interleave.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/interleave_longest/fn.interleave_longest.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/prepend/fn.prepend.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/roundrobin/fn.roundrobin.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/sort_together/fn.sort_together2.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/sort_together/fn.sort_together3.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/zip_equal/fn.zip_equal.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/zip_offset/fn.zip_offset.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/bucket/fn.bucket.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/chunked/fn.chunked.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/chunked_even/fn.chunked_even.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/distribute/fn.distribute.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/divide/fn.divide.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/grouper/fn.grouper.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/partition/fn.partition.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/sliced/fn.sliced.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_after/fn.splite_after.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_at/fn.split_at.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_before/fn.split_before.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_into/fn.split_into.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_when/fn.split_when.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/unzip/fn.unzip2.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/unzip/fn.unzip3.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/unzip/fn.unzip4.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/unzip/fn.unzip5.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/accumulate/fn.accumulate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/chain/fn.chain.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/filter/fn.filter.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/groupby/fn.groupby.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/islice/fn.islice.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/iter/fn.iter_from_result_vec.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/iter/fn.iter_from_vec.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/map/fn.map.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/map/fn.map2.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/tee/fn.tee.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/zip/fn.zip.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/look_ahead_back/peekable/fn.peekable.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/look_ahead_back/spy/fn.spy.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/cache_last/fn.cache_last.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/cache_until/fn.cache_until.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/iterate/fn.iterate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/locate/fn.locate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/repeat_append_default/fn.repeat_append_default.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/replace/fn.replace.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/rlocate/fn.rlocate.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/before_and_after/fn.before_and_after.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/filter_except/fn.filter_except.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/filter_map/fn.filter_map.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/first/fn.first.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/last/fn.last.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/map_except/fn.map_except.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/nth/fn.nth.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/nth_or_last/fn.nth_or_last.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/one/fn.one.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/only/fn.only.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/strictly_n/fn.strictly_n.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/tail/fn.tail.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/take/fn.take.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/fn.are_seqs_equals.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/fn.create_seq_from_iterator.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/fn.create_seq_from_iterator_result.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/sequence/fn.create_seq_from_vec.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/summarizing/ilen/fn.ilen.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.any.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.any1.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.any_result2.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.are_same.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.argsort.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.counter.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.extract_value_from_result_vec.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.generate_okok_iterator.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.generate_okokerr_iterator.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.join_char_vec_second_level.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.join_string_vec.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/utils/fn.vecdeque_2_vec.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/pairwise/fn.pairwise.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/sliding_window/fn.sliding_windowed.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/substrings/fn.substrings.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/substrings_indexes/fn.substrings_indexes.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/triplewise/fn.triplewise.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/windowed/fn.windowed.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/windowed_complete/fn.windowed_complete.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/adjacent/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/count_cycle/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/groupby_transform/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/intersperse/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/mark_ends/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/ncycles/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/padded/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/repeat_each/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/augmenting/repeat_last/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/dotproduct/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/interleave/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/interleave_longest/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/prepend/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/roundrobin/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/sort_together/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/zip_equal/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/combining/zip_offset/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/bucket/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/chunked/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/chunked_even/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/distribute/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/divide/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/grouper/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/partition/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/sliced/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_after/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_at/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_before/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_into/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/split_when/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/grouping/unzip/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/accumulate/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/chain/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/filter/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/groupby/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/islice/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/iter/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/map/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/sum/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/tee/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/itertools/zip/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/look_ahead_back/peekable/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/look_ahead_back/spy/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/cache_last/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/cache_until/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/iterate/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/locate/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/repeat_append_default/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/replace/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/others/rlocate/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/before_and_after/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/filter_except/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/filter_map/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/first/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/last/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/map_except/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/nth/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/nth_or_last/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/one/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/only/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/strictly_n/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/tail/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/selecting/take/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/summarizing/ilen/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/summarizing/unique_to_each/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/pairwise/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/sliding_window/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/substrings/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/substrings_indexes/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/triplewise/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/windowed/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/more-itertools/latest/more_itertools/windowing/windowed_complete/index.html</loc>
+  <lastmod>2025-10-14T10:32:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
