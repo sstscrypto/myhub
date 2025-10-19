@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/index.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/all.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/struct.AxisParameters.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/struct.CellIndex.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/struct.DeferredTable.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/struct.SimpleTupleRenderer.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/struct.TableDimensions.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/enum.Action.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/trait.DeferredTableDataSource.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/trait.DeferredTableRenderer.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_deferred_table/latest/egui_deferred_table/fn.apply_reordering.html</loc>
+  <lastmod>2025-10-19T10:31:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
