@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/index.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/all.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/struct.Bind.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/enum.State.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/enum.StateWithData.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/egui/struct.EguiAsyncPlugin.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/egui/trait.UiExt.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/index.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/egui/index.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/macro.run_once.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/trait.MaybeSend.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/static.ASYNC_RUNTIME.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/static.CTX.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/static.CURR_FRAME.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui-async/latest/egui_async/bind/static.LAST_FRAME.html</loc>
+  <lastmod>2025-10-18T19:30:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

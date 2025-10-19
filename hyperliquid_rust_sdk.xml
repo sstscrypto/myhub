@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/index.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/all.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.AccountClassTransfer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ActiveAssetCtx.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ActiveAssetCtxData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.AllMids.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.AllMidsData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ApproveAgent.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ApproveBuilderFee.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.AssetMeta.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.AssetPosition.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BasicOrder.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BasicOrderInfo.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BookLevel.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BuilderInfo.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BulkCancel.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BulkCancelCloid.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BulkModify.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.BulkOrder.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Candle.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.CandleData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.CandleSnapshotRequest.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.CandlesSnapshotResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClassTransfer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClientCancelRequest.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClientCancelRequestCloid.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClientLimit.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClientModifyRequest.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClientOrderRequest.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ClientTrigger.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.CumulativeFunding.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.DailyUserVlm.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Delta.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Deposit.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ExchangeClient.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ExchangeDataStatuses.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ExchangeResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.FeeSchedule.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.FilledOrder.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.FundingHistoryResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.InfoClient.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.InternalTransfer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.L2Book.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.L2BookData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.L2SnapshotResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.LedgerLiquidation.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.LedgerUpdateData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Level.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Leverage.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.LiquidatedPosition.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Liquidation.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.MarginSummary.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.MarketCloseParams.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.MarketMaker.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.MarketMakerInput.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.MarketMakerRestingOrder.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.MarketOrderParams.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Meta.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Mm.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ModifyRequest.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.NonUserCancel.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Notification.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.NotificationData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.OpenOrdersResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.OrderInfo.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.OrderStatusResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.OrderUpdate.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.OrderUpdates.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.PerpsAssetCtx.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.PositionData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.RecentTradesResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ReferralResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Referrer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ReferrerData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.ReferrerState.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.RestingOrder.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SetReferrer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SharedAssetCtx.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SpotAssetCtx.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SpotGenesis.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SpotSend.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SpotTransfer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SpotUser.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.SubAccountTransfer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Tiers.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Trade.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.TradeInfo.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Trades.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UpdateIsolatedMargin.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UpdateLeverage.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UsdSend.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.User.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFeesResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFills.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFillsData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFillsResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFunding.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFundingResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFundings.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserFundingsData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserNonFundingLedgerUpdates.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserNonFundingLedgerUpdatesData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserStateResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserTokenBalance.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.UserTokenBalanceResponse.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.VaultDelta.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.VaultLeaderCommission.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.VaultTransfer.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.VaultWithdraw.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Vip.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.WebData2.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.WebData2Data.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Withdraw.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/struct.Withdraw3.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.Actions.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.AssetCtx.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.BaseUrl.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.ClientOrder.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.Error.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.ExchangeDataStatus.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.ExchangeResponseStatus.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.InfoRequest.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.LedgerUpdate.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.Message.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.Order.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.Subscription.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/enum.UserData.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/constant.EPSILON.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/static.LOCAL_API_URL.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/static.MAINNET_API_URL.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/static.TESTNET_API_URL.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/fn.bps_diff.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/hyperliquid_rust_sdk/latest/hyperliquid_rust_sdk/fn.truncate_float.html</loc>
+  <lastmod>2025-10-18T21:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
