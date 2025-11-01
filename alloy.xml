@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/all.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/macro.hex.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/sol_types/macro.sol.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/ens/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/serde/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/signers/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/sol_types/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/transports/index.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Account.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.BlobTransactionSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Block.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.BlockBody.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Header.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.HeaderInfo.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Receipt.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.ReceiptWithBloom.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Receipts.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Sealed.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.SidecarBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.Signed.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.SimpleCoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TrieAccount.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TxEip1559.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TxEip2930.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TxEip4844.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TxEip4844WithSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TxEip7702.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/struct.TxLegacy.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/conditional/struct.BlockConditionalAttributes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/crypto/struct.InvalidSignatureS.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/crypto/struct.RecoveryError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/error/struct.UnsupportedTransactionType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/error/struct.ValueError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.EthereumTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.Header.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.Receipt.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.ReceiptEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.TxEip1559.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.TxEip2930.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.TxEip7702.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/serde_bincode_compat/struct.TxLegacy.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.BlobTransactionSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.Recovered.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.SidecarBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.SimpleCoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TransactionInfo.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TransactionMeta.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TxEip1559.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TxEip2930.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TxEip4844.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TxEip4844WithSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TxEip7702.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/struct.TxLegacy.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/eip4844/struct.TxEip4844.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/eip4844/struct.TxEip4844WithSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/eip4844_utils/struct.WholeFe.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/envelope_serde_bincode_compat/struct.EthereumTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/serde_bincode_compat/struct.EthereumTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/serde_bincode_compat/struct.TxEip1559.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/serde_bincode_compat/struct.TxEip2930.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/serde_bincode_compat/struct.TxEip7702.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/consensus/transaction/serde_bincode_compat/struct.TxLegacy.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.CallBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.ContractInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.EthCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.Event.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.EventPoller.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.EventSubscription.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.Interface.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/contract/struct.StorageSlotFinder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.DecodedError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.DecodedEvent.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.Decoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.DynSolCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.DynSolError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.DynSolEvent.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.DynSolReturns.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.Eip712Domain.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.Eip712Types.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.Encoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.PropertyDef.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.Resolver.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.TypeDef.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/struct.TypedData.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/abi/struct.Decoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/abi/struct.Encoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/abi/token/struct.DynSeqToken.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/abi/token/struct.FixedSeqToken.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/abi/token/struct.PackedSeqToken.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/abi/token/struct.WordToken.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/struct.Eip712Types.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/struct.PropertyDef.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/struct.Resolver.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/struct.TypeDef.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/struct.TypedData.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/parser/struct.ComponentType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/parser/struct.EncodeType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/eip712/parser/struct.PropDef.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/parser/struct.Error.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/parser/struct.ParameterSpecifier.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/parser/struct.Parameters.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/parser/struct.RootType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/parser/struct.TupleSpecifier.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/dyn_abi/parser/struct.TypeSpecifier.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/struct.BlobScheduleBlobParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/struct.NumHash.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/struct.RpcBlockHash.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1559/struct.BaseFeeParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1559/struct.Eip1559Estimation.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1898/struct.BlockWithParent.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1898/struct.HexStringMissingPrefixError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1898/struct.LenientBlockNumberOrTag.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1898/struct.NumHash.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1898/struct.ParseBlockHashOrNumberError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip1898/struct.RpcBlockHash.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2124/struct.EnrForkIdEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2124/struct.ForkFilter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2124/struct.ForkHash.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2124/struct.ForkId.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2124/struct.ForkTransition.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2124/struct.Head.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2718/struct.WithEncoded.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2930/struct.AccessList.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2930/struct.AccessListItem.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2930/struct.AccessListResult.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip2930/struct.AccessListWithGasUsed.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.BlobAndProofV1.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.BlobAndProofV2.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.BlobTransactionSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.BlobTransactionSidecarItem.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.HeapBlob.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.IndexedBlobHash.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.InvalidBlobLength.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/struct.VersionedHashIter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/builder/struct.PartialSidecar.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/builder/struct.SidecarBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/builder/struct.SimpleCoder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/env_settings/struct.KzgSettings.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/trusted_setup_points/struct.G1Points.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/trusted_setup_points/struct.G2Points.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4844/utils/struct.WholeFe.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4895/struct.Withdrawal.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip4895/struct.Withdrawals.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip6110/struct.DepositRequest.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7002/struct.WithdrawalRequest.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7251/struct.ConsolidationRequest.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7594/struct.BlobTransactionSidecarEip7594.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7685/struct.Requests.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7702/struct.Authorization.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7702/struct.RecoveredAuthorization.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7702/struct.SignedAuthorization.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7702/serde_bincode_compat/struct.SignedAuthorization.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7840/struct.BlobParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7892/struct.BlobScheduleBlobParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7910/struct.EthConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/eips/eip7910/struct.EthForkConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/struct.ChainConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/struct.CliqueConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/struct.EthashConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/struct.Genesis.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/struct.GenesisAccount.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/genesis/struct.ParliaConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Constructor.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.ContractObject.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Error.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Event.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.EventParam.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Fallback.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Function.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.IntoItems.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Items.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.JsonAbi.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Param.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.Receive.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/struct.ToSolConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/parser/struct.Error.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/parser/struct.ParameterSpecifier.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/parser/struct.Parameters.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/parser/struct.RootType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/parser/struct.TupleSpecifier.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/json_abi/parser/struct.TypeSpecifier.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.AnyHeader.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.AnyNetwork.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.AnyReceiptEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.AnyRpcBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.AnyRpcTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.AnyTxType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.Ethereum.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.EthereumWallet.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.UnbuiltTransactionError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.UnknownTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/struct.UnknownTypedTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.AnyHeader.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.AnyNetwork.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.AnyReceiptEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.AnyRpcBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.AnyRpcTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.AnyTxType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.UnknownTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/struct.UnknownTypedTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/any/error/struct.AnyConversionError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/eip2718/struct.WithEncoded.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/network/primitives/struct.BlockTransactionHashes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/struct.Anvil.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/struct.AnvilInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/struct.Geth.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/struct.GethInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/struct.Reth.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/struct.RethInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/anvil/struct.Anvil.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/anvil/struct.AnvilInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/geth/struct.DevOptions.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/geth/struct.Geth.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/geth/struct.GethInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/geth/struct.PrivateNetOptions.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/reth/struct.Reth.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/node_bindings/nodes/reth/struct.RethInstance.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Address.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.AddressChecksumBuffer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.BigIntConversionError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Bloom.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Bytes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.FixedBytes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Function.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Keccak256.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Log.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.LogData.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Sealed.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Signature.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Signed.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/struct.Uint.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/struct.DefaultHashBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/struct.DefaultHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/struct.FbBuildHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/struct.FbHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/struct.FxHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/struct.SharedSeed.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/fast/struct.FixedState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/fast/struct.FoldHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/fast/struct.RandomState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/fast/struct.SeedableRandomState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/quality/struct.FixedState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/quality/struct.FoldHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/quality/struct.RandomState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/foldhash/quality/struct.SeedableRandomState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.Drain.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.ExtractIf.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.HashMap.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.IntoIter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.IntoKeys.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.IntoValues.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.Iter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.IterMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.Keys.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.OccupiedError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.VacantEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.VacantEntryRef.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.Values.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_map/struct.ValuesMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.Difference.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.Drain.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.ExtractIf.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.HashSet.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.Intersection.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.IntoIter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.Iter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.SymmetricDifference.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.Union.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/hash_set/struct.VacantEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/struct.IndexMap.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/struct.IndexSet.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/struct.TryReserveError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.Drain.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IndexMap.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IndexedEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IntoIter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IntoKeys.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IntoValues.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.Iter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IterMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.IterMut2.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.Keys.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.OccupiedEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.Slice.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.Splice.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.VacantEntry.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.Values.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/struct.ValuesMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/raw_entry_v1/struct.RawEntryBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/raw_entry_v1/struct.RawEntryBuilderMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/raw_entry_v1/struct.RawOccupiedEntryMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/map/raw_entry_v1/struct.RawVacantEntryMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Difference.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Drain.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.IndexSet.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Intersection.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.IntoIter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Iter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Slice.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Splice.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.SymmetricDifference.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/indexmap/set/struct.Union.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/rustc_hash/struct.FxBuildHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/rustc_hash/struct.FxHasher.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/rustc_hash/struct.FxRandomState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/map/rustc_hash/struct.FxSeededState.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/ruint/struct.Bits.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/ruint/struct.Uint.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/ruint/algorithms/struct.LehmerMatrix.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/utils/struct.Keccak256.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/primitives/utils/struct.Unit.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.CallItem.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.CallItemBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.DynProvider.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.Dynamic.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.Empty.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.EthCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.EthCallMany.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.EthCallManyParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.EthCallParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.EthGetBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.EthGetBlockParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.Failure.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.GetSubscription.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.Identity.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.IpcConnect.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.MulticallBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.ParamsWithBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.PendingTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.PendingTransactionBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.PendingTransactionConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.ProviderBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.RootProvider.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.RpcWithBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.SendableTxErr.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.Stack.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.SubFullBlocks.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.WatchBlocks.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.Web3Signer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.WebSocketConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/struct.WsConnect.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/ArbSys/struct.arbBlockNumberCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/ArbSys/struct.arbBlockNumberReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.Call.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.Call3.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.Call3Value.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.Result.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.aggregate3Call.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.aggregate3Return.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.aggregate3ValueCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.aggregate3ValueReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.aggregateCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.aggregateReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.blockAndAggregateCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.blockAndAggregateReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getBasefeeCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getBasefeeReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getBlockHashCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getBlockHashReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getBlockNumberCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getBlockNumberReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getChainIdCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getChainIdReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockCoinbaseCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockCoinbaseReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockDifficultyCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockDifficultyReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockGasLimitCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockGasLimitReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockTimestampCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getCurrentBlockTimestampReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getEthBalanceCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getEthBalanceReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getLastBlockHashCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.getLastBlockHashReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.tryAggregateCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.tryAggregateReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.tryBlockAndAggregateCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/bindings/IMulticall3/struct.tryBlockAndAggregateReturn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/ext/struct.ImpersonateConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/ext/struct.MevBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/ext/struct.TraceBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/ext/struct.TraceParams.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.BlobGasFiller.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.CachedNonceManager.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.ChainIdFiller.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.FillProvider.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.GasFiller.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.JoinFill.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.NonceFiller.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.SimpleNonceManager.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/fillers/struct.WalletFiller.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.AnvilLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.AnvilProvider.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.CacheLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.CacheProvider.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.CallBatchLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.CallBatchProvider.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.ChainLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/layers/struct.SharedCache.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.AnyHeader.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.AnyNetwork.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.AnyReceiptEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.AnyRpcBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.AnyRpcTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.AnyTxType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.Ethereum.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.EthereumWallet.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.UnbuiltTransactionError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.UnknownTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/struct.UnknownTypedTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.AnyHeader.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.AnyNetwork.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.AnyReceiptEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.AnyRpcBlock.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.AnyRpcTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.AnyTxType.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.UnknownTxEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/struct.UnknownTypedTransaction.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/any/error/struct.AnyConversionError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/eip2718/struct.WithEncoded.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/network/primitives/struct.BlockTransactionHashes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/struct.BoxTransport.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/struct.DualTransport.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/struct.HttpError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.FallbackLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.FallbackService.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.OrRetryPolicyFn.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.RateLimitRetryPolicy.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.RetryBackoffLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.RetryBackoffService.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.ThrottleLayer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/layers/struct.ThrottleService.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/mock/struct.Asserter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/transport/mock/struct.MockTransport.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/providers/utils/struct.Eip1559Estimation.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.ConnectionHandle.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.ConnectionInterface.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.InFlight.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.PubSubFrontend.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.RawSubscription.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.SubAnyStream.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.SubResultStream.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.Subscription.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/pubsub/struct.SubscriptionStream.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/struct.Bytes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/struct.BytesMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/struct.Header.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/struct.Rlp.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/struct.Bytes.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/struct.BytesMut.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/struct.TryGetError.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.Chain.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.IntoIter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.Limit.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.Reader.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.Take.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.UninitSlice.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rlp/bytes/buf/struct.Writer.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.BatchRequest.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.ClientBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.IpcConnect.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.PollChannel.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.PollerBuilder.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.PollerStream.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.RpcCall.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.RpcClient.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.RpcClientInner.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.Waiter.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.WebSocketConfig.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/client/struct.WsConnect.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/json_rpc/struct.ErrorPayload.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/json_rpc/struct.EthNotification.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/json_rpc/struct.Request.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/json_rpc/struct.RequestMeta.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/json_rpc/struct.Response.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/json_rpc/struct.SerializedRequest.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/types/struct.AccessList.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/types/struct.AccessListItem.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/types/struct.AccessListResult.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/types/struct.Account.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/types/struct.AccountInfo.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/alloy/latest/alloy/rpc/types/struct.AnyReceiptEnvelope.html</loc>
+  <lastmod>2025-11-01T15:54:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
