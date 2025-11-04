@@ -1,0 +1,2137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/index.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/all.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/_ownership_and_data_flow/index.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/colors/index.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/inspector_reflection/index.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/prelude/index.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/styled_reflection/index.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.actions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.border_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.box_shadow_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.cursor_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.margin_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.overflow_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.padding_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.position_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.register_action.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/macro.visibility_style_methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Anchored.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnchoredState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Animation.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnimationElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyDrag.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyEntity.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyImageCache.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyTooltip.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Interactivity.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyView.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Entity.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyWeakEntity.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyWeakView.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AnyWindowHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.App.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Context.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Application.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ArenaClearNeeded.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AsyncApp.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.AsyncWindowContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Background.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.BackgroundExecutor.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.BindingIndex.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Boundary.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Bounds.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.BoundsRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.BoxShadow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Canvas.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Capslock.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Cascade.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.CascadeSlot.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ClipboardItem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ClipboardString.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ContentMask.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ContextEntry.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Corners.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.CornersRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DebugBelow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DecorationRun.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Deferred.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DeferredScrollToItem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DevicePixels.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DismissEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ManagedView.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DisplayId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Div.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DivFrameState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DivInspectorState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DragMoveEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Drawable.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Element.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.DummyKeyboardMapper.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Edges.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.EdgesRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ElementClickedState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ElementInputHandler.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Window.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Empty.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.EmptyView.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.EntityId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ExternalPaths.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FallbackPromptRenderer.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FillOptions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FocusHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FocusId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FocusOutEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Font.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontFallbacks.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontFamilyId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontFeatures.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontMetrics.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontRun.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.FontWeight.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ForegroundExecutor.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.GlobalElementId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.GlyphId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WindowTextSystem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.GpuSpecs.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.GpuiBorrow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.GridLocation.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.GroupStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.HighlightStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Hitbox.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.HitboxId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.HitboxBehavior.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Hsla.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Image.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ImageCacheElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ImageFormatIter.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ImageFormat.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ImageId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ImageStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Img.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ImgLayoutState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Inspector.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.InspectorElementId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.InspectorElementPath.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.InteractiveElementState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.InteractiveText.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.InvalidKeystrokeError.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ItemSize.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeyBinding.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeyBindingMetaIndex.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeyContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeyDownEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeyUpEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeybindingKeystroke.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeyboardClickEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Keymap.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeymapVersion.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Keystroke.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.KeystrokeEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.LayoutId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.LineLayout.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.LineWrapper.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.LineWrapperHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.LinearColorStop.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.List.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ListOffset.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ListPrepaintState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ListScrollEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ListState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Menu.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Modifiers.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ModifiersChangedEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.MouseClickEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.MouseDownEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.MouseExitEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.MouseMoveEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.MouseUpEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.NoAction.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.OsMenu.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.OwnedMenu.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.OwnedOsMenu.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.PaintQuad.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Path.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.PathBuilder.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.PathPromptOptions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Percentage.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Pixels.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Point.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.PointRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.PromptHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.PromptResponse.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Radians.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Rems.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.RenderImage.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.RenderablePromptHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Reservation.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.RetainAllImageCache.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.RetainAllImageCacheProvider.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Rgba.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ScaledPixels.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Scope.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ScreenCaptureFrame.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ScrollAnchor.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ScrollHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ScrollWheelEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.SemanticVersion.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ShapedGlyph.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ShapedLine.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.ShapedRun.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.SharedString.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.SharedUri.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Size.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.SizeRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.SourceMetadata.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ScreenCaptureSource.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Stateful.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.StrikethroughStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.StrikethroughStyleRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.StrokeOptions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Style.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.StyleRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.StyledText.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Subscription.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Surface.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Svg.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.SystemWindowTabController.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Task.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TaskLabel.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TextLayout.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TextRun.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TextStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TextStyleRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TextSystem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Tiling.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Timeout.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Timer.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TitlebarOptions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TooltipId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.Transformation.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.TransformationMatrix.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UTF16Selection.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UnderlineStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UnderlineStyleRefinement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UniformList.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UniformListFrameState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UniformListScrollHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.UniformListScrollState.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WeakEntity.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WeakFocusHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WindowControls.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WindowHandle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WindowId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WindowOptions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WrapBoundary.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WrappedLine.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/struct.WrappedLineLayout.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AbsoluteLength.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ActionBuildError.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AlignContent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AlignItems.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AnchoredFitMode.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AnchoredPositionMode.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ArcCow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AssetLogger.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.AvailableSpace.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Axis.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.BorderStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ClickEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ClipboardEntry.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ColorSpace.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Corner.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.CursorStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Decorations.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.DefiniteLength.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.DispatchPhase.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Display.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ElementId.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.FileDropEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Fill.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.FillRule.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.FlexDirection.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.FlexWrap.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.FontStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.GridPlacement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ImageAssetLoader.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ImageCacheError.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ImageCacheItem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ImageSource.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.KeyBindingContextPredicate.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.KeyboardButton.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Length.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.LineFragment.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ListAlignment.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ListHorizontalSizingBehavior.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ListMeasuringBehavior.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ListSizingBehavior.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.MenuItem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.MouseButton.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.NavigationDirection.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ObjectFit.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.OsAction.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Overflow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.OwnedMenuItem.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.PathStyle.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.PlatformInput.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Position.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.PromptButton.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.PromptLevel.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ResizeEdge.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Resource.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ScrollDelta.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.ScrollStrategy.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.SurfaceSource.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.SystemMenuType.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.TextAlign.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.TextOverflow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.TouchPhase.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.Visibility.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WhiteSpace.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WindowAppearance.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WindowBackgroundAppearance.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WindowBounds.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WindowControlArea.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WindowDecorations.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/enum.WindowKind.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/constant.KEYSTROKE_PARSE_EXPECTED_MESSAGE.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/constant.LOADING_DELAY.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/constant.SHUTDOWN_TIMEOUT.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Action.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Along.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.AnimationExt.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.AppContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.AsKeystroke.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Asset.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.AssetSource.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.BorrowAppContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.EntityInputHandler.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.EventEmitter.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Flatten.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Focusable.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.FutureExt.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Global.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Half.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ImageCache.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ImageCacheProvider.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.InputEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.InputHandler.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.InteractiveElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.IntoElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.IsEmpty.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.IsZero.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.KeyEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.MouseEvent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Negate.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ParentElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.PlatformDisplay.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.PlatformKeyboardLayout.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.PlatformKeyboardMapper.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Prompt.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ReadGlobal.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Refineable.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Render.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.RenderOnce.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.ScreenCaptureStream.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.StatefulInteractiveElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.Styled.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.StyledImage.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.UniformListDecoration.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.UpdateGlobal.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/trait.VisualContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.anchored.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.auto.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.background_executor.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.black.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.blue.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.bounce.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.bounds.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.canvas.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.combine_highlights.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.deferred.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.div.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.ease_in_out.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.ease_out_quint.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.fallback_prompt_renderer.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.fill.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.font.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.generate_list_of_all_registered_actions.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.green.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.guess_compositor.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.hash.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.hsla.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.image_cache.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.img.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.is_no_action.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.linear.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.linear_color_stop.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.linear_gradient.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.list.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.opaque_grey.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.outline.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.pattern_slash.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.percentage.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.phi.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.point.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.pulsating_between.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.px.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.quad.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.quadratic.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.radians.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.red.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.relative.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.rems.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.retain_all.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.rgb.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.rgba.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.size.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.solid_background.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.surface.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.svg.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.transparent_black.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.transparent_white.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.uniform_list.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.white.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/fn.yellow.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.AlignSelf.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.ImageLoadingTask.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.ImgResourceLoader.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.InspectorRenderer.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.JustifyContent.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.JustifyItems.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.JustifySelf.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.Result.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/type.Transform.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/attr.ctor.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/attr.test.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/derive.Action.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/derive.AppContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/derive.IntoElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/derive.Refineable.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/derive.VisualContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/colors/struct.Colors.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/colors/struct.GlobalColors.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/inspector_reflection/struct.FunctionReflection.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/colors/enum.DefaultAppearance.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/colors/trait.DefaultColors.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/prelude/trait.FluentBuilder.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/prelude/trait.Refineable.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/prelude/derive.IntoElement.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/prelude/derive.Refineable.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/prelude/derive.VisualContext.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/styled_reflection/fn.find_method.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui/latest/gpui/styled_reflection/fn.methods.html</loc>
+  <lastmod>2025-11-04T17:59:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
