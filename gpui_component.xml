@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/all.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.Disableable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/trait.RopeExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.RopeLines.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/context_menu/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/popup_menu/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/list/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/accordion/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/alert/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/animation/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/avatar/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/badge/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/breadcrumb/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/chart/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/checkbox/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/clipboard/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/color_picker/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/date_picker/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/description_list/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/divider/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/drawer/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/group_box/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/history/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/indicator/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/label/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/link/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/modal/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/notification/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/popover/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/progress/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/radio/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/skeleton/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/slider/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/styled_ext_reflection/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/switch/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tab/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tag/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/text/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tooltip/index.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.DivInspector.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.Icon.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.IndexPath.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.Kbd.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.Measure.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.Root.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.Rope.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.TitleBar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.TitleBarElement.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.ToggleInspector.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.Tree.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.TreeEntry.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.TreeItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.TreeState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.VirtualList.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.VirtualListScrollHandle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/struct.WindowBorder.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/enum.IconName.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/enum.Placement.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/enum.Side.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/enum.Size.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/constant.TITLE_BAR_HEIGHT.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.AxisExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.Collapsible.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.ContextModal.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.IconNamed.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.InteractiveElementExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.PixelsExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.Selectable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.Sizable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.StyleSized.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/trait.StyledExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.box_shadow.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.h_flex.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.h_virtual_list.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.init.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.locale.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.measure.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.measure_if.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.set_locale.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.tree.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.v_flex.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.v_virtual_list.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.window_border.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/fn.window_paddings.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/accordion/struct.Accordion.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/accordion/struct.AccordionItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/alert/struct.Alert.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/avatar/struct.Avatar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/avatar/struct.AvatarGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/badge/struct.Badge.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/breadcrumb/struct.Breadcrumb.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/breadcrumb/struct.BreadcrumbItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.Button.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.ButtonCustomVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.ButtonGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.DropdownButton.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.InteractiveToggle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.Toggle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/struct.ToggleGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/struct.Calendar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/struct.CalendarState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/struct.IntervalMatcher.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/struct.RangeMatcher.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/chart/struct.AreaChart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/chart/struct.BarChart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/chart/struct.LineChart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/chart/struct.PieChart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/checkbox/struct.Checkbox.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/clipboard/struct.Clipboard.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/clipboard/struct.ClipboardState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/color_picker/struct.ColorPicker.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/color_picker/struct.ColorPickerState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/date_picker/struct.DatePicker.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/date_picker/struct.DatePickerState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/date_picker/struct.DateRangePreset.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/description_list/struct.DescriptionList.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/divider/struct.Divider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.AnyDrag.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.ClosePanel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.Dock.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.DockArea.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.DockAreaState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.DockState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.DragDrop.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.DragMoving.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.DragResizing.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.PanelRegistry.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.PanelState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.Redo.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.StackPanel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.TabPanel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.TileItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.TileMeta.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.Tiles.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.TitleStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.ToggleZoom.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/struct.Undo.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/drawer/struct.Drawer.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/struct.Dropdown.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/struct.DropdownItemGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/struct.DropdownState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/struct.SearchableVec.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/struct.Form.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/struct.FormField.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/group_box/struct.GroupBox.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.Diagnostic.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.DiagnosticSet.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.DiagnosticSummary.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.HighlightTheme.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.HighlightThemeStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.LanguageConfig.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.LanguageRegistry.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.StatusColors.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.SyntaxColors.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.SyntaxHighlighter.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/struct.ThemeStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/history/struct.History.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/indicator/struct.Indicator.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Backspace.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Copy.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Cut.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Delete.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.DeleteToBeginningOfLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.DeleteToEndOfLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.DeleteToNextWordEnd.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.DeleteToPreviousWordStart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Enter.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Escape.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.GoToDefinition.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Indent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.IndentInline.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.InputState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Lsp.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveDown.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveEnd.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveHome.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveLeft.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MovePageDown.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MovePageUp.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveRight.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveToEnd.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveToEndOfLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveToNextWord.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveToPreviousWord.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveToStart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveToStartOfLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.MoveUp.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.NumberInput.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.OtpInput.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.OtpState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Outdent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.OutdentInline.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Paste.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Position.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Redo.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Rope.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Search.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectAll.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectToEnd.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectToEndOfLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectToNextWordEnd.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectToPreviousWordStart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectToStart.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.SelectToStartOfLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Selection.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.ShowCharacterPalette.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.TabSize.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.TextInput.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.ToggleCodeActions.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/struct.Undo.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/label/struct.Label.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/link/struct.Link.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/list/struct.List.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/list/struct.ListItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/list/struct.ListSeparatorItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/struct.AppMenuBar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/context_menu/struct.ContextMenu.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/context_menu/struct.ContextMenuState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/popup_menu/struct.PopupMenu.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/modal/struct.Modal.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/modal/struct.ModalButtonProps.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/notification/struct.Notification.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/notification/struct.NotificationList.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/struct.Axis.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/struct.AxisText.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/struct.Grid.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/label/struct.Label.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/label/struct.Text.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/scale/struct.ScaleBand.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/scale/struct.ScaleLinear.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/scale/struct.ScalePoint.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/shape/struct.Arc.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/shape/struct.Area.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/shape/struct.Bar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/shape/struct.Line.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/shape/struct.Pie.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/tooltip/struct.CrossLine.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/tooltip/struct.Dot.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/tooltip/struct.Tooltip.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/tooltip/struct.TooltipState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/popover/struct.Popover.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/popover/struct.PopoverContent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/popover/struct.PopoverElementState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/popover/struct.PrepaintState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/progress/struct.Progress.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/radio/struct.Radio.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/radio/struct.RadioGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/struct.DragPanel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/struct.ResizablePanel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/struct.ResizablePanelGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/struct.ResizableState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.AxisPrepaintState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.PrepaintState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.ScrollViewState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.Scrollable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.ScrollableMask.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.Scrollbar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.ScrollbarState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/struct.ScrollbarStateInner.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.Sidebar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.SidebarFooter.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.SidebarGroup.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.SidebarHeader.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.SidebarMenu.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.SidebarMenuItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/sidebar/struct.SidebarToggleButton.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/skeleton/struct.Skeleton.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/slider/struct.DragThumb.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/slider/struct.Slider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/slider/struct.SliderState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/switch/struct.Switch.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tab/struct.SelectTab.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tab/struct.Tab.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tab/struct.TabBar.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/struct.Column.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/struct.SelectNextColumn.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/struct.SelectPrevColumn.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/struct.Table.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/struct.VisibleRangeState.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tag/struct.Tag.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/text/struct.TextView.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/text/struct.TextViewStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/struct.Theme.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/struct.ThemeColor.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/struct.ThemeConfig.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/struct.ThemeConfigColors.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/struct.ThemeRegistry.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/struct.ThemeSet.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tooltip/struct.Tooltip.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/alert/enum.AlertVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/enum.ButtonRounded.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/enum.ButtonVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/enum.ToggleVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/enum.CalendarEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/enum.Date.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/calendar/enum.Matcher.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/color_picker/enum.ColorPickerEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/date_picker/enum.DatePickerEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/date_picker/enum.DateRangePresetValue.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/description_list/enum.DescriptionItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/description_list/enum.DescriptionText.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.DockEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.DockItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.DockPlacement.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.PanelControl.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.PanelEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.PanelInfo.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/enum.PanelStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/enum.DropdownEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/enum.ListEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/enum.FieldBuilder.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/group_box/enum.GroupBoxVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/enum.DiagnosticSeverity.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/enum.FontStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/enum.FontWeightContent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/highlighter/enum.Language.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/enum.InputEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/enum.MaskPattern.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/enum.NumberInputEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/enum.StepAction.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/label/enum.HighlightsMatch.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/list/enum.ListEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/notification/enum.NotificationType.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/enum.StrokeStyle.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/tooltip/enum.CrossLineAxis.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/tooltip/enum.TooltipPosition.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/enum.ResizablePanelEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/enum.ScrollbarAxis.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/enum.ScrollbarShow.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/slider/enum.SliderEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/slider/enum.SliderValue.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tab/enum.TabVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/enum.ColumnFixed.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/enum.ColumnSort.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/enum.TableEvent.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/tag/enum.TagVariant.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/text/enum.Text.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/enum.ColorName.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/enum.ThemeMode.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/trait.ButtonVariants.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/button/trait.ToggleVariants.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/trait.Panel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/trait.PanelView.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/trait.DropdownDelegate.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dropdown/trait.DropdownItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/history/trait.HistoryItem.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/trait.CodeActionProvider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/trait.CompletionProvider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/trait.DefinitionProvider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/trait.DocumentColorProvider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/input/trait.HoverProvider.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/list/trait.ListDelegate.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/context_menu/trait.ContextMenuExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/popup_menu/trait.PopupMenuExt.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/trait.Plot.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/scale/trait.Scale.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/scroll/trait.ScrollHandleOffsetable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/table/trait.TableDelegate.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/trait.ActiveTheme.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/trait.Colorize.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/derive.IntoPlot.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/animation/fn.cubic_bezier.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/color_picker/fn.init.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/dock/fn.register_panel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/fn.form_field.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/fn.h_form.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/form/fn.v_form.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/menu/popup_menu/fn.init.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/fn.origin_point.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/plot/fn.polygon.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/fn.h_resizable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/fn.resizable_panel.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/resizable/fn.v_resizable.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/styled_ext_reflection/fn.find_method.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/styled_ext_reflection/fn.methods.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.amber_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.black.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.blue_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.cyan_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.emerald_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.fuchsia_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.gray_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.green_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.hsl.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_900.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.indigo_950.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.init.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_100.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_200.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_300.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_400.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_50.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_500.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_600.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_700.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/gpui-component/latest/gpui_component/theme/fn.lime_800.html</loc>
+  <lastmod>2025-11-04T18:44:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
