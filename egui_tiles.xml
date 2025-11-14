@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/index.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/all.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.Tile.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.Container.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.Tree.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.TileId.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.Tiles.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/trait.Behavior.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.Grid.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.Linear.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.Shares.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.SimplificationOptions.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.TabState.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/struct.Tabs.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.ContainerKind.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.EditAction.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.GridLayout.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.LinearDir.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.ResizeState.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_tiles/latest/egui_tiles/enum.UiResponse.html</loc>
+  <lastmod>2025-11-14T14:56:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
