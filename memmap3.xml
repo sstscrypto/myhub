@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/index.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/all.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/attr.mmap_struct.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapStruct.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapHashMap.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapVec.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapString.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicU64.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicI32.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicBool.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/trait.ByteArrayExt.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.Segmented.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.HashMapIterator.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicI8.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicI16.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicI64.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicIsize.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicU8.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicU16.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicU32.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapAtomicUsize.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.MmapStringArray.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.RecordMeta.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.SegmentedIter.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/struct.SegmentedMarker.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/trait.SegmentedRecord.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/trait.StructLayout.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/features/index.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/prelude/index.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/types/index.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/macro.hashmap_index.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/struct.Mmap.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/struct.MmapMut.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/struct.MmapOptions.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/struct.MmapRaw.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/struct.MmapRawDescriptor.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/struct.RemapOptions.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/enum.Advice.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/enum.UncheckedAdvice.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/trait.MmapAsRawDesc.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/prelude/macro.hashmap_index.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/memmap3/latest/memmap3/prelude/attr.mmap_struct.html</loc>
+  <lastmod>2025-11-24T20:20:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
