@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/index.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/all.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/struct.Lttb.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/struct.LttbBuilder.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/struct.Point.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/enum.Binning.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/enum.LttbError.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/enum.LttbMethod.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.bucket_limits_by_count.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.bucket_limits_by_range.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.extrema_selection.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.find_minmax.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.lttb.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.mean_point_bucket.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.minmaxlttb.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.partition_bounds_by_range.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/fn.partition_limits_by_count.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/minmaxlttb/latest/minmaxlttb/type.Result.html</loc>
+  <lastmod>2025-12-02T20:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
