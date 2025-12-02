@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/index.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/all.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Plot.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Arrows.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.AxisHints.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Bar.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.BarChart.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.BoxElem.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.BoxPlot.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.BoxSpread.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.ClosestElem.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/trait.PlotItem.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.CoordinatesFormatter.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.GridInput.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.GridMark.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.HLine.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.KlinePlot.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Legend.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Line.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotBounds.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotConfig.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotImage.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotItemBase.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotMemory.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotPoint.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotResponse.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotTransform.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.PlotUi.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Points.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Polygon.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.Text.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/struct.VLine.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.Axis.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.ColorConflictHandling.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.Corner.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.Cursor.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.HPlacement.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.LineStyle.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.MarkerShape.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.Orientation.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.Placement.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.PlotGeometry.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.PlotPoints.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/enum.VPlacement.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/fn.color_from_strength.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/fn.format_number.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/fn.log_grid_spacer.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/fn.uniform_grid_spacer.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/egui_plot_bintrade/latest/egui_plot_bintrade/type.LabelFormatter.html</loc>
+  <lastmod>2025-12-02T18:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
