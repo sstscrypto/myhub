@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/all.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/_guide/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/struct.RatelimitedSink.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/struct.RatelimitedStream.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/middleware/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/nanos/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/prelude/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/struct.InsufficientCapacity.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/struct.Jitter.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/struct.NotUntil.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/struct.Quota.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/struct.RateLimiter.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/type.DefaultDirectRateLimiter.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/type.DefaultKeyedRateLimiter.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/struct.FakeRelativeClock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/struct.MonotonicClock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/struct.QuantaClock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/struct.QuantaInstant.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/struct.QuantaUpkeepClock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/struct.SystemClock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/middleware/struct.NoOpMiddleware.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/middleware/struct.StateInformationMiddleware.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/middleware/struct.StateSnapshot.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/nanos/struct.Nanos.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/struct.InMemoryState.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/struct.RateLimiter.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/enum.NotKeyed.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/trait.Clock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/trait.ReasonablyRealtime.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/trait.Reference.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/middleware/trait.RateLimitingMiddleware.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/trait.StateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/trait.DirectStateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/trait.SinkRateLimitExt.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/trait.StreamRateLimitExt.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/trait.KeyedStateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/trait.ShrinkableKeyedStateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/type.DefaultClock.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/type.DashMapStateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/type.DefaultHasher.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/type.DefaultKeyedStateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/type.HashMapStateStore.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/_guide/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/clock/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/middleware/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/nanos/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/prelude/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/index.html</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/direct/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.rs/governor/0.10.1/governor/state/keyed/</loc>
+  <lastmod>2025-12-10T10:56:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
