@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/index.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/all.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.AddOns.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.AddOnsConfig.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.AppBuilder.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.DockingApi.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.DockingConfig.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.DockingController.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.GpuApi.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.RunnerCallbacks.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/struct.RunnerConfig.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/enum.DearAppError.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/enum.RedrawMode.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/enum.Theme.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/fn.run.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/fn.run_simple.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-app/0.6.0/dear_app/fn.run_with_callbacks.html</loc>
+  <lastmod>2025-12-13T22:40:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/all.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.Direction.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/input/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/platform_io/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/button/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/combo/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/drag/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/font/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/glyph/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/glyph_ranges/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/image/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/list_box/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/menu/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/misc/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/plot/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/popup/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/progress/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/selectable/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/slider/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/text/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tooltip/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tree/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.create_token.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.im_str.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.imgui_debug.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.imgui_error.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.imgui_info.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.imgui_trace.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/macro.imgui_warn.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.AngleSlider.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.BackendFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Button.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ButtonFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ClipRectToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Color.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorButton.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorEdit3.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorEdit4.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorEditFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorPicker3.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorPicker4.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColorStackToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ColumnBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ComboBox.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ComboBoxFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ComboBoxToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ConfigFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Context.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DisabledToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Ui.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DockBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DockFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DockNode.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DockNodeFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Drag.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropPayload.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropPayloadEmpty.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropPayloadPod.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropSource.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropSourceTooltip.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragDropTarget.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DragRange.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DrawListMut.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.DummyClipboardBackend.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FocusScopeToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Font.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontAtlas.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontAtlasTexture.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontConfig.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontId.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontLoader.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontLoaderFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.FontStackToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Glyph.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.GlyphRanges.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.GlyphRangesBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.GroupToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.HoveredFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Id.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.IdStackToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ImString.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Image.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ImageButton.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputDouble.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputFloat.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputFloat2.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputFloat3.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputFloat4.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputInt.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputInt2.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputInt3.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputInt4.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputScalar.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputScalarN.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputText.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputTextCallback.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputTextImStr.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputTextMultiline.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputTextMultilineImStr.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.InputTextMultilineWithCb.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Io.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ItemWidthStackToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ListBox.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ListBoxToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ListClipper.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ListClipperIterator.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ListClipperToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.MainMenuBarToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.MenuBarToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.MenuToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ModalPopup.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ModalPopupToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.NodeRect.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.OldColumnFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.PassthroughCallback.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.PayloadIsWrongType.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.PlotHistogram.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.PlotLines.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.PopupFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.PopupToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.ProgressBar.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Selectable.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.SelectableFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.SharedFontAtlas.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Slider.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.SliderFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Style.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.StyleStackToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.SuspendedContext.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TabBar.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TabBarFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TabBarToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TabItem.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TabItemFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TabItemToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableColumnFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableColumnSetup.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableColumnSortSpec.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableHeaderData.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableRowFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableSortSpecs.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableSortSpecsIter.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TableToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TextCallbackData.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TextFilter.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TextWrapPosStackToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TooltipToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TreeNode.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TreeNodeFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.TreeNodeToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.UiBuffer.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.VerticalSlider.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.Window.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.WindowClass.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.WindowFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/struct.WindowToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.Condition.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.FontSource.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.HistoryDirection.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.ImGuiError.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.SortDirection.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.SplitDirection.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.StyleColor.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.StyleVar.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.TableBgTarget.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/enum.TreeNodeId.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/constant.HAS_DOCKING.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/constant.HAS_FREETYPE.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/constant.HAS_WASM.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/constant.VERSION.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/trait.ClipboardBackend.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/trait.ImGuiPlatform.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/trait.ImGuiRenderer.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/trait.InputTextCallbackHandler.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/trait.IntoImGuiError.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/trait.SafeStringConversion.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/fn.dear_imgui_version.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/type.ImGuiResult.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/type.ImStr.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.FontAtlas.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.FontAtlasTexture.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.FontConfig.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.FontId.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.FontLoader.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.FontLoaderFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/struct.SharedFontAtlas.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/button/struct.Button.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/struct.ColorButton.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/struct.ColorEdit3.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/struct.ColorEdit4.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/struct.ColorEditFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/struct.ColorPicker3.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/color/struct.ColorPicker4.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/combo/struct.ComboBox.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/combo/struct.ComboBoxToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/drag/struct.Drag.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/drag/struct.DragRange.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/font/struct.Font.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/glyph/struct.Glyph.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/glyph_ranges/struct.GlyphRanges.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/glyph_ranges/struct.GlyphRangesBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/image/struct.Image.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/image/struct.ImageButton.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/input/struct.InputTextFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/struct.ImVector.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/list_box/struct.ListBox.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/list_box/struct.ListBoxToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/menu/struct.MainMenuBarToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/menu/struct.MenuBarToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/menu/struct.MenuToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/misc/struct.ButtonFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/misc/struct.DisabledToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/platform_io/struct.PlatformIo.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/platform_io/struct.Viewport.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/plot/struct.PlotHistogram.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/plot/struct.PlotLines.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/popup/struct.ModalPopup.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/popup/struct.ModalPopupToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/popup/struct.PopupFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/popup/struct.PopupToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/progress/struct.ProgressBar.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.DrawCmdIterator.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.DrawCmdParams.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.DrawData.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.DrawList.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.DrawListIterator.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.DrawVert.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.OwnedDrawData.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/struct.TextureIterator.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/selectable/struct.Selectable.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/selectable/struct.SelectableFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/slider/struct.AngleSlider.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/slider/struct.Slider.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/slider/struct.SliderFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/slider/struct.VerticalSlider.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/struct.TabBar.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/struct.TabBarFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/struct.TabBarToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/struct.TabItem.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/struct.TabItemFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tab/struct.TabItemToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.ColumnBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableBuilder.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableColumnSetup.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableColumnSortSpec.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableHeaderData.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableRowFlags.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableSortSpecs.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableSortSpecsIter.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/struct.TableToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/struct.TextureData.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/struct.TextureId.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/struct.TextureRect.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/struct.TextureRef.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tooltip/struct.TooltipToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tree/struct.TreeNode.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tree/struct.TreeNodeToken.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/atlas/enum.FontSource.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/input/enum.Key.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/input/enum.MouseButton.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/input/enum.MouseCursor.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/enum.DataType.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/enum.DrawCmd.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/enum.SortDirection.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/table/enum.TableBgTarget.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/enum.TextureFormat.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/enum.TextureStatus.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/tree/enum.TreeNodeId.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/trait.DataTypeKind.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/trait.RawCast.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/trait.RawWrapper.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/fn.imvector_cast_mut.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/internal/fn.imvector_cast_ref.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.init_tracing.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.init_tracing_dev.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.init_tracing_with_filter.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.log_context_created.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.log_context_destroyed.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.log_frame_stats.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.log_memory_usage.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.log_platform_init.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/logging/fn.log_renderer_init.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/fn.create_texture_ref.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/fn.get_format_bytes_per_pixel.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/fn.get_format_name.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/fn.get_status_name.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/type.DrawIdx.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/texture/type.RawTextureId.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/draw_data/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-rs/0.6.0/dear_imgui_rs/render/renderer/index.html</loc>
+  <lastmod>2025-12-13T22:44:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
