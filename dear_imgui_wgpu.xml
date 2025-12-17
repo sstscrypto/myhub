@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/index.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/all.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.FrameResources.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.FrameResourcesStats.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.RenderResources.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.RenderResourcesStats.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.ShaderManager.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.UniformBuffer.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.Uniforms.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.WgpuBackendData.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.WgpuInitInfo.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.WgpuRenderState.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.WgpuRenderer.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.WgpuTexture.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/struct.WgpuTextureManager.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/enum.GammaMode.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/enum.RendererError.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/enum.TextureUpdateResult.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/constant.FS_ENTRY_POINT.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/constant.SHADER_SOURCE.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/constant.VS_ENTRY_POINT.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/fn.create_fragment_state.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/fn.create_vertex_buffer_layout.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/fn.create_vertex_state.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-wgpu/latest/dear_imgui_wgpu/type.RendererResult.html</loc>
+  <lastmod>2025-12-17T19:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

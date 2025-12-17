@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/index.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/all.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/trait.ImGuiReflect.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.input.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/trait.ImGuiReflectExt.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.ReflectSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.MemberSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.input_with_response.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.ReflectResponse.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.with_settings_scope.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/trait.ImGuiValue.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.ArraySettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.BoolSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.MapSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.NumericTypeSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.TupleSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/struct.VecSettings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/enum.BoolStyle.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/enum.NumericRange.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/enum.NumericWidgetKind.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/enum.ReflectEvent.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/enum.TupleRenderMode.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/trait.NumericDefaultRange.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.current_settings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.imgui_array_with_settings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.imgui_btree_map_with_settings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.imgui_hash_map_with_settings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.imgui_tuple_body.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.imgui_vec_with_settings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/fn.with_settings.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-imgui-reflect/latest/dear_imgui_reflect/derive.ImGuiReflect.html</loc>
+  <lastmod>2025-12-17T19:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
