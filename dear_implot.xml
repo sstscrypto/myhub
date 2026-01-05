@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/all.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/trait.Plot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/trait.PlotData.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/enum.PlotError.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar/struct.BarPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar/struct.PositionalBarPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/error_bars/struct.AsymmetricErrorBarsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/error_bars/struct.ErrorBarsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/error_bars/struct.SimpleErrorBarsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/heatmap/struct.HeatmapPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/heatmap/struct.HeatmapPlotF32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/histogram/struct.Histogram2DPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/histogram/struct.HistogramPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/line/struct.LinePlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/line/struct.SimpleLinePlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/pie/struct.PieChartPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/pie/struct.PieChartPlotF32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/scatter/struct.ScatterPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/scatter/struct.SimpleScatterPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/shaded/struct.ShadedBetweenPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/shaded/struct.ShadedPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/shaded/struct.SimpleShadedPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stems/struct.SimpleStemPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stems/struct.StemPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/macro.dummy_plots.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/macro.legend_group.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/macro.plot_text.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.AxisFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.AxisFormatterToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.AxisTransformToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.BarGroupsFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.BarsFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.Context.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.DigitalFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.DragResult.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.DragToolFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.DummyFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.ErrorBarsFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.HeatmapFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.HistogramFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.ImageFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.InfLinesFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.LegendFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.LegendManager.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.LegendToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.LineFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.MultiAxisPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.MultiAxisToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.PieChartFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.PlotContext.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.PlotToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.PlotUi.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.ScatterFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.ShadedFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.StairsFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.StemsFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.StyleColorToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.StyleVarToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.SubplotFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.SubplotGrid.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.SubplotToken.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.TextFlags.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.Ui.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/struct.YAxisConfig.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.BinMethod.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.Colormap.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.LegendLocation.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.Marker.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.PlotColorElement.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.PlotCond.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.PlotLocation.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.PlotOrientation.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.StyleVar.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.XAxis.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.YAxis.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/enum.YAxisChoice.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/trait.ImPlotExt.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.add_colormap.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.annotation_point.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.colormap_button.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.colormap_scale.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.colormap_slider.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.drag_line_x.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.drag_line_y.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.drag_point.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_draw_list.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_limits.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_limits_axes.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_mouse_position.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_mouse_position_axes.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_pos.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_selection_axes.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.get_plot_size.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_axis_hovered.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_legend_entry_hovered.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_plot_hovered.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_plot_selected.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_plot_x_axis_hovered.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_plot_x_axis_hovered_axis.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_plot_y_axis_hovered.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_plot_y_axis_hovered_axis.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.is_subplots_hovered.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.map_input_default.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.map_input_reverse.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.pixels_to_plot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.pixels_to_plot_axes.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.plot_to_pixels.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.plot_to_pixels_axes.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.pop_colormap.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.pop_plot_clip_rect.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.push_colormap.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.push_plot_clip_rect.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.push_style_color.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.push_style_var_f32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.push_style_var_i32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.push_style_var_vec2.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_colormap_selector.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_demo_window.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_input_map_selector.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_metrics_window.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_style_editor.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_style_selector.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.show_user_guide.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.tag_x.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/fn.tag_y.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/type.ImPlotPoint.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/type.ImPlotRange.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/type.ImPlotRect.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/type.ImTextureID.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/type.ImVec2.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/type.ImVec4.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/struct.PlotBuilder.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar_groups/struct.BarGroupsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar_groups/struct.BarGroupsPlotF32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar_groups/struct.SimpleBarGroupsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/digital/struct.BooleanDigitalPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/digital/struct.DigitalPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/digital/struct.DigitalPlotF32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/digital/struct.SimpleDigitalPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/struct.CustomLegendEntry.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/struct.DummyPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/struct.LegendGroup.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/struct.LegendHeader.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/struct.LegendSeparator.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/struct.MultiDummyPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/image/struct.ImagePlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/inf_lines/struct.InfLinesPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stairs/struct.SimpleStairsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stairs/struct.StairsPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stairs/struct.StairsPlotF32.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/text/struct.FormattedTextPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/text/struct.MultiTextPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/text/struct.TextAnnotation.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/text/struct.TextPlot.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/enum.PlotType.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/fn.safe_cstring.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/fn.validate_data_lengths.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/error_bars/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/heatmap/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/histogram/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/line/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/pie/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/scatter/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/shaded/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stems/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/bar_groups/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/digital/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/dummy/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/image/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/inf_lines/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/stairs/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/dear-implot/0.7.0/dear_implot/plots/text/index.html</loc>
+  <lastmod>2026-01-05T20:22:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
