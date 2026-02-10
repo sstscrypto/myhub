@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/all.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/account/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/balance/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/bid_ask/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/currency/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/default_type/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/endpoint/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fee/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/financial/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/funding_rate/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ledger/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/mark_price/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market_data/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ohlcv/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ohlcv_request/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order_request/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/orderbook/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/position/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/risk/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/symbol/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ticker/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ticker_params/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trade/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/transaction/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/transfer/index.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.AccountConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.AggTrade.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Amount.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BackoffConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BackoffStrategy.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Balance.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BalanceEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BalanceParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BaseExchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BatchCancelResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BatchOrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BatchOrderResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BatchOrderUpdate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Binance.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BinanceBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Bitget.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BitgetBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BorrowInterest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BorrowRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Bybit.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.BybitBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CancelAllOrdersResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CancelReplaceResponse.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CancellationToken.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CircuitBreaker.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CircuitBreakerConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CommissionRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Cost.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Currency.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.CurrencyNetwork.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Decimal.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.DepositAddress.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.DepositWithdrawFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.ExchangeCapabilities.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.ExchangeConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.ExchangeConfigBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.ExpiryDate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Fee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FeeFundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FeeFundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FeeTradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FundingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FundingHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.FundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.HttpClient.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.HttpConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.HyperLiquid.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.HyperLiquidBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.IndexPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.IsolatedBorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.LastPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.LedgerEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Leverage.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.LeverageParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.LeverageTier.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Liquidation.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.LogConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarginAdjustment.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarginLoan.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarginRepay.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarkPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Market.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarketBidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarketCache.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarketLimits.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MarketPrecision.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MaxBorrowable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MaxLeverage.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MaxTransferable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MinMax.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.MultiTierRateLimiter.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.NetworkInfo.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.NextFundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OHLCV.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OcoOrder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OcoOrderInfo.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Ohlcv.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OhlcvParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OhlcvRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OhlcvRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Okx.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OkxBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OpenInterest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OpenInterestHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Order.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderBook.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderBookDelta.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderBookEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderBookParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderReport.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.OrderRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.ParsedSymbol.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Position.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.PremiumIndex.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Price.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.RateLimiter.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.RateLimiterConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.RetryConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.RetryStrategy.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.ServerTime.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Stats24hr.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Subscription.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.SubscriptionManager.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.SymbolFormatter.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.SymbolParser.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Ticker.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.TickerParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.TickerParamsBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Trade.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.TradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.TradingLimits.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Transaction.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.TransactionFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.Transfer.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.TransferParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.WithdrawParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.WsClient.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.WsConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.WsError.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.WsStats.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/struct.WsStatsSnapshot.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.AccountType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.CircuitState.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.ContractType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.CountingMode.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.DefaultSubType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.DefaultType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.DefaultTypeError.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.DigestFormat.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.EndpointType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.Error.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.HashAlgorithm.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.LedgerDirection.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.LedgerEntryType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.LogFormat.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.LogLevel.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.MarginType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.MarketType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.OrderSide.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.OrderStatus.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.OrderType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.PaddingMode.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.PositionSide.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.PrecisionMode.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.PriceType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.RetryStrategyType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.RoundingMode.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.SymbolError.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.SymbolMarketType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.TakerOrMaker.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.TimeInForce.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.Timeframe.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.TransactionStatus.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.TransactionType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.TransferType.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.WsConnectionState.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.WsErrorKind.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.WsEvent.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/enum.WsMessage.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/constant.DEFAULT_MAX_SUBSCRIPTIONS.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/constant.DEFAULT_SHUTDOWN_TIMEOUT.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/constant.VERSION.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.ContextExt.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.Deserialize.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.ErrorContext.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.Exchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.ExchangeExt.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.FullExchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.IntoTickerParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.Serialize.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/trait.WsExchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.base64_to_base64url.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.base64url_decode.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.decimal_to_precision.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.eddsa_sign.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.hash.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.hmac_sign.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.init_logging.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.iso8601.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.jwt_sign.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.microseconds.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.milliseconds.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.number_to_string.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.parse_date.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.parse_iso8601.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.precision_from_string.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.resolve_market_type.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.seconds.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.try_init_logging.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.ymd.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.ymdhms.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.yymmdd.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fn.yyyymmdd.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.ArcExchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.BoxedExchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.MarginMode.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.MessageStream.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.OrderBookSide.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.Result.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.Symbol.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/type.Timestamp.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/derive.Deserialize.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/derive.Serialize.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/account/struct.AccountConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/account/struct.CommissionRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/balance/struct.Balance.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/balance/struct.BalanceEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/balance/struct.MaxBorrowable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/balance/struct.MaxTransferable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/bid_ask/struct.BidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/currency/struct.Currency.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/currency/struct.CurrencyNetwork.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/currency/struct.MinMax.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fee/struct.FundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fee/struct.FundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fee/struct.LeverageTier.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/fee/struct.TradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/financial/struct.Amount.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/financial/struct.Cost.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/financial/struct.Price.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/funding_rate/struct.FundingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/funding_rate/struct.FundingHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/funding_rate/struct.FundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/funding_rate/struct.FundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/funding_rate/struct.NextFundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ledger/struct.LedgerEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.BorrowInterest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.BorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.BorrowRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.IsolatedBorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.MarginAdjustment.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.MarginLoan.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/margin/struct.MarginRepay.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/mark_price/struct.MarkPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.BidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.LastPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.Market.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.MarketLimits.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.MarketPrecision.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.ServerTime.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.Stats24hr.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market/struct.TradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market_data/struct.IndexPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market_data/struct.Liquidation.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/market_data/struct.PremiumIndex.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ohlcv/struct.OHLCV.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ohlcv_request/struct.OhlcvRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/ohlcv_request/struct.OhlcvRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.BatchCancelResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.BatchOrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.BatchOrderResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.BatchOrderUpdate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.CancelAllOrdersResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.CancelReplaceResponse.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.OcoOrder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.OcoOrderInfo.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.Order.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.OrderBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order/struct.OrderReport.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order_request/struct.Missing.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order_request/struct.OrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order_request/struct.OrderRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/order_request/struct.Set.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/orderbook/struct.OrderBook.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/orderbook/struct.OrderBookDelta.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/orderbook/struct.OrderBookEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.BalanceParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.LeverageParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.OhlcvParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.OrderBookParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.OrderParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.TransferParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/params/struct.WithdrawParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/position/struct.Leverage.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/position/struct.Position.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.AccountConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.AggTrade.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Amount.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BackoffConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BackoffStrategy.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Balance.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BalanceEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BalanceParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BaseExchange.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BatchCancelResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BatchOrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BatchOrderResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BatchOrderUpdate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Binance.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BinanceBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Bitget.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BitgetBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BorrowInterest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BorrowRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Bybit.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.BybitBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CancelAllOrdersResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CancelReplaceResponse.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CancellationToken.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CircuitBreaker.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CircuitBreakerConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CommissionRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Cost.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Currency.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.CurrencyNetwork.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Decimal.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.DepositAddress.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.DepositWithdrawFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.ExchangeCapabilities.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.ExchangeConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.ExchangeConfigBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.ExpiryDate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Fee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FeeFundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FeeFundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FeeTradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FundingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FundingHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.FundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.HttpClient.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.HttpConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.HyperLiquid.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.HyperLiquidBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.IndexPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.IsolatedBorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.LastPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.LedgerEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Leverage.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.LeverageParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.LeverageTier.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Liquidation.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.LogConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarginAdjustment.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarginLoan.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarginRepay.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarkPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Market.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarketBidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarketCache.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarketLimits.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MarketPrecision.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MaxBorrowable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MaxLeverage.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MaxTransferable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MinMax.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.MultiTierRateLimiter.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.NetworkInfo.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.NextFundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OHLCV.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OcoOrder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OcoOrderInfo.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Ohlcv.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OhlcvParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OhlcvRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OhlcvRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Okx.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OkxBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OpenInterest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OpenInterestHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Order.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderBook.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderBookDelta.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderBookEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderBookParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderReport.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.OrderRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.ParsedSymbol.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Position.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.PremiumIndex.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Price.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.RateLimiter.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.RateLimiterConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.RetryConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.RetryStrategy.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.ServerTime.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Stats24hr.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Subscription.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.SubscriptionManager.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.SymbolFormatter.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.SymbolParser.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Ticker.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.TickerParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.TickerParamsBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Trade.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.TradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.TradingLimits.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.TransactionFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.Transfer.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.TransferParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.WithdrawParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.WsClient.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.WsConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.WsError.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.WsStats.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/struct.WsStatsSnapshot.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/account/struct.AccountConfig.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/account/struct.CommissionRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/balance/struct.Balance.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/balance/struct.BalanceEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/balance/struct.MaxBorrowable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/balance/struct.MaxTransferable.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/bid_ask/struct.BidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/currency/struct.Currency.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/currency/struct.CurrencyNetwork.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/currency/struct.MinMax.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/fee/struct.FundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/fee/struct.FundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/fee/struct.LeverageTier.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/fee/struct.TradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/financial/struct.Amount.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/financial/struct.Cost.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/financial/struct.Price.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/funding_rate/struct.FundingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/funding_rate/struct.FundingHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/funding_rate/struct.FundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/funding_rate/struct.FundingRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/funding_rate/struct.NextFundingRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/ledger/struct.LedgerEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.BorrowInterest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.BorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.BorrowRateHistory.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.IsolatedBorrowRate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.MarginAdjustment.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.MarginLoan.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/margin/struct.MarginRepay.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/mark_price/struct.MarkPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.BidAsk.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.LastPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.Market.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.MarketLimits.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.MarketPrecision.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.ServerTime.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.Stats24hr.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market/struct.TradingFee.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market_data/struct.IndexPrice.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market_data/struct.Liquidation.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/market_data/struct.PremiumIndex.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/ohlcv/struct.OHLCV.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/ohlcv_request/struct.OhlcvRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/ohlcv_request/struct.OhlcvRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.BatchCancelResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.BatchOrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.BatchOrderUpdate.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.CancelAllOrdersResult.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.CancelReplaceResponse.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.OcoOrder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.OcoOrderInfo.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.Order.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.OrderBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order/struct.OrderReport.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order_request/struct.Missing.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order_request/struct.OrderRequest.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order_request/struct.OrderRequestBuilder.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/order_request/struct.Set.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/orderbook/struct.OrderBook.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/orderbook/struct.OrderBookDelta.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/orderbook/struct.OrderBookEntry.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/ccxt-rust/latest/ccxt_rust/prelude/params/struct.BalanceParams.html</loc>
+  <lastmod>2026-02-10T10:59:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
