@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/all.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXInstrumentType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXOrderType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXPositionMode.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXPositionSide.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXSide.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/models/struct.OKXInstrument.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/execution/struct.OKXExecutionClient.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/client/struct.OKXHttpClient.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/error/enum.OKXHttpError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/struct.OKXWebSocketClient.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/error/enum.OKXWsError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/config/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/data/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/execution/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/factories/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/credential/struct.Credential.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXAccountModeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXAlgoOrderStatusIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXAlgoOrderTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXBarSizeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXBookActionIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXCandleConfirmIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXContractTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXExecTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXInstrumentStatusIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXInstrumentTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXMarginModeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXOptionTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXOrderCategoryIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXOrderStatusIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXOrderTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXPositionModeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXPositionSideIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXSelfTradePreventionModeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXSideIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXTakeProfitKindIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXTargetCurrencyIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXTradeModeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXTransactionTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXTriggerTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/struct.OKXVipLevelIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/config/struct.OKXDataClientConfig.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/config/struct.OKXExecClientConfig.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/data/struct.OKXDataClient.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/factories/struct.OKXDataClientFactory.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/factories/struct.OKXExecutionClientFactory.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/client/struct.OKXRawHttpClient.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/client/struct.OKXResponse.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/error/struct.OKXErrorMessage.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/error/struct.OKXErrorResponse.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXAccount.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXBalanceDetail.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXCancelAlgoOrderRequest.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXCancelAlgoOrderResponse.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXCandlestick.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXIndexTicker.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXMarkPrice.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXOrderAlgo.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXOrderHistory.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXPlaceAlgoOrderRequest.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXPlaceAlgoOrderResponse.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXPlaceOrderResponse.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXPosition.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXPositionHistory.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXPositionTier.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXServerTime.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXTrade.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/struct.OKXTransactionDetail.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetAlgoOrdersParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetAlgoOrdersParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetCandlesticksParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetCandlesticksParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetIndexTickerParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetIndexTickerParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetInstrumentsParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetInstrumentsParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetMarkPriceParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetMarkPriceParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetOrderHistoryParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetOrderHistoryParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetOrderListParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetOrderListParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetOrderParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetPositionTiersParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetPositionTiersParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetPositionsHistoryParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetPositionsHistoryParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetPositionsParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetPositionsParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetTradeFeeParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetTradeFeeParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetTradesParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetTradesParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetTransactionDetailsParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.GetTransactionDetailsParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.SetPositionModeParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/struct.SetPositionModeParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/struct.OKXSubscriptionEventIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/struct.OKXWsChannelIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/struct.OKXWsErrorTypeIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/struct.OKXWsOperationIter.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXAlgoOrderMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXAuthentication.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXAuthenticationArg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXBookMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXCandleMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXEstimatedPriceMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXFundingRateMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXIndexPriceMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXMarkPriceMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXOpenInterestMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXOptionSummaryMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXOrderMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXPriceLimitMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXStatusMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXSubscription.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXSubscriptionArg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXTickerMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXTradeMsg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXWebSocketArg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXWebSocketError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OKXWsRequest.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.OrderBookEntry.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsAmendOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsAmendOrderParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsCancelAlgoOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsCancelAlgoOrderParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsCancelOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsCancelOrderParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsMassCancelParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsMassCancelParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsPostAlgoOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsPostAlgoOrderParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsPostOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/struct.WsPostOrderParamsBuilder.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/struct.OrderStateSnapshot.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXAccountMode.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXAlgoOrderStatus.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXAlgoOrderType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXBarSize.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXBookAction.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXBookChannel.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXCandleConfirm.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXContractType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXExecType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXInstrumentStatus.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXMarginMode.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXOptionType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXOrderCategory.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXOrderStatus.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXSelfTradePreventionMode.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXTakeProfitKind.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXTargetCurrency.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXTradeMode.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXTransactionType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXTriggerType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/enum.OKXVipLevel.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/enum.OKXEndpointType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/error/enum.BuildError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetAlgoOrdersParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetIndexTickerParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetInstrumentsParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetMarkPriceParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetOrderHistoryParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetOrderListParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetOrderParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetPositionTiersParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetPositionsHistoryParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetPositionsParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetTradeFeeParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetTradesParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.GetTransactionDetailsParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/enum.SetPositionModeParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/enum.OKXSubscriptionEvent.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/enum.OKXWsChannel.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/enum.OKXWsErrorType.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/enum.OKXWsOperation.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/handler/enum.HandlerCommand.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/handler/enum.PendingOrderParams.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.ExecutionReport.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.NautilusWsMessage.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.OKXWsMessage.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.WsAmendOrderParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.WsCancelAlgoOrderParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.WsCancelOrderParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.WsMassCancelParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.WsPostAlgoOrderParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/enum.WsPostOrderParamsBuilderError.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/enum.ParsedOrderEvent.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/fn.should_retry_error_code.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/fn.conditional_order_to_algo_type.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/fn.is_conditional_order.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.bar_spec_as_okx_channel.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.bar_spec_as_okx_mark_price_channel.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.bar_spec_as_okx_timeframe.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.deserialize_empty_string_as_none.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.deserialize_empty_ustr_as_none.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.deserialize_optional_string_to_u64.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.deserialize_string_to_u64.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.deserialize_target_currency_as_none.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.deserialize_vip_level.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.determine_order_type.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.is_market_price.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.okx_bar_type_from_timeframe.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.okx_channel_to_bar_spec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.okx_instrument_type.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.okx_instrument_type_from_symbol.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.okx_timeframe_as_bar_spec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_account_state.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_aggressor_side.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_base_quote_from_symbol.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_candlestick.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_client_order_id.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_execution_type.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_fee.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_fee_currency.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_fill_report.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_funding_rate_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_futures_instrument.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_index_price_update.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_instrument_any.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_instrument_id.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_mark_price_update.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_message_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_millisecond_timestamp.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_option_instrument.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_order_status_report.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_position_side.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_position_status_report.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_price.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_quantity.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_rfc3339_timestamp.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_spot_instrument.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_spot_margin_position_from_balance.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_swap_instrument.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/fn.parse_trade_tick.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.get_http_base_url.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.get_ws_base_url.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.get_ws_base_url_business.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.get_ws_base_url_private.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.get_ws_base_url_public.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.get_ws_url.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/fn.requires_authentication.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/fn.okx.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/urls/fn.get_okx_http_base_url.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/urls/fn.get_okx_ws_url_business.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/urls/fn.get_okx_ws_url_private.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/urls/fn.get_okx_ws_url_public.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/urls/fn.okx_requires_authentication.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/websocket/fn.call_python.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/handler/fn.is_post_only_rejection.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_algo_order_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_algo_order_status_report.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_book10_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_book10_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_book_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_book_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_candle_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_candle_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_fill_report.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_funding_rate_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_index_price_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_index_price_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_mark_price_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_mark_price_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_order_event.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_order_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_order_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_order_status_report.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_quote_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_quote_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_ticker_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_ticker_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_trade_msg.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_trade_msg_vec.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/fn.parse_ws_message_data.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/static.OKX_RETRY_ERROR_CODES.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/static.OKX_VENUE.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/client/static.OKX_REST_QUOTA.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/static.OKX_WS_CONNECTION_QUOTA.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/static.OKX_WS_ORDER_QUOTA.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/static.OKX_WS_SUBSCRIPTION_QUOTA.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_CONDITIONAL_ORDER_TYPES.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_HTTP_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_NAUTILUS_BROKER_ID.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_POST_ONLY_CANCEL_REASON.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_POST_ONLY_CANCEL_SOURCE.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_POST_ONLY_ERROR_CODE.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_SUPPORTED_ORDER_TYPES.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_SUPPORTED_TIME_IN_FORCE.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_TARGET_CCY_BASE.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_TARGET_CCY_QUOTE.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_BUSINESS_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_DEMO_BUSINESS_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_DEMO_PRIVATE_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_DEMO_PUBLIC_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_PRIVATE_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_PUBLIC_URL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/constant.OKX_WS_TOPIC_DELIMITER.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/constant.OKX_RATE_LIMIT_KEY_AMEND.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/constant.OKX_RATE_LIMIT_KEY_CANCEL.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/constant.OKX_RATE_LIMIT_KEY_ORDER.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/constant.OKX_RATE_LIMIT_KEY_SUBSCRIPTION.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/enums/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/models/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/client/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/error/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/client/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/error/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/consts/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/credential/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/parse/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/common/urls/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/models/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/parse/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/http/query/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/enums/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/http/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/models/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/urls/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/python/websocket/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/enums/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/handler/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/messages/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/parse/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.rs/nautilus-okx/latest/nautilus_okx/websocket/subscription/index.html</loc>
+  <lastmod>2026-02-12T23:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
