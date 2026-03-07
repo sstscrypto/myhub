@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/about/what-why.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/about/repo-info.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/tutorials/dpg-structure.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/tutorials/item-usage.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/render-loop.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/viewport.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/primary-window.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/io-handlers-state.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/item-creation.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/item-id-system.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/item-configuration.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/item-callbacks.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/item-value.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/container-context-manager.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/container-slots.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/container-stack.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/drawing-api.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/file-directory-selector.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/filter-set.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/fonts.html</loc>
+  <lastmod>2026-03-02T18:10:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/init-files.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/menus.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/node-editor.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/plots.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/popups.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/simple-plots.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/staging.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/tables.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/textures.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/themes.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/documentation/tooltips.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/reference/dearpygui.html</loc>
+  <lastmod>2026-03-02T18:10:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/extra/showcase.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/extra/video-tutorials.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/extra/glossary.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/index.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/_modules/dearpygui/dearpygui.html</loc>
+  <lastmod>2026-03-02T18:10:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dearpygui.readthedocs.io/en/latest/_modules/index.html</loc>
+  <lastmod>2026-02-04T02:29:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
